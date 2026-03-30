@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Sarah Mitchell",
+    "title": "Director of Events",
+    "company": "Apex Trade Solutions",
+    "quote": "I'll be honest — we'd been burned by staffing agencies before. People who showed up late, couldn't talk about the product, or just stood around on their phones. When we tried RentHuman for our CES booth last January, the difference was night and day. All 12 ambassadors arrived early, knew our pitch cold, and actually engaged people walking by. We pulled in 340 qualified leads in three days. Already booked them for two more shows this year.",
+    "service": "brand-ambassadors",
+    "city": "Las Vegas",
+    "rating": 5
+  },
+  {
+    "name": "James Rodriguez",
+    "title": "VP of Marketing",
+    "company": "Clearwater Dynamics",
+    "quote": "Five days. That's all the notice we gave RentHuman for a 15-person product launch at Javits Center. I fully expected to get a B-team, but every single person they sent knew our brand story and could demo the product without fumbling. Our CMO pulled me aside at the end of day one and said 'where have these people been hiding?' That's when I knew we found our staffing partner.",
+    "service": "product-launches",
+    "city": "New York",
+    "rating": 5
+  },
+  {
+    "name": "Lauren Chen",
+    "title": "Event Operations Manager",
+    "company": "Pinnacle Event Group",
+    "quote": "Registration for 12,000 attendees is a logistical nightmare, full stop. Our previous provider had lines wrapping around the building. RentHuman's team cut average check-in time by about 30 percent — I actually timed it. But what really stood out was how they handled the stressed-out VIPs who couldn't find their badges. Calm, professional, problem-solved on the spot. That stuff doesn't show up in metrics but it's everything.",
+    "service": "registration-staff",
+    "city": "Chicago",
+    "rating": 5
+  },
+  {
+    "name": "David Okonkwo",
+    "title": "Trade Show Manager",
+    "company": "Sterling Industrial Corp",
+    "quote": "Look, trade show booth staff can make or break your ROI. I've seen too many agencies send people who just hand out brochures like robots. RentHuman's team actually qualified leads for us — asked the right questions, identified decision-makers, and flagged the hot prospects. Our sales team closed two deals directly from conversations that started on the show floor. That never happened before.",
+    "service": "trade-show-staff",
+    "city": "Orlando",
+    "rating": 5
+  },
+  {
+    "name": "Michelle Torres",
+    "title": "Senior Event Planner",
+    "company": "Verdant Hospitality Partners",
+    "quote": "We do high-end corporate galas across the Southeast — the kind where a server spilling a drink makes the CEO's assistant email you at midnight. RentHuman gets it. Their people show up polished, they read the room, and guests genuinely think they're our full-time staff. One client actually tried to poach two of them, which I guess is the ultimate compliment.",
+    "service": "corporate-events",
+    "city": "Atlanta",
+    "rating": 5
+  },
+  {
+    "name": "Robert Kessler",
+    "title": "Chief Marketing Officer",
+    "company": "NovaBridge Technologies",
+    "quote": "We needed product demonstrators for CES who could walk C-level execs through a complex SaaS platform without sounding like they were reading a script. RentHuman found people who actually understood the tech — one guy had a CS degree and asked us questions during training that improved our own demo flow. We closed three enterprise deals at the show. Three. The ROI on their staffing fee was absurd.",
+    "service": "product-demonstrators",
+    "city": "Las Vegas",
+    "rating": 5
+  },
+  {
+    "name": "Amanda Patel",
+    "title": "Field Marketing Director",
+    "company": "Ridgeline Consumer Brands",
+    "quote": "We've done over 200 in-store sampling events with RentHuman across the West Coast. What I appreciate is consistency — whether it's a Whole Foods in Portland or a Costco in San Diego, the quality doesn't drop off. Their brand ambassadors know how to read a customer, figure out what matters to them, and adjust the pitch. Our trial-to-purchase conversion is 22% above the category average on events they staff.",
+    "service": "brand-ambassadors",
+    "city": "Los Angeles",
+    "rating": 5
+  },
+  {
+    "name": "Kevin Walsh",
+    "title": "Conference Director",
+    "company": "Meridian Health Conferences",
+    "quote": "Medical conferences have specific requirements most agencies don't understand. We needed bilingual registration teams who could handle HIPAA-adjacent attendee data without batting an eye. RentHuman trained their staff on our compliance protocols and they executed flawlessly. No data incidents, no privacy concerns. For healthcare events, they're the only agency I'll call.",
+    "service": "conference-staff",
+    "city": "San Diego",
+    "rating": 5
+  },
+  {
+    "name": "Natalie Freeman",
+    "title": "Experiential Marketing Manager",
+    "company": "Skyward Creative Agency",
+    "quote": "The pop-up activation team RentHuman put together for our Austin SxSW event was incredible. They had this infectious energy that drew people in, but they never went off-brand. And the UGC they helped generate? 150% above our KPI. My creative director was practically giddy reviewing the content. We've already locked them in for our next three activations.",
+    "service": "experiential-marketing",
+    "city": "Austin",
+    "rating": 5
+  },
+  {
+    "name": "Marcus Johnson",
+    "title": "Stadium Operations Director",
+    "company": "Titan Sports Management",
+    "quote": "Game day hospitality in corporate suites is a different beast. Guests are high-net-worth, they're used to excellent service, and they notice every little thing. RentHuman's staff anticipate needs before anyone has to ask — refilling drinks, clearing plates, knowing when to engage and when to disappear. Three of our biggest sponsors specifically mentioned the service quality in their renewal conversations.",
+    "service": "hospitality-staff",
+    "city": "Dallas",
+    "rating": 5
+  },
+  {
+    "name": "Jessica Huang",
+    "title": "Event Marketing Lead",
+    "company": "Catalyst Venture Partners",
+    "quote": "We hired RentHuman for demo staff at TechCrunch Disrupt, which is basically trial by fire. Every person they sent could walk through our entire platform demo without a hiccup — and these were people who learned our product in two days. They collected 800+ qualified leads over the event. Our internal sales team couldn't have done it better, and I mean that.",
+    "service": "product-demonstrators",
+    "city": "San Francisco",
+    "rating": 5
+  },
+  {
+    "name": "Thomas Brennan",
+    "title": "National Events Manager",
+    "company": "Heritage Financial Services",
+    "quote": "Financial services conferences in DC are buttoned-up affairs. You need people who look sharp and can hold a conversation with a managing director without freezing up. RentHuman's team was so good that our CEO personally thanked me for 'finding staff who represent our values.' I just smiled and took the credit. But seriously — they made me look like a hero.",
+    "service": "brand-ambassadors",
+    "city": "Washington",
+    "rating": 5
+  },
+  {
+    "name": "Emily Strauss",
+    "title": "Brand Experience Director",
+    "company": "Forge & Frame Marketing",
+    "quote": "We ran a 30-city mobile tour and RentHuman sourced local talent in every single market. Not one no-show across the entire program. Every person arrived prepared, energized, and on-brand. Before them, multi-city tours were our biggest operational headache. Now it's honestly the smoothest part of our campaigns. I don't say that lightly.",
+    "service": "mobile-tours",
+    "city": "Denver",
+    "rating": 5
+  },
+  {
+    "name": "Antonio Reyes",
+    "title": "Festival Operations Director",
+    "company": "Lone Star Festival Group",
+    "quote": "Staffing a 50,000-person music festival over three days is chaos management. RentHuman provided over 100 team members — wristband scanning, VIP hospitality, parking, the works. Zero no-shows. Zero complaints from attendees about staff interactions. In festival operations, zero complaints IS the metric. They crushed it.",
+    "service": "festival-staff",
+    "city": "Austin",
+    "rating": 5
+  },
+  {
+    "name": "Diana Voss",
+    "title": "Regional Marketing Manager",
+    "company": "Cornerstone Retail Group",
+    "quote": "Grand openings live or die by the energy of the street team. RentHuman's people genuinely enjoy what they do — you can tell the difference between someone who's there for a paycheck and someone who actually wants to hype up a crowd. Our last three store openings in the Midwest had first-day foot traffic 35% above projections. That's not a coincidence.",
+    "service": "street-teams",
+    "city": "Minneapolis",
+    "rating": 5
+  },
+  {
+    "name": "Monica Chambers",
+    "title": "Executive Event Planner",
+    "company": "Elara Event Consultants",
+    "quote": "Fifteen years in events, agencies in every major city — RentHuman is the only staffing partner I recommend without any caveats. Their vetting process is thorough, their training is real (not just a PDF they email the night before), and their day-of coordination is best in class. They've genuinely changed what I expect from event staffing.",
+    "service": "event-management",
+    "city": "Phoenix",
+    "rating": 5
+  }
+]

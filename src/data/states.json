@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Alabama",
+    "abbr": "AL",
+    "slug": "alabama",
+    "majorCities": ["birmingham", "huntsville", "montgomery", "mobile", "tuscaloosa"],
+    "description": "Alabama's growing event scene spans corporate conferences in Birmingham to college sporting events in Tuscaloosa. The state offers a robust staffing market driven by automotive manufacturing, aerospace, and a vibrant hospitality industry.",
+    "region": "Southeast",
+    "metaTitle": "Event Staffing in Alabama | RentHuman",
+    "metaDescription": "Professional event staffing services across Alabama. Experienced brand ambassadors, promotional models, and event staff in Birmingham, Huntsville, and more."
+  },
+  {
+    "name": "Alaska",
+    "abbr": "AK",
+    "slug": "alaska",
+    "majorCities": ["anchorage", "fairbanks", "juneau"],
+    "description": "Alaska's unique tourism and energy industries drive a specialized event staffing market. From outdoor expos in Anchorage to cruise ship events and corporate retreats, skilled event staff are in high demand across the Last Frontier.",
+    "region": "West",
+    "metaTitle": "Event Staffing in Alaska | RentHuman",
+    "metaDescription": "Reliable event staffing solutions in Alaska. Hire trained brand ambassadors and event professionals in Anchorage, Fairbanks, Juneau, and throughout the state."
+  },
+  {
+    "name": "Arizona",
+    "abbr": "AZ",
+    "slug": "arizona",
+    "majorCities": ["phoenix", "tucson", "scottsdale", "mesa", "tempe", "chandler"],
+    "description": "Arizona is a premier destination for large-scale conferences, trade shows, and sporting events. The Phoenix metro area alone hosts hundreds of major events annually, creating year-round demand for professional event staffing talent.",
+    "region": "Southwest",
+    "metaTitle": "Event Staffing in Arizona | RentHuman",
+    "metaDescription": "Top-tier event staffing in Arizona. Skilled brand ambassadors, trade show staff, and promotional teams in Phoenix, Scottsdale, Tucson, and across the state."
+  },
+  {
+    "name": "Arkansas",
+    "abbr": "AR",
+    "slug": "arkansas",
+    "majorCities": ["little-rock", "fayetteville", "fort-smith", "bentonville"],
+    "description": "Arkansas blends Southern hospitality with a growing corporate event landscape, anchored by major retailers headquartered in Bentonville. The state's event staffing market supports everything from product launches to outdoor festivals and trade shows.",
+    "region": "Southeast",
+    "metaTitle": "Event Staffing in Arkansas | RentHuman",
+    "metaDescription": "Dependable event staffing in Arkansas. Professional brand ambassadors and event teams available in Little Rock, Bentonville, Fayetteville, and statewide."
+  },
+  {
+    "name": "California",
+    "abbr": "CA",
+    "slug": "california",
+    "majorCities": ["los-angeles", "san-francisco", "san-diego", "sacramento", "san-jose", "anaheim", "oakland", "long-beach"],
+    "description": "California is the nation's largest event staffing market, fueled by the entertainment, technology, and fashion industries. From CES-adjacent activations in LA to tech summits in San Francisco, the Golden State demands world-class event professionals year-round.",
+    "region": "West",
+    "metaTitle": "Event Staffing in California | RentHuman",
+    "metaDescription": "Premier event staffing across California. Elite brand ambassadors, promo models, and event staff in Los Angeles, San Francisco, San Diego, and beyond."
+  },
+  {
+    "name": "Colorado",
+    "abbr": "CO",
+    "slug": "colorado",
+    "majorCities": ["denver", "colorado-springs", "aurora", "boulder", "fort-collins"],
+    "description": "Colorado's thriving tech sector and outdoor lifestyle culture create a dynamic event staffing market. Denver is a top convention destination, while ski resorts and outdoor venues host experiential activations throughout the year.",
+    "region": "West",
+    "metaTitle": "Event Staffing in Colorado | RentHuman",
+    "metaDescription": "Professional event staffing in Colorado. Experienced brand ambassadors and promotional staff in Denver, Boulder, Colorado Springs, and across the state."
+  },
+  {
+    "name": "Connecticut",
+    "abbr": "CT",
+    "slug": "connecticut",
+    "majorCities": ["hartford", "new-haven", "stamford", "bridgeport"],
+    "description": "Connecticut's proximity to New York City and Boston makes it a strategic location for corporate events and product launches. The state's affluent market supports premium experiential activations, galas, and industry conferences.",
+    "region": "Northeast",
+    "metaTitle": "Event Staffing in Connecticut | RentHuman",
+    "metaDescription": "Expert event staffing in Connecticut. Polished brand ambassadors and event professionals in Hartford, Stamford, New Haven, and throughout the state."
+  },
+  {
+    "name": "Delaware",
+    "abbr": "DE",
+    "slug": "delaware",
+    "majorCities": ["wilmington", "dover", "newark"],
+    "description": "Delaware's corporate-friendly environment and central East Coast location support a steady event staffing market. Wilmington's financial sector and Dover's racing events drive demand for professional event talent year-round.",
+    "region": "Northeast",
+    "metaTitle": "Event Staffing in Delaware | RentHuman",
+    "metaDescription": "Quality event staffing in Delaware. Hire skilled brand ambassadors and promotional staff in Wilmington, Dover, Newark, and across the First State."
+  },
+  {
+    "name": "Florida",
+    "abbr": "FL",
+    "slug": "florida",
+    "majorCities": ["miami", "orlando", "tampa", "jacksonville", "fort-lauderdale", "west-palm-beach", "st-petersburg"],
+    "description": "Florida ranks among the top event staffing markets in the country, powered by tourism, conventions, and a year-round warm climate. Miami's Art Basel, Orlando's theme park activations, and Tampa's sports events create massive demand for skilled event professionals.",
+    "region": "Southeast",
+    "metaTitle": "Event Staffing in Florida | RentHuman",
+    "metaDescription": "Elite event staffing across Florida. Top brand ambassadors, trade show staff, and event teams in Miami, Orlando, Tampa, and throughout the Sunshine State."
+  },
+  {
+    "name": "Georgia",
+    "abbr": "GA",
+    "slug": "georgia",
+    "majorCities": ["atlanta", "savannah", "augusta", "athens", "marietta"],
+    "description": "Atlanta is a major convention hub and corporate headquarters city, driving one of the Southeast's strongest event staffing markets. Georgia's film industry, sports scene, and growing tech sector create diverse opportunities for skilled event professionals.",
+    "region": "Southeast",
+    "metaTitle": "Event Staffing in Georgia | RentHuman",
+    "metaDescription": "Premium event staffing in Georgia. Professional brand ambassadors, promotional models, and event staff in Atlanta, Savannah, Augusta, and statewide."
+  },
+  {
+    "name": "Hawaii",
+    "abbr": "HI",
+    "slug": "hawaii",
+    "majorCities": ["honolulu", "maui", "kailua-kona"],
+    "description": "Hawaii's world-renowned tourism industry creates a unique event staffing market focused on hospitality, luxury brand activations, and destination conferences. The islands host high-profile corporate retreats, product launches, and cultural festivals year-round.",
+    "region": "West",
+    "metaTitle": "Event Staffing in Hawaii | RentHuman",
+    "metaDescription": "Professional event staffing in Hawaii. Experienced brand ambassadors and hospitality staff in Honolulu, Maui, and across the Hawaiian Islands."
+  },
+  {
+    "name": "Idaho",
+    "abbr": "ID",
+    "slug": "idaho",
+    "majorCities": ["boise", "meridian", "nampa", "coeur-d-alene"],
+    "description": "Idaho's rapidly growing economy and outdoor recreation culture fuel an emerging event staffing market. Boise's expanding tech sector and the state's premier ski resorts host corporate events, trade shows, and experiential activations.",
+    "region": "West",
+    "metaTitle": "Event Staffing in Idaho | RentHuman",
+    "metaDescription": "Reliable event staffing in Idaho. Skilled brand ambassadors and event professionals available in Boise, Coeur d'Alene, Meridian, and across the state."
+  },
+  {
+    "name": "Illinois",
+    "abbr": "IL",
+    "slug": "illinois",
+    "majorCities": ["chicago", "aurora", "naperville", "rockford", "springfield", "peoria"],
+    "description": "Chicago is one of America's top convention cities, home to McCormick Place and hundreds of major trade shows annually. Illinois's diverse economy spanning finance, manufacturing, and technology ensures consistent demand for top-tier event staffing talent.",
+    "region": "Midwest",
+    "metaTitle": "Event Staffing in Illinois | RentHuman",
+    "metaDescription": "Top event staffing in Illinois. Elite brand ambassadors, trade show models, and event professionals in Chicago, Naperville, and throughout the state."
+  },
+  {
+    "name": "Indiana",
+    "abbr": "IN",
+    "slug": "indiana",
+    "majorCities": ["indianapolis", "fort-wayne", "evansville", "south-bend", "carmel"],
+    "description": "Indianapolis is a premier sports and convention destination, anchored by the Indy 500 and the Indiana Convention Center. The state's automotive, pharmaceutical, and agricultural sectors support a strong event staffing market year-round.",
+    "region": "Midwest",
+    "metaTitle": "Event Staffing in Indiana | RentHuman",
+    "metaDescription": "Professional event staffing in Indiana. Experienced brand ambassadors and promotional staff in Indianapolis, Fort Wayne, and cities across the Hoosier State."
+  },
+  {
+    "name": "Iowa",
+    "abbr": "IA",
+    "slug": "iowa",
+    "majorCities": ["des-moines", "cedar-rapids", "davenport", "iowa-city"],
+    "description": "Iowa's agricultural heritage and growing urban centers create a diverse event staffing landscape. Des Moines hosts major insurance and financial industry conferences, while the Iowa State Fair is one of the nation's largest annual events.",
+    "region": "Midwest",
+    "metaTitle": "Event Staffing in Iowa | RentHuman",
+    "metaDescription": "Dependable event staffing in Iowa. Professional brand ambassadors and event teams in Des Moines, Cedar Rapids, Iowa City, and throughout the Hawkeye State."
+  },
+  {
+    "name": "Kansas",
+    "abbr": "KS",
+    "slug": "kansas",
+    "majorCities": ["wichita", "overland-park", "kansas-city", "topeka"],
+    "description": "Kansas sits at the crossroads of America, making it a strategic location for regional events and trade shows. Wichita's aviation industry and the Kansas City metro area's corporate presence drive steady demand for professional event staff.",
+    "region": "Midwest",
+    "metaTitle": "Event Staffing in Kansas | RentHuman",
+    "metaDescription": "Quality event staffing in Kansas. Hire experienced brand ambassadors and promotional staff in Wichita, Overland Park, Kansas City, and across the state."
+  },
+  {
+    "name": "Kentucky",
+    "abbr": "KY",
+    "slug": "kentucky",
+    "majorCities": ["louisville", "lexington", "bowling-green", "covington"],
+    "description": "Kentucky is famous for the Kentucky Derby and its bourbon industry, both of which drive major event activations. Louisville's convention scene and Lexington's equine industry create diverse opportunities for skilled event staffing professionals.",
+    "region": "Southeast",
+    "metaTitle": "Event Staffing in Kentucky | RentHuman",
+    "metaDescription": "Professional event staffing in Kentucky. Expert brand ambassadors and event teams in Louisville, Lexington, Bowling Green, and across the Bluegrass State."
+  },
+  {
+    "name": "Louisiana",
+    "abbr": "LA",
+    "slug": "louisiana",
+    "majorCities": ["new-orleans", "baton-rouge", "shreveport", "lafayette"],
+    "description": "New Orleans is one of the country's top event destinations, hosting Mardi Gras, Jazz Fest, and countless conventions at the Ernest N. Morial Convention Center. Louisiana's vibrant culture and hospitality industry fuel year-round demand for exceptional event staff.",
+    "region": "Southeast",
+    "metaTitle": "Event Staffing in Louisiana | RentHuman",
+    "metaDescription": "Premier event staffing in Louisiana. Skilled brand ambassadors, hospitality staff, and event teams in New Orleans, Baton Rouge, and throughout the state."
+  },
+  {
+    "name": "Maine",
+    "abbr": "ME",
+    "slug": "maine",
+    "majorCities": ["portland", "bangor", "lewiston"],
+    "description": "Maine's tourism-driven economy and craft beverage industry support a seasonal event staffing market. Portland's food and arts scene hosts numerous festivals and activations, while destination events draw brands to the state's iconic coastal venues.",
+    "region": "Northeast",
+    "metaTitle": "Event Staffing in Maine | RentHuman",
+    "metaDescription": "Reliable event staffing in Maine. Professional brand ambassadors and event staff in Portland, Bangor, and across Vacationland for your next activation."
+  },
+  {
+    "name": "Maryland",
+    "abbr": "MD",
+    "slug": "maryland",
+    "majorCities": ["baltimore", "bethesda", "rockville", "annapolis", "columbia"],
+    "description": "Maryland's proximity to Washington, D.C. makes it a hotspot for government, defense, and healthcare industry events. Baltimore's Inner Harbor and the state's convention centers host major trade shows, corporate events, and experiential campaigns.",
+    "region": "Northeast",
+    "metaTitle": "Event Staffing in Maryland | RentHuman",
+    "metaDescription": "Expert event staffing in Maryland. Polished brand ambassadors and event professionals in Baltimore, Bethesda, Annapolis, and throughout the Old Line State."
+  },
+  {
+    "name": "Massachusetts",
+    "abbr": "MA",
+    "slug": "massachusetts",
+    "majorCities": ["boston", "cambridge", "worcester", "springfield", "lowell"],
+    "description": "Boston is a world-class event city, home to leading universities, biotech firms, and financial institutions that host major conferences year-round. Massachusetts' innovation economy drives demand for highly skilled event staffing professionals across industries.",
+    "region": "Northeast",
+    "metaTitle": "Event Staffing in Massachusetts | RentHuman",
+    "metaDescription": "Premium event staffing in Massachusetts. Elite brand ambassadors, trade show staff, and event teams in Boston, Cambridge, Worcester, and across the state."
+  },
+  {
+    "name": "Michigan",
+    "abbr": "MI",
+    "slug": "michigan",
+    "majorCities": ["detroit", "grand-rapids", "ann-arbor", "lansing", "troy"],
+    "description": "Michigan's automotive industry powers one of the Midwest's most active event markets, centered around the North American International Auto Show. Detroit's revitalized downtown and Grand Rapids' growing convention scene create strong demand for professional event staff.",
+    "region": "Midwest",
+    "metaTitle": "Event Staffing in Michigan | RentHuman",
+    "metaDescription": "Top event staffing in Michigan. Professional brand ambassadors and promotional teams in Detroit, Grand Rapids, Ann Arbor, and across the Great Lakes State."
+  },
+  {
+    "name": "Minnesota",
+    "abbr": "MN",
+    "slug": "minnesota",
+    "majorCities": ["minneapolis", "st-paul", "bloomington", "rochester", "duluth"],
+    "description": "The Twin Cities metro is a major corporate hub, home to numerous Fortune 500 companies that drive a thriving event staffing market. Minnesota hosts large-scale trade shows, sporting events, and experiential activations throughout the year.",
+    "region": "Midwest",
+    "metaTitle": "Event Staffing in Minnesota | RentHuman",
+    "metaDescription": "Professional event staffing in Minnesota. Skilled brand ambassadors and event teams in Minneapolis, St. Paul, Bloomington, and cities across the state."
+  },
+  {
+    "name": "Mississippi",
+    "abbr": "MS",
+    "slug": "mississippi",
+    "majorCities": ["jackson", "gulfport", "biloxi", "hattiesburg"],
+    "description": "Mississippi's Gulf Coast casinos, cultural festivals, and growing convention scene create demand for professional event staff. The state's hospitality industry and Southern charm make it a welcoming destination for corporate retreats and experiential events.",
+    "region": "Southeast",
+    "metaTitle": "Event Staffing in Mississippi | RentHuman",
+    "metaDescription": "Reliable event staffing in Mississippi. Professional brand ambassadors and event teams in Jackson, Biloxi, Gulfport, and throughout the Magnolia State."
+  },
+  {
+    "name": "Missouri",
+    "abbr": "MO",
+    "slug": "missouri",
+    "majorCities": ["kansas-city", "st-louis", "springfield", "columbia", "branson"],
+    "description": "Missouri's two major metro areas, Kansas City and St. Louis, are thriving convention and event destinations. The state's central location, sports culture, and diverse industries support a strong year-round market for event staffing professionals.",
+    "region": "Midwest",
+    "metaTitle": "Event Staffing in Missouri | RentHuman",
+    "metaDescription": "Quality event staffing in Missouri. Experienced brand ambassadors and promotional staff in Kansas City, St. Louis, Springfield, and across the Show-Me State."
+  },
+  {
+    "name": "Montana",
+    "abbr": "MT",
+    "slug": "montana",
+    "majorCities": ["billings", "missoula", "great-falls", "bozeman"],
+    "description": "Montana's stunning natural landscapes and outdoor recreation industry drive a unique event staffing market. From destination corporate retreats in Big Sky to agricultural expos and music festivals, the state offers distinctive event opportunities.",
+    "region": "West",
+    "metaTitle": "Event Staffing in Montana | RentHuman",
+    "metaDescription": "Dependable event staffing in Montana. Professional brand ambassadors and event staff in Billings, Missoula, Bozeman, and across Big Sky Country."
+  },
+  {
+    "name": "Nebraska",
+    "abbr": "NE",
+    "slug": "nebraska",
+    "majorCities": ["omaha", "lincoln", "bellevue", "grand-island"],
+    "description": "Nebraska's agricultural powerhouse economy and growing tech sector in Omaha create a steady event staffing market. The state hosts major corporate events, college sporting events, and agricultural trade shows throughout the year.",
+    "region": "Midwest",
+    "metaTitle": "Event Staffing in Nebraska | RentHuman",
+    "metaDescription": "Professional event staffing in Nebraska. Skilled brand ambassadors and event teams available in Omaha, Lincoln, and throughout the Cornhusker State."
+  },
+  {
+    "name": "Nevada",
+    "abbr": "NV",
+    "slug": "nevada",
+    "majorCities": ["las-vegas", "reno", "henderson", "north-las-vegas", "sparks"],
+    "description": "Las Vegas is the undisputed event capital of the world, hosting CES, SEMA, and thousands of conventions, trade shows, and brand activations annually. Nevada's event staffing market is among the most dynamic and demanding in the nation.",
+    "region": "West",
+    "metaTitle": "Event Staffing in Nevada | RentHuman",
+    "metaDescription": "Elite event staffing in Nevada. Top brand ambassadors, trade show models, and event professionals in Las Vegas, Reno, and across the Silver State."
+  },
+  {
+    "name": "New Hampshire",
+    "abbr": "NH",
+    "slug": "new-hampshire",
+    "majorCities": ["manchester", "nashua", "concord"],
+    "description": "New Hampshire's blend of outdoor recreation and a growing tech corridor creates a niche event staffing market. The state hosts ski industry events, craft brewery activations, and corporate retreats set against picturesque New England backdrops.",
+    "region": "Northeast",
+    "metaTitle": "Event Staffing in New Hampshire | RentHuman",
+    "metaDescription": "Reliable event staffing in New Hampshire. Professional brand ambassadors and event teams in Manchester, Nashua, Concord, and across the Granite State."
+  },
+  {
+    "name": "New Jersey",
+    "abbr": "NJ",
+    "slug": "new-jersey",
+    "majorCities": ["newark", "jersey-city", "atlantic-city", "trenton", "hoboken", "edison"],
+    "description": "New Jersey's strategic location between New York and Philadelphia makes it a major event staffing hub. Atlantic City's convention center, corporate campuses along the I-95 corridor, and shore destinations drive year-round demand for professional event talent.",
+    "region": "Northeast",
+    "metaTitle": "Event Staffing in New Jersey | RentHuman",
+    "metaDescription": "Premium event staffing in New Jersey. Expert brand ambassadors, promo models, and event teams in Newark, Atlantic City, Jersey City, and statewide."
+  },
+  {
+    "name": "New Mexico",
+    "abbr": "NM",
+    "slug": "new-mexico",
+    "majorCities": ["albuquerque", "santa-fe", "las-cruces"],
+    "description": "New Mexico's rich cultural heritage and growing film industry create a distinctive event staffing market. From Albuquerque's International Balloon Fiesta to Santa Fe's art market activations, the state offers unique event opportunities.",
+    "region": "Southwest",
+    "metaTitle": "Event Staffing in New Mexico | RentHuman",
+    "metaDescription": "Quality event staffing in New Mexico. Professional brand ambassadors and event staff in Albuquerque, Santa Fe, Las Cruces, and across the Land of Enchantment."
+  },
+  {
+    "name": "New York",
+    "abbr": "NY",
+    "slug": "new-york",
+    "majorCities": ["new-york-city", "brooklyn", "buffalo", "rochester", "albany", "syracuse", "long-island"],
+    "description": "New York City is a global epicenter for events, fashion shows, product launches, and corporate activations. The state's unmatched density of Fortune 500 companies, media outlets, and cultural institutions creates the most competitive event staffing market in the country.",
+    "region": "Northeast",
+    "metaTitle": "Event Staffing in New York | RentHuman",
+    "metaDescription": "Elite event staffing in New York. Top brand ambassadors, promotional models, and event professionals in NYC, Brooklyn, Buffalo, and across the Empire State."
+  },
+  {
+    "name": "North Carolina",
+    "abbr": "NC",
+    "slug": "north-carolina",
+    "majorCities": ["charlotte", "raleigh", "durham", "greensboro", "wilmington", "asheville"],
+    "description": "North Carolina's Research Triangle and Charlotte's financial district power a fast-growing event staffing market. The state's blend of tech innovation, banking, and a thriving craft beverage scene supports diverse event activations year-round.",
+    "region": "Southeast",
+    "metaTitle": "Event Staffing in North Carolina | RentHuman",
+    "metaDescription": "Professional event staffing in North Carolina. Skilled brand ambassadors and event teams in Charlotte, Raleigh, Durham, Asheville, and across the state."
+  },
+  {
+    "name": "North Dakota",
+    "abbr": "ND",
+    "slug": "north-dakota",
+    "majorCities": ["fargo", "bismarck", "grand-forks"],
+    "description": "North Dakota's energy sector and agricultural industry drive a focused event staffing market. Fargo's growing tech scene and the state's trade shows and community festivals create opportunities for professional event staff.",
+    "region": "Midwest",
+    "metaTitle": "Event Staffing in North Dakota | RentHuman",
+    "metaDescription": "Dependable event staffing in North Dakota. Professional brand ambassadors and event teams in Fargo, Bismarck, Grand Forks, and across the Peace Garden State."
+  },
+  {
+    "name": "Ohio",
+    "abbr": "OH",
+    "slug": "ohio",
+    "majorCities": ["columbus", "cleveland", "cincinnati", "toledo", "akron", "dayton"],
+    "description": "Ohio's diverse economy and three major metro areas make it one of the Midwest's strongest event staffing markets. From the Arnold Sports Festival in Columbus to Cleveland's rock and roll events and Cincinnati's corporate activations, the Buckeye State offers extensive opportunities.",
+    "region": "Midwest",
+    "metaTitle": "Event Staffing in Ohio | RentHuman",
+    "metaDescription": "Top event staffing in Ohio. Experienced brand ambassadors and event professionals in Columbus, Cleveland, Cincinnati, and cities across the Buckeye State."
+  },
+  {
+    "name": "Oklahoma",
+    "abbr": "OK",
+    "slug": "oklahoma",
+    "majorCities": ["oklahoma-city", "tulsa", "norman", "broken-arrow"],
+    "description": "Oklahoma's energy industry and Native American cultural events create a unique event staffing landscape. Oklahoma City's growing convention scene and Tulsa's revitalized downtown host an increasing number of corporate events and brand activations.",
+    "region": "Southwest",
+    "metaTitle": "Event Staffing in Oklahoma | RentHuman",
+    "metaDescription": "Reliable event staffing in Oklahoma. Professional brand ambassadors and promotional teams in Oklahoma City, Tulsa, Norman, and across the Sooner State."
+  },
+  {
+    "name": "Oregon",
+    "abbr": "OR",
+    "slug": "oregon",
+    "majorCities": ["portland", "eugene", "salem", "bend", "beaverton"],
+    "description": "Oregon's vibrant craft culture, outdoor lifestyle, and Nike-anchored sportswear industry drive a creative event staffing market. Portland's unique brand activations, food festivals, and tech events create consistent demand for innovative event professionals.",
+    "region": "West",
+    "metaTitle": "Event Staffing in Oregon | RentHuman",
+    "metaDescription": "Creative event staffing in Oregon. Skilled brand ambassadors and event teams in Portland, Eugene, Bend, Salem, and throughout the Beaver State."
+  },
+  {
+    "name": "Pennsylvania",
+    "abbr": "PA",
+    "slug": "pennsylvania",
+    "majorCities": ["philadelphia", "pittsburgh", "allentown", "harrisburg", "lancaster", "king-of-prussia"],
+    "description": "Pennsylvania's two major cities anchor a powerful event staffing market. Philadelphia's world-class convention center and Pittsburgh's resurgent tech and healthcare sectors drive demand for skilled event professionals across diverse industries.",
+    "region": "Northeast",
+    "metaTitle": "Event Staffing in Pennsylvania | RentHuman",
+    "metaDescription": "Premium event staffing in Pennsylvania. Expert brand ambassadors, trade show staff, and event teams in Philadelphia, Pittsburgh, and across the Keystone State."
+  },
+  {
+    "name": "Rhode Island",
+    "abbr": "RI",
+    "slug": "rhode-island",
+    "majorCities": ["providence", "warwick", "newport"],
+    "description": "Rhode Island's compact size belies its active event scene, from Newport's luxury brand activations and sailing events to Providence's arts and culinary festivals. The state's affluent coastal communities attract premium experiential marketing campaigns.",
+    "region": "Northeast",
+    "metaTitle": "Event Staffing in Rhode Island | RentHuman",
+    "metaDescription": "Quality event staffing in Rhode Island. Professional brand ambassadors and event staff in Providence, Newport, Warwick, and across the Ocean State."
+  },
+  {
+    "name": "South Carolina",
+    "abbr": "SC",
+    "slug": "south-carolina",
+    "majorCities": ["charleston", "columbia", "greenville", "myrtle-beach", "hilton-head"],
+    "description": "South Carolina's booming tourism industry and Charleston's status as a top U.S. travel destination drive a strong event staffing market. The state hosts major golf tournaments, destination weddings, corporate retreats, and brand activations along its iconic coast.",
+    "region": "Southeast",
+    "metaTitle": "Event Staffing in South Carolina | RentHuman",
+    "metaDescription": "Professional event staffing in South Carolina. Skilled brand ambassadors and event teams in Charleston, Greenville, Myrtle Beach, and across the Palmetto State."
+  },
+  {
+    "name": "South Dakota",
+    "abbr": "SD",
+    "slug": "south-dakota",
+    "majorCities": ["sioux-falls", "rapid-city", "aberdeen"],
+    "description": "South Dakota's tourism landmarks and agricultural economy support a growing event staffing market. The Sturgis Motorcycle Rally draws massive crowds, while Sioux Falls' expanding corporate sector hosts conventions and trade shows year-round.",
+    "region": "Midwest",
+    "metaTitle": "Event Staffing in South Dakota | RentHuman",
+    "metaDescription": "Reliable event staffing in South Dakota. Professional brand ambassadors and event teams in Sioux Falls, Rapid City, and across the Mount Rushmore State."
+  },
+  {
+    "name": "Tennessee",
+    "abbr": "TN",
+    "slug": "tennessee",
+    "majorCities": ["nashville", "memphis", "knoxville", "chattanooga", "murfreesboro"],
+    "description": "Nashville's explosive growth as a music, entertainment, and hospitality hub has made Tennessee one of the Southeast's hottest event staffing markets. From CMA Fest to Memphis' Beale Street activations, the state offers vibrant opportunities for event professionals.",
+    "region": "Southeast",
+    "metaTitle": "Event Staffing in Tennessee | RentHuman",
+    "metaDescription": "Top event staffing in Tennessee. Elite brand ambassadors and promotional teams in Nashville, Memphis, Knoxville, Chattanooga, and across the Volunteer State."
+  },
+  {
+    "name": "Texas",
+    "abbr": "TX",
+    "slug": "texas",
+    "majorCities": ["houston", "dallas", "austin", "san-antonio", "fort-worth", "el-paso", "arlington", "plano"],
+    "description": "Texas is one of the nation's largest event staffing markets, driven by SXSW in Austin, massive trade shows in Houston and Dallas, and a booming corporate sector. The state's size, economic diversity, and year-round warm climate ensure constant demand for professional event talent.",
+    "region": "Southwest",
+    "metaTitle": "Event Staffing in Texas | RentHuman",
+    "metaDescription": "Elite event staffing across Texas. Top brand ambassadors, promo models, and event professionals in Houston, Dallas, Austin, San Antonio, and statewide."
+  },
+  {
+    "name": "Utah",
+    "abbr": "UT",
+    "slug": "utah",
+    "majorCities": ["salt-lake-city", "provo", "west-valley-city", "park-city", "ogden"],
+    "description": "Utah's tech boom, known as Silicon Slopes, and the Sundance Film Festival make the state a dynamic event staffing market. Salt Lake City's convention center and Park City's luxury venues host major corporate events, film premieres, and outdoor activations.",
+    "region": "West",
+    "metaTitle": "Event Staffing in Utah | RentHuman",
+    "metaDescription": "Professional event staffing in Utah. Skilled brand ambassadors and event teams in Salt Lake City, Park City, Provo, and across the Beehive State."
+  },
+  {
+    "name": "Vermont",
+    "abbr": "VT",
+    "slug": "vermont",
+    "majorCities": ["burlington", "montpelier", "stowe"],
+    "description": "Vermont's artisanal culture, craft beverage industry, and ski resorts create a seasonal but vibrant event staffing market. The state attracts brands looking for authentic, outdoor-oriented experiential activations and premium corporate retreat settings.",
+    "region": "Northeast",
+    "metaTitle": "Event Staffing in Vermont | RentHuman",
+    "metaDescription": "Quality event staffing in Vermont. Professional brand ambassadors and event staff in Burlington, Stowe, Montpelier, and across the Green Mountain State."
+  },
+  {
+    "name": "Virginia",
+    "abbr": "VA",
+    "slug": "virginia",
+    "majorCities": ["virginia-beach", "richmond", "norfolk", "arlington", "alexandria", "chesapeake"],
+    "description": "Virginia's proximity to Washington, D.C. and its concentration of government contractors and tech companies create a robust event staffing market. From Northern Virginia's corporate events to Virginia Beach's oceanfront activations, the state offers diverse opportunities.",
+    "region": "Southeast",
+    "metaTitle": "Event Staffing in Virginia | RentHuman",
+    "metaDescription": "Premium event staffing in Virginia. Expert brand ambassadors and event teams in Arlington, Richmond, Virginia Beach, and across the Old Dominion."
+  },
+  {
+    "name": "Washington",
+    "abbr": "WA",
+    "slug": "washington",
+    "majorCities": ["seattle", "tacoma", "spokane", "bellevue", "redmond", "olympia"],
+    "description": "Seattle's tech giants and innovative culture drive one of the West Coast's most dynamic event staffing markets. Washington hosts major tech conferences, outdoor brand activations, and craft industry events, supported by a deep talent pool of skilled professionals.",
+    "region": "West",
+    "metaTitle": "Event Staffing in Washington | RentHuman",
+    "metaDescription": "Top event staffing in Washington State. Elite brand ambassadors and event professionals in Seattle, Bellevue, Tacoma, Spokane, and across the Evergreen State."
+  },
+  {
+    "name": "West Virginia",
+    "abbr": "WV",
+    "slug": "west-virginia",
+    "majorCities": ["charleston", "huntington", "morgantown"],
+    "description": "West Virginia's outdoor adventure tourism and energy industry support a growing event staffing market. The state's mountain resorts and revitalized downtown areas host corporate retreats, outdoor festivals, and industry trade shows.",
+    "region": "Southeast",
+    "metaTitle": "Event Staffing in West Virginia | RentHuman",
+    "metaDescription": "Reliable event staffing in West Virginia. Professional brand ambassadors and event teams in Charleston, Huntington, Morgantown, and across the Mountain State."
+  },
+  {
+    "name": "Wisconsin",
+    "abbr": "WI",
+    "slug": "wisconsin",
+    "majorCities": ["milwaukee", "madison", "green-bay", "kenosha", "racine"],
+    "description": "Wisconsin's strong manufacturing base, craft brewery culture, and passionate sports fandom drive an active event staffing market. Milwaukee's Summerfest and the state's numerous festivals, trade shows, and corporate events create year-round demand.",
+    "region": "Midwest",
+    "metaTitle": "Event Staffing in Wisconsin | RentHuman",
+    "metaDescription": "Professional event staffing in Wisconsin. Experienced brand ambassadors and event teams in Milwaukee, Madison, Green Bay, and across the Badger State."
+  },
+  {
+    "name": "Wyoming",
+    "abbr": "WY",
+    "slug": "wyoming",
+    "majorCities": ["cheyenne", "casper", "jackson"],
+    "description": "Wyoming's tourism industry, anchored by Yellowstone and Grand Teton National Parks, drives a niche event staffing market. Jackson Hole's luxury resort events and Cheyenne Frontier Days create seasonal demand for professional event staff.",
+    "region": "West",
+    "metaTitle": "Event Staffing in Wyoming | RentHuman",
+    "metaDescription": "Dependable event staffing in Wyoming. Professional brand ambassadors and event staff in Cheyenne, Jackson, Casper, and across the Cowboy State."
+  }
+]

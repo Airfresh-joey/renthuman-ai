@@ -1,0 +1,4286 @@
+[
+  {
+    "name": "New York",
+    "slug": "new-york",
+    "state": "New York",
+    "stateAbbr": "NY",
+    "population": 8336817,
+    "region": "Northeast",
+    "majorVenues": [
+      "Madison Square Garden",
+      "Javits Center",
+      "Barclays Center"
+    ],
+    "description": "The largest city in the US and a global hub for events, conventions, and entertainment. New York offers unmatched staffing demand year-round."
+  },
+  {
+    "name": "Los Angeles",
+    "slug": "los-angeles",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 3979576,
+    "region": "West",
+    "majorVenues": [
+      "Los Angeles Convention Center",
+      "Crypto.com Arena",
+      "SoFi Stadium"
+    ],
+    "description": "The entertainment capital of the world, Los Angeles hosts major award shows, film premieres, and large-scale conventions requiring extensive event staff."
+  },
+  {
+    "name": "Chicago",
+    "slug": "chicago",
+    "state": "Illinois",
+    "stateAbbr": "IL",
+    "population": 2693976,
+    "region": "Midwest",
+    "majorVenues": [
+      "McCormick Place",
+      "United Center",
+      "Wrigley Field"
+    ],
+    "description": "Chicago is home to McCormick Place, the largest convention center in North America, driving massive staffing needs for trade shows and expos."
+  },
+  {
+    "name": "Houston",
+    "slug": "houston",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "population": 2304580,
+    "region": "Southwest",
+    "majorVenues": [
+      "George R. Brown Convention Center",
+      "NRG Stadium",
+      "Toyota Center"
+    ],
+    "description": "Houston hosts major rodeos, energy conferences, and sporting events that require large teams of experienced event staff."
+  },
+  {
+    "name": "Phoenix",
+    "slug": "phoenix",
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "population": 1608139,
+    "region": "Southwest",
+    "majorVenues": [
+      "Phoenix Convention Center",
+      "Footprint Center",
+      "State Farm Stadium"
+    ],
+    "description": "Phoenix is a top destination for winter conferences and spring training events, creating strong seasonal staffing demand."
+  },
+  {
+    "name": "Philadelphia",
+    "slug": "philadelphia",
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "population": 1603797,
+    "region": "Northeast",
+    "majorVenues": [
+      "Pennsylvania Convention Center",
+      "Wells Fargo Center",
+      "Lincoln Financial Field"
+    ],
+    "description": "Philadelphia hosts numerous conventions, historic celebrations, and major sporting events requiring skilled event personnel."
+  },
+  {
+    "name": "San Antonio",
+    "slug": "san-antonio",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "population": 1547253,
+    "region": "Southwest",
+    "majorVenues": [
+      "Henry B. Gonzalez Convention Center",
+      "Alamodome",
+      "AT&T Center"
+    ],
+    "description": "San Antonio draws visitors with River Walk events, Fiesta celebrations, and major conventions at the Alamodome."
+  },
+  {
+    "name": "San Diego",
+    "slug": "san-diego",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 1423851,
+    "region": "West",
+    "majorVenues": [
+      "San Diego Convention Center",
+      "Petco Park",
+      "Pechanga Arena"
+    ],
+    "description": "Home to Comic-Con International and year-round outdoor events, San Diego has consistent demand for hospitality and event staff."
+  },
+  {
+    "name": "Dallas",
+    "slug": "dallas",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "population": 1343573,
+    "region": "Southwest",
+    "majorVenues": [
+      "Kay Bailey Hutchison Convention Center",
+      "AT&T Stadium",
+      "American Airlines Center"
+    ],
+    "description": "Dallas is a premier destination for trade shows, corporate events, and major sporting championships."
+  },
+  {
+    "name": "San Jose",
+    "slug": "san-jose",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 1021795,
+    "region": "West",
+    "majorVenues": [
+      "San Jose Convention Center",
+      "SAP Center",
+      "PayPal Park"
+    ],
+    "description": "The heart of Silicon Valley, San Jose hosts major tech conferences and corporate events requiring professional event staff."
+  },
+  {
+    "name": "Austin",
+    "slug": "austin",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "population": 978908,
+    "region": "Southwest",
+    "majorVenues": [
+      "Austin Convention Center",
+      "Circuit of the Americas",
+      "Moody Center"
+    ],
+    "description": "Austin is famous for SXSW, ACL Festival, and Formula 1 races, generating enormous seasonal staffing needs."
+  },
+  {
+    "name": "Jacksonville",
+    "slug": "jacksonville",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "population": 949611,
+    "region": "Southeast",
+    "majorVenues": [
+      "Prime Osborn Convention Center",
+      "TIAA Bank Field",
+      "VyStar Veterans Memorial Arena"
+    ],
+    "description": "Jacksonville hosts major sporting events and military appreciation events along Florida's northeast coast."
+  },
+  {
+    "name": "Fort Worth",
+    "slug": "fort-worth",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "population": 918915,
+    "region": "Southwest",
+    "majorVenues": [
+      "Fort Worth Convention Center",
+      "Dickies Arena",
+      "Will Rogers Memorial Center"
+    ],
+    "description": "Fort Worth blends Western heritage with modern events, hosting rodeos, stock shows, and cultural festivals."
+  },
+  {
+    "name": "Columbus",
+    "slug": "columbus",
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "population": 905748,
+    "region": "Midwest",
+    "majorVenues": [
+      "Greater Columbus Convention Center",
+      "Nationwide Arena",
+      "Ohio Stadium"
+    ],
+    "description": "Ohio's capital hosts the Arnold Sports Festival, major college sporting events, and numerous state conventions."
+  },
+  {
+    "name": "Charlotte",
+    "slug": "charlotte",
+    "state": "North Carolina",
+    "stateAbbr": "NC",
+    "population": 874579,
+    "region": "Southeast",
+    "majorVenues": [
+      "Charlotte Convention Center",
+      "Bank of America Stadium",
+      "Spectrum Center"
+    ],
+    "description": "Charlotte is a growing hub for NASCAR events, financial conferences, and large-scale corporate gatherings."
+  },
+  {
+    "name": "Indianapolis",
+    "slug": "indianapolis",
+    "state": "Indiana",
+    "stateAbbr": "IN",
+    "population": 867125,
+    "region": "Midwest",
+    "majorVenues": [
+      "Indiana Convention Center",
+      "Lucas Oil Stadium",
+      "Gainbridge Fieldhouse"
+    ],
+    "description": "Indianapolis hosts the Indy 500, Gen Con, and major NCAA events, making it a powerhouse for event staffing."
+  },
+  {
+    "name": "San Francisco",
+    "slug": "san-francisco",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 873965,
+    "region": "West",
+    "majorVenues": [
+      "Moscone Center",
+      "Chase Center",
+      "Oracle Park"
+    ],
+    "description": "San Francisco's Moscone Center hosts world-class tech conferences like Dreamforce and GDC, driving premium staffing demand."
+  },
+  {
+    "name": "Seattle",
+    "slug": "seattle",
+    "state": "Washington",
+    "stateAbbr": "WA",
+    "population": 737015,
+    "region": "West",
+    "majorVenues": [
+      "Washington State Convention Center",
+      "T-Mobile Park",
+      "Climate Pledge Arena"
+    ],
+    "description": "Seattle hosts major tech summits, PAX West, and Emerald City Comic Con, creating year-round event staffing opportunities."
+  },
+  {
+    "name": "Denver",
+    "slug": "denver",
+    "state": "Colorado",
+    "stateAbbr": "CO",
+    "population": 715522,
+    "region": "West",
+    "majorVenues": [
+      "Colorado Convention Center",
+      "Empower Field at Mile High",
+      "Ball Arena"
+    ],
+    "description": "Denver is a top destination for outdoor expos, cannabis industry events, and Western stock shows."
+  },
+  {
+    "name": "Nashville",
+    "slug": "nashville",
+    "state": "Tennessee",
+    "stateAbbr": "TN",
+    "population": 689447,
+    "region": "Southeast",
+    "majorVenues": [
+      "Music City Center",
+      "Bridgestone Arena",
+      "Nissan Stadium"
+    ],
+    "description": "Music City hosts CMA Fest, major music awards, and a booming convention scene requiring skilled hospitality staff."
+  },
+  {
+    "name": "Oklahoma City",
+    "slug": "oklahoma-city",
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "population": 681054,
+    "region": "Southwest",
+    "majorVenues": [
+      "Cox Convention Center",
+      "Paycom Center",
+      "Oklahoma State Fair Park"
+    ],
+    "description": "Oklahoma City hosts large state fairs, rodeos, and energy industry conferences throughout the year."
+  },
+  {
+    "name": "El Paso",
+    "slug": "el-paso",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "population": 678815,
+    "region": "Southwest",
+    "majorVenues": [
+      "El Paso Convention Center",
+      "Sun Bowl Stadium",
+      "Don Haskins Center"
+    ],
+    "description": "El Paso hosts cross-border cultural events, the Sun Bowl, and military appreciation celebrations."
+  },
+  {
+    "name": "Washington",
+    "slug": "washington-dc",
+    "state": "District of Columbia",
+    "stateAbbr": "DC",
+    "population": 689545,
+    "region": "Northeast",
+    "majorVenues": [
+      "Walter E. Washington Convention Center",
+      "Capital One Arena",
+      "Nationals Park"
+    ],
+    "description": "The nation's capital hosts major political events, embassy galas, and high-profile conferences requiring top-tier staffing."
+  },
+  {
+    "name": "Boston",
+    "slug": "boston",
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "population": 675647,
+    "region": "Northeast",
+    "majorVenues": [
+      "Boston Convention and Exhibition Center",
+      "TD Garden",
+      "Fenway Park"
+    ],
+    "description": "Boston hosts world-renowned medical conferences, tech summits, and the famous Boston Marathon."
+  },
+  {
+    "name": "Las Vegas",
+    "slug": "las-vegas",
+    "state": "Nevada",
+    "stateAbbr": "NV",
+    "population": 641903,
+    "region": "West",
+    "majorVenues": [
+      "Las Vegas Convention Center",
+      "Allegiant Stadium",
+      "T-Mobile Arena"
+    ],
+    "description": "The event capital of the world, Las Vegas hosts CES, massive trade shows, and nonstop entertainment requiring enormous staffing."
+  },
+  {
+    "name": "Portland",
+    "slug": "portland-or",
+    "state": "Oregon",
+    "stateAbbr": "OR",
+    "population": 652503,
+    "region": "West",
+    "majorVenues": [
+      "Oregon Convention Center",
+      "Moda Center",
+      "Providence Park"
+    ],
+    "description": "Portland hosts craft beer festivals, tech meetups, and eco-friendly conferences in the Pacific Northwest."
+  },
+  {
+    "name": "Memphis",
+    "slug": "memphis",
+    "state": "Tennessee",
+    "stateAbbr": "TN",
+    "population": 633104,
+    "region": "Southeast",
+    "majorVenues": [
+      "Renasant Convention Center",
+      "FedExForum",
+      "AutoZone Park"
+    ],
+    "description": "Memphis hosts major music festivals, BBQ championships, and cultural events celebrating its rich heritage."
+  },
+  {
+    "name": "Louisville",
+    "slug": "louisville",
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "population": 633045,
+    "region": "Southeast",
+    "majorVenues": [
+      "Kentucky International Convention Center",
+      "KFC Yum! Center",
+      "Churchill Downs"
+    ],
+    "description": "Home to the Kentucky Derby, Louisville hosts bourbon festivals and major equestrian events."
+  },
+  {
+    "name": "Baltimore",
+    "slug": "baltimore",
+    "state": "Maryland",
+    "stateAbbr": "MD",
+    "population": 585708,
+    "region": "Northeast",
+    "majorVenues": [
+      "Baltimore Convention Center",
+      "M&T Bank Stadium",
+      "CFG Bank Arena"
+    ],
+    "description": "Baltimore hosts major medical conferences, the Preakness Stakes, and Inner Harbor events."
+  },
+  {
+    "name": "Milwaukee",
+    "slug": "milwaukee",
+    "state": "Wisconsin",
+    "stateAbbr": "WI",
+    "population": 577222,
+    "region": "Midwest",
+    "majorVenues": [
+      "Wisconsin Center",
+      "Fiserv Forum",
+      "American Family Field"
+    ],
+    "description": "Milwaukee hosts Summerfest, the world's largest music festival, and major beer industry events."
+  },
+  {
+    "name": "Albuquerque",
+    "slug": "albuquerque",
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "population": 564559,
+    "region": "Southwest",
+    "majorVenues": [
+      "Albuquerque Convention Center",
+      "The Pit",
+      "Balloon Fiesta Park"
+    ],
+    "description": "Albuquerque hosts the International Balloon Fiesta and cultural celebrations drawing visitors worldwide."
+  },
+  {
+    "name": "Tucson",
+    "slug": "tucson",
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "population": 542629,
+    "region": "Southwest",
+    "majorVenues": [
+      "Tucson Convention Center",
+      "Arizona Stadium",
+      "Desert Diamond Arena"
+    ],
+    "description": "Tucson hosts the Gem & Mineral Show, desert festivals, and major university events in southern Arizona."
+  },
+  {
+    "name": "Fresno",
+    "slug": "fresno",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 542107,
+    "region": "West",
+    "majorVenues": [
+      "Fresno Convention Center",
+      "Save Mart Center",
+      "Chukchansi Park"
+    ],
+    "description": "Fresno hosts agricultural expos and Central Valley cultural events throughout the year."
+  },
+  {
+    "name": "Mesa",
+    "slug": "mesa",
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "population": 504258,
+    "region": "Southwest",
+    "majorVenues": [
+      "Mesa Convention Center",
+      "Sloan Park",
+      "Mesa Amphitheatre"
+    ],
+    "description": "Mesa hosts spring training baseball and outdoor desert events in the Phoenix metro area."
+  },
+  {
+    "name": "Sacramento",
+    "slug": "sacramento",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 524943,
+    "region": "West",
+    "majorVenues": [
+      "SAFE Credit Union Convention Center",
+      "Golden 1 Center",
+      "Cal Expo"
+    ],
+    "description": "California's capital hosts the state fair, farm-to-fork festivals, and government conferences."
+  },
+  {
+    "name": "Atlanta",
+    "slug": "atlanta",
+    "state": "Georgia",
+    "stateAbbr": "GA",
+    "population": 498715,
+    "region": "Southeast",
+    "majorVenues": [
+      "Georgia World Congress Center",
+      "Mercedes-Benz Stadium",
+      "State Farm Arena"
+    ],
+    "description": "Atlanta hosts Dragon Con, major college football events, and large-scale conventions at the Georgia World Congress Center."
+  },
+  {
+    "name": "Kansas City",
+    "slug": "kansas-city",
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "population": 508090,
+    "region": "Midwest",
+    "majorVenues": [
+      "Kansas City Convention Center",
+      "GEHA Field at Arrowhead Stadium",
+      "T-Mobile Center"
+    ],
+    "description": "Kansas City hosts world-class BBQ competitions, jazz festivals, and major sporting events."
+  },
+  {
+    "name": "Omaha",
+    "slug": "omaha",
+    "state": "Nebraska",
+    "stateAbbr": "NE",
+    "population": 486051,
+    "region": "Midwest",
+    "majorVenues": [
+      "CHI Health Center",
+      "Charles Schwab Field",
+      "Baxter Arena"
+    ],
+    "description": "Omaha hosts the College World Series, Berkshire Hathaway shareholder meetings, and major swim trials."
+  },
+  {
+    "name": "Colorado Springs",
+    "slug": "colorado-springs",
+    "state": "Colorado",
+    "stateAbbr": "CO",
+    "population": 478961,
+    "region": "West",
+    "majorVenues": [
+      "The Broadmoor World Arena",
+      "Weidner Field",
+      "Norris Penrose Event Center"
+    ],
+    "description": "Colorado Springs hosts Olympic training events, military ceremonies, and outdoor adventure expos."
+  },
+  {
+    "name": "Raleigh",
+    "slug": "raleigh",
+    "state": "North Carolina",
+    "stateAbbr": "NC",
+    "population": 467665,
+    "region": "Southeast",
+    "majorVenues": [
+      "Raleigh Convention Center",
+      "PNC Arena",
+      "Red Hat Amphitheater"
+    ],
+    "description": "Raleigh hosts tech conferences, state government events, and Research Triangle professional gatherings."
+  },
+  {
+    "name": "Long Beach",
+    "slug": "long-beach",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 466742,
+    "region": "West",
+    "majorVenues": [
+      "Long Beach Convention Center",
+      "Walter Pyramid",
+      "Long Beach Arena"
+    ],
+    "description": "Long Beach hosts major auto shows, Grand Prix racing, and waterfront festivals."
+  },
+  {
+    "name": "Virginia Beach",
+    "slug": "virginia-beach",
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "population": 459470,
+    "region": "Southeast",
+    "majorVenues": [
+      "Virginia Beach Convention Center",
+      "Veterans United Home Loans Amphitheater",
+      "Virginia Beach Sportsplex"
+    ],
+    "description": "Virginia Beach hosts the Neptune Festival, military events, and oceanfront concerts and festivals."
+  },
+  {
+    "name": "Miami",
+    "slug": "miami",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "population": 442241,
+    "region": "Southeast",
+    "majorVenues": [
+      "Miami Beach Convention Center",
+      "Hard Rock Stadium",
+      "Kaseya Center"
+    ],
+    "description": "Miami hosts Art Basel, the Super Bowl, and year-round luxury events requiring bilingual event staff."
+  },
+  {
+    "name": "Oakland",
+    "slug": "oakland",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 433031,
+    "region": "West",
+    "majorVenues": [
+      "Oakland Convention Center",
+      "Oakland Arena",
+      "RingCentral Coliseum"
+    ],
+    "description": "Oakland hosts cultural festivals, tech events, and Bay Area entertainment requiring diverse staffing."
+  },
+  {
+    "name": "Minneapolis",
+    "slug": "minneapolis",
+    "state": "Minnesota",
+    "stateAbbr": "MN",
+    "population": 429954,
+    "region": "Midwest",
+    "majorVenues": [
+      "Minneapolis Convention Center",
+      "U.S. Bank Stadium",
+      "Target Center"
+    ],
+    "description": "Minneapolis hosts major Super Bowls, Final Fours, and renowned convention center events year-round."
+  },
+  {
+    "name": "Tampa",
+    "slug": "tampa",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "population": 384959,
+    "region": "Southeast",
+    "majorVenues": [
+      "Tampa Convention Center",
+      "Raymond James Stadium",
+      "Amalie Arena"
+    ],
+    "description": "Tampa hosts Gasparilla, major bowl games, and year-round waterfront events on the Gulf Coast."
+  },
+  {
+    "name": "Tulsa",
+    "slug": "tulsa",
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "population": 413066,
+    "region": "Southwest",
+    "majorVenues": [
+      "Cox Business Convention Center",
+      "BOK Center",
+      "ONEOK Field"
+    ],
+    "description": "Tulsa hosts energy industry conferences, Route 66 celebrations, and major cultural events."
+  },
+  {
+    "name": "Arlington",
+    "slug": "arlington-tx",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "population": 394266,
+    "region": "Southwest",
+    "majorVenues": [
+      "AT&T Stadium",
+      "Globe Life Field",
+      "Esports Stadium Arlington"
+    ],
+    "description": "Arlington hosts NFL, MLB, and major esports events between Dallas and Fort Worth."
+  },
+  {
+    "name": "New Orleans",
+    "slug": "new-orleans",
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "population": 383997,
+    "region": "Southeast",
+    "majorVenues": [
+      "Ernest N. Morial Convention Center",
+      "Caesars Superdome",
+      "Smoothie King Center"
+    ],
+    "description": "New Orleans hosts Mardi Gras, Jazz Fest, and the Sugar Bowl, creating massive seasonal staffing surges."
+  },
+  {
+    "name": "Wichita",
+    "slug": "wichita",
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "population": 397532,
+    "region": "Midwest",
+    "majorVenues": [
+      "Century II Convention Center",
+      "Intrust Bank Arena",
+      "Hartman Arena"
+    ],
+    "description": "Wichita hosts aviation industry events, Riverfest, and Kansas state competitions."
+  },
+  {
+    "name": "Cleveland",
+    "slug": "cleveland",
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "population": 372624,
+    "region": "Midwest",
+    "majorVenues": [
+      "Huntington Convention Center",
+      "Progressive Field",
+      "Rocket Mortgage FieldHouse"
+    ],
+    "description": "Cleveland hosts the Rock & Roll Hall of Fame induction ceremonies, major sports drafts, and lakefront festivals."
+  },
+  {
+    "name": "Bakersfield",
+    "slug": "bakersfield",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 403455,
+    "region": "West",
+    "majorVenues": [
+      "Rabobank Convention Center",
+      "Mechanics Bank Arena",
+      "Bakersfield Speedway"
+    ],
+    "description": "Bakersfield hosts country music events, agricultural trade shows, and Central Valley festivals."
+  },
+  {
+    "name": "Aurora",
+    "slug": "aurora-co",
+    "state": "Colorado",
+    "stateAbbr": "CO",
+    "population": 386261,
+    "region": "West",
+    "majorVenues": [
+      "Gaylord Rockies Resort",
+      "Stanley Marketplace",
+      "Aurora Municipal Center"
+    ],
+    "description": "Aurora hosts events at the Gaylord Rockies Resort and serves the greater Denver metro event market."
+  },
+  {
+    "name": "Honolulu",
+    "slug": "honolulu",
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "population": 350964,
+    "region": "West",
+    "majorVenues": [
+      "Hawaii Convention Center",
+      "Aloha Stadium",
+      "Waikiki Shell"
+    ],
+    "description": "Honolulu hosts Pacific Rim conferences, cultural festivals, and destination events in a tropical paradise."
+  },
+  {
+    "name": "Anaheim",
+    "slug": "anaheim",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 350365,
+    "region": "West",
+    "majorVenues": [
+      "Anaheim Convention Center",
+      "Honda Center",
+      "Angel Stadium"
+    ],
+    "description": "Anaheim hosts D23 Expo, NAMM Show, and Natural Products Expo, with Disneyland driving massive tourism staffing."
+  },
+  {
+    "name": "Lexington",
+    "slug": "lexington",
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "population": 322570,
+    "region": "Southeast",
+    "majorVenues": [
+      "Central Bank Center",
+      "Rupp Arena",
+      "Keeneland Race Course"
+    ],
+    "description": "The Horse Capital of the World hosts Keeneland meets, bourbon trail events, and major college basketball."
+  },
+  {
+    "name": "Stockton",
+    "slug": "stockton",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 320804,
+    "region": "West",
+    "majorVenues": [
+      "Stockton Arena",
+      "Banner Island Ballpark",
+      "Bob Hope Theatre"
+    ],
+    "description": "Stockton hosts agricultural festivals and Central Valley community events."
+  },
+  {
+    "name": "Henderson",
+    "slug": "henderson",
+    "state": "Nevada",
+    "stateAbbr": "NV",
+    "population": 320189,
+    "region": "West",
+    "majorVenues": [
+      "Henderson Events Plaza",
+      "Green Valley Ranch Resort",
+      "M Resort"
+    ],
+    "description": "Henderson serves the greater Las Vegas event market with resort venues and community festivals."
+  },
+  {
+    "name": "Riverside",
+    "slug": "riverside",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 314998,
+    "region": "West",
+    "majorVenues": [
+      "Riverside Convention Center",
+      "Fox Performing Arts Center",
+      "Riverside Municipal Auditorium"
+    ],
+    "description": "Riverside hosts the Festival of Lights and serves as a major Inland Empire events hub."
+  },
+  {
+    "name": "Santa Ana",
+    "slug": "santa-ana",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 309441,
+    "region": "West",
+    "majorVenues": [
+      "Bowers Museum",
+      "Discovery Cube",
+      "Yost Theater"
+    ],
+    "description": "Santa Ana hosts Orange County cultural events and community celebrations year-round."
+  },
+  {
+    "name": "Orlando",
+    "slug": "orlando",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "population": 307573,
+    "region": "Southeast",
+    "majorVenues": [
+      "Orange County Convention Center",
+      "Camping World Stadium",
+      "Amway Center"
+    ],
+    "description": "Orlando hosts massive conventions at the second-largest convention center in the US, plus theme park events year-round."
+  },
+  {
+    "name": "Irvine",
+    "slug": "irvine",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 307670,
+    "region": "West",
+    "majorVenues": [
+      "Irvine Spectrum Center",
+      "Great Park",
+      "Bren Events Center"
+    ],
+    "description": "Irvine hosts tech conferences and upscale corporate events in Orange County's business corridor."
+  },
+  {
+    "name": "Cincinnati",
+    "slug": "cincinnati",
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "population": 309317,
+    "region": "Midwest",
+    "majorVenues": [
+      "Duke Energy Convention Center",
+      "Great American Ball Park",
+      "TQL Stadium"
+    ],
+    "description": "Cincinnati hosts Oktoberfest Zinzinnati, the largest Oktoberfest in the US, and major river city festivals."
+  },
+  {
+    "name": "Newark",
+    "slug": "newark",
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "population": 311549,
+    "region": "Northeast",
+    "majorVenues": [
+      "Prudential Center",
+      "New Jersey Performing Arts Center",
+      "Red Bull Arena"
+    ],
+    "description": "Newark hosts major concerts, sports events, and serves the NYC metro area's event staffing overflow."
+  },
+  {
+    "name": "St. Paul",
+    "slug": "st-paul",
+    "state": "Minnesota",
+    "stateAbbr": "MN",
+    "population": 311527,
+    "region": "Midwest",
+    "majorVenues": [
+      "RiverCentre",
+      "Xcel Energy Center",
+      "CHS Field"
+    ],
+    "description": "St. Paul hosts the Winter Carnival, state fair events, and Twin Cities convention overflow."
+  },
+  {
+    "name": "Pittsburgh",
+    "slug": "pittsburgh",
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "population": 302971,
+    "region": "Northeast",
+    "majorVenues": [
+      "David L. Lawrence Convention Center",
+      "PPG Paints Arena",
+      "Acrisure Stadium"
+    ],
+    "description": "Pittsburgh hosts major tech conferences, steel industry events, and renowned cultural festivals."
+  },
+  {
+    "name": "Greensboro",
+    "slug": "greensboro",
+    "state": "North Carolina",
+    "stateAbbr": "NC",
+    "population": 299035,
+    "region": "Southeast",
+    "majorVenues": [
+      "Greensboro Coliseum Complex",
+      "Tanger Center",
+      "Greensboro Aquatic Center"
+    ],
+    "description": "Greensboro hosts ACC tournament events, trade shows, and Piedmont Triad regional gatherings."
+  },
+  {
+    "name": "St. Louis",
+    "slug": "st-louis",
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "population": 301578,
+    "region": "Midwest",
+    "majorVenues": [
+      "America's Center Convention Complex",
+      "Enterprise Center",
+      "Busch Stadium"
+    ],
+    "description": "St. Louis hosts major conventions at America's Center and riverfront festivals along the Gateway Arch."
+  },
+  {
+    "name": "Lincoln",
+    "slug": "lincoln",
+    "state": "Nebraska",
+    "stateAbbr": "NE",
+    "population": 291082,
+    "region": "Midwest",
+    "majorVenues": [
+      "Pinnacle Bank Arena",
+      "Memorial Stadium",
+      "Lancaster Event Center"
+    ],
+    "description": "Lincoln hosts Husker football game days, state government events, and agricultural conferences."
+  },
+  {
+    "name": "Plano",
+    "slug": "plano",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "population": 285494,
+    "region": "Southwest",
+    "majorVenues": [
+      "Plano Event Center",
+      "Legacy West",
+      "The Shops at Legacy"
+    ],
+    "description": "Plano hosts corporate events and tech industry gatherings in the Dallas-Fort Worth metro."
+  },
+  {
+    "name": "Anchorage",
+    "slug": "anchorage",
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "population": 291247,
+    "region": "West",
+    "majorVenues": [
+      "Dena'ina Civic and Convention Center",
+      "Alaska Airlines Center",
+      "Sullivan Arena"
+    ],
+    "description": "Anchorage hosts the Iditarod, Fur Rendezvous, and Arctic tourism events in America's last frontier."
+  },
+  {
+    "name": "Durham",
+    "slug": "durham",
+    "state": "North Carolina",
+    "stateAbbr": "NC",
+    "population": 283506,
+    "region": "Southeast",
+    "majorVenues": [
+      "Durham Convention Center",
+      "Durham Performing Arts Center",
+      "Durham Bulls Athletic Park"
+    ],
+    "description": "Durham hosts Research Triangle tech events, Duke University functions, and growing cultural festivals."
+  },
+  {
+    "name": "Jersey City",
+    "slug": "jersey-city",
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "population": 292449,
+    "region": "Northeast",
+    "majorVenues": [
+      "Harborside Event Center",
+      "Liberty Science Center",
+      "White Eagle Hall"
+    ],
+    "description": "Jersey City hosts waterfront events and serves as a key venue for NYC metro overflow staffing."
+  },
+  {
+    "name": "Chandler",
+    "slug": "chandler",
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "population": 275987,
+    "region": "Southwest",
+    "majorVenues": [
+      "Chandler Center for the Arts",
+      "Rawhide Western Town",
+      "Intel Campus Events"
+    ],
+    "description": "Chandler hosts tech industry events and southwestern cultural celebrations in the Phoenix metro."
+  },
+  {
+    "name": "Buffalo",
+    "slug": "buffalo",
+    "state": "New York",
+    "stateAbbr": "NY",
+    "population": 278349,
+    "region": "Northeast",
+    "majorVenues": [
+      "Buffalo Niagara Convention Center",
+      "Highmark Stadium",
+      "KeyBank Center"
+    ],
+    "description": "Buffalo hosts wing festivals, waterfront events, and major sporting events near Niagara Falls."
+  },
+  {
+    "name": "North Las Vegas",
+    "slug": "north-las-vegas",
+    "state": "Nevada",
+    "stateAbbr": "NV",
+    "population": 262527,
+    "region": "West",
+    "majorVenues": [
+      "Las Vegas Motor Speedway",
+      "Aliante Casino",
+      "Craig Ranch Regional Park"
+    ],
+    "description": "North Las Vegas hosts NASCAR races at the Las Vegas Motor Speedway and supports the Vegas event industry."
+  },
+  {
+    "name": "Gilbert",
+    "slug": "gilbert",
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "population": 267918,
+    "region": "Southwest",
+    "majorVenues": [
+      "Gilbert Heritage District",
+      "Riparian Preserve",
+      "SanTan Village"
+    ],
+    "description": "Gilbert hosts family-friendly community events and serves the southeast Phoenix metro event market."
+  },
+  {
+    "name": "Madison",
+    "slug": "madison",
+    "state": "Wisconsin",
+    "stateAbbr": "WI",
+    "population": 269840,
+    "region": "Midwest",
+    "majorVenues": [
+      "Monona Terrace",
+      "Alliant Energy Center",
+      "Camp Randall Stadium"
+    ],
+    "description": "Wisconsin's capital hosts government conferences, university events, and the famous Dane County Farmers' Market."
+  },
+  {
+    "name": "Reno",
+    "slug": "reno",
+    "state": "Nevada",
+    "stateAbbr": "NV",
+    "population": 264165,
+    "region": "West",
+    "majorVenues": [
+      "Reno-Sparks Convention Center",
+      "Reno Events Center",
+      "Greater Nevada Field"
+    ],
+    "description": "Reno hosts Hot August Nights, gaming industry conferences, and Burning Man gateway events."
+  },
+  {
+    "name": "Toledo",
+    "slug": "toledo",
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "population": 270871,
+    "region": "Midwest",
+    "majorVenues": [
+      "SeaGate Convention Centre",
+      "Huntington Center",
+      "Fifth Third Field"
+    ],
+    "description": "Toledo hosts glass industry events, Jeep Fest, and Great Lakes regional gatherings."
+  },
+  {
+    "name": "Fort Wayne",
+    "slug": "fort-wayne",
+    "state": "Indiana",
+    "stateAbbr": "IN",
+    "population": 263886,
+    "region": "Midwest",
+    "majorVenues": [
+      "Allen County War Memorial Coliseum",
+      "Parkview Field",
+      "Clyde Theatre"
+    ],
+    "description": "Fort Wayne hosts the Three Rivers Festival and serves as northeast Indiana's event hub."
+  },
+  {
+    "name": "Lubbock",
+    "slug": "lubbock",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "population": 263930,
+    "region": "Southwest",
+    "majorVenues": [
+      "Lubbock Memorial Civic Center",
+      "United Supermarkets Arena",
+      "Jones AT&T Stadium"
+    ],
+    "description": "Lubbock hosts Texas Tech events, cotton industry conferences, and Buddy Holly music celebrations."
+  },
+  {
+    "name": "Laredo",
+    "slug": "laredo",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "population": 255205,
+    "region": "Southwest",
+    "majorVenues": [
+      "Laredo Energy Arena",
+      "Sames Auto Arena",
+      "TAMIU Center"
+    ],
+    "description": "Laredo hosts the George Washington Birthday Celebration and international trade events on the US-Mexico border."
+  },
+  {
+    "name": "Irving",
+    "slug": "irving",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "population": 256684,
+    "region": "Southwest",
+    "majorVenues": [
+      "Irving Convention Center",
+      "Toyota Music Factory",
+      "Pavilion at Irving Music Factory"
+    ],
+    "description": "Irving hosts major corporate events at the Las Colinas entertainment district."
+  },
+  {
+    "name": "Chesapeake",
+    "slug": "chesapeake",
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "population": 249422,
+    "region": "Southeast",
+    "majorVenues": [
+      "Chesapeake Conference Center",
+      "Chesapeake City Park",
+      "Great Dismal Swamp"
+    ],
+    "description": "Chesapeake hosts Hampton Roads community events and outdoor festivals in southeastern Virginia."
+  },
+  {
+    "name": "Glendale",
+    "slug": "glendale-az",
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "population": 248325,
+    "region": "Southwest",
+    "majorVenues": [
+      "State Farm Stadium",
+      "Desert Diamond Arena",
+      "Westgate Entertainment District"
+    ],
+    "description": "Glendale hosts Super Bowls, college football playoffs, and major concerts at State Farm Stadium."
+  },
+  {
+    "name": "Winston-Salem",
+    "slug": "winston-salem",
+    "state": "North Carolina",
+    "stateAbbr": "NC",
+    "population": 249545,
+    "region": "Southeast",
+    "majorVenues": [
+      "Benton Convention Center",
+      "Lawrence Joel Veterans Memorial Coliseum",
+      "Truist Stadium"
+    ],
+    "description": "Winston-Salem hosts arts festivals, Wake Forest events, and Piedmont Triad business gatherings."
+  },
+  {
+    "name": "Scottsdale",
+    "slug": "scottsdale",
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "population": 241361,
+    "region": "Southwest",
+    "majorVenues": [
+      "WestWorld of Scottsdale",
+      "Scottsdale Civic Center",
+      "TPC Scottsdale"
+    ],
+    "description": "Scottsdale hosts the WM Phoenix Open, Barrett-Jackson auto auction, and luxury resort conferences."
+  },
+  {
+    "name": "Garland",
+    "slug": "garland",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "population": 246018,
+    "region": "Southwest",
+    "majorVenues": [
+      "Granville Arts Center",
+      "Curtis Culwell Center",
+      "Firewheel Town Center"
+    ],
+    "description": "Garland hosts community events and cultural celebrations in the Dallas-Fort Worth metro."
+  },
+  {
+    "name": "Boise",
+    "slug": "boise",
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "population": 235684,
+    "region": "West",
+    "majorVenues": [
+      "Boise Centre",
+      "ExtraMile Arena",
+      "Albertsons Stadium"
+    ],
+    "description": "Idaho's capital hosts outdoor recreation expos, tech startup events, and the famous Treefort Music Fest."
+  },
+  {
+    "name": "Norfolk",
+    "slug": "norfolk",
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "population": 238005,
+    "region": "Southeast",
+    "majorVenues": [
+      "Norfolk Scope Arena",
+      "Chartway Arena",
+      "Norfolk Waterside"
+    ],
+    "description": "Norfolk hosts naval celebrations, waterfront festivals, and military events in the Hampton Roads area."
+  },
+  {
+    "name": "Spokane",
+    "slug": "spokane",
+    "state": "Washington",
+    "stateAbbr": "WA",
+    "population": 228989,
+    "region": "West",
+    "majorVenues": [
+      "Spokane Convention Center",
+      "Spokane Arena",
+      "Riverfront Park"
+    ],
+    "description": "Spokane hosts Hoopfest, Bloomsday, and Pacific Northwest outdoor recreation events."
+  },
+  {
+    "name": "Fremont",
+    "slug": "fremont",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 230504,
+    "region": "West",
+    "majorVenues": [
+      "Fremont Civic Center",
+      "Niles Essanay Silent Film Museum",
+      "Central Park"
+    ],
+    "description": "Fremont hosts Bay Area tech events and cultural festivals in the East Bay."
+  },
+  {
+    "name": "Richmond",
+    "slug": "richmond",
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "population": 226610,
+    "region": "Southeast",
+    "majorVenues": [
+      "Greater Richmond Convention Center",
+      "Richmond Raceway",
+      "The Diamond"
+    ],
+    "description": "Virginia's capital hosts NASCAR races, state government events, and historic celebrations."
+  },
+  {
+    "name": "Santa Clarita",
+    "slug": "santa-clarita",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 228673,
+    "region": "West",
+    "majorVenues": [
+      "Santa Clarita Performing Arts Center",
+      "Six Flags Magic Mountain",
+      "The MAIN"
+    ],
+    "description": "Santa Clarita hosts film location events and community festivals in the Los Angeles metro area."
+  },
+  {
+    "name": "San Bernardino",
+    "slug": "san-bernardino",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 222101,
+    "region": "West",
+    "majorVenues": [
+      "NOS Events Center",
+      "San Manuel Amphitheater",
+      "National Orange Show"
+    ],
+    "description": "San Bernardino hosts major EDM festivals, county fairs, and Inland Empire community events."
+  },
+  {
+    "name": "Tacoma",
+    "slug": "tacoma",
+    "state": "Washington",
+    "stateAbbr": "WA",
+    "population": 219346,
+    "region": "West",
+    "majorVenues": [
+      "Greater Tacoma Convention Center",
+      "Tacoma Dome",
+      "Broadway Center"
+    ],
+    "description": "Tacoma hosts Pacific Northwest events at the iconic Tacoma Dome and waterfront festivals."
+  },
+  {
+    "name": "Hialeah",
+    "slug": "hialeah",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "population": 223109,
+    "region": "Southeast",
+    "majorVenues": [
+      "Hialeah Park Racing & Casino",
+      "Milander Center",
+      "Hialeah Stadium"
+    ],
+    "description": "Hialeah hosts Latin cultural celebrations and serves Miami's vibrant bilingual event market."
+  },
+  {
+    "name": "Modesto",
+    "slug": "modesto",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 218464,
+    "region": "West",
+    "majorVenues": [
+      "Modesto Centre Plaza",
+      "Gallo Center for the Arts",
+      "Graceada Park"
+    ],
+    "description": "Modesto hosts agricultural trade shows and Central Valley cultural events."
+  },
+  {
+    "name": "Huntsville",
+    "slug": "huntsville",
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "population": 215006,
+    "region": "Southeast",
+    "majorVenues": [
+      "Von Braun Center",
+      "Toyota Field",
+      "Orion Amphitheater"
+    ],
+    "description": "Huntsville hosts aerospace industry conferences, rocket celebrations, and growing tech sector events."
+  },
+  {
+    "name": "Des Moines",
+    "slug": "des-moines",
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "population": 214133,
+    "region": "Midwest",
+    "majorVenues": [
+      "Iowa Events Center",
+      "Wells Fargo Arena",
+      "Iowa State Fairgrounds"
+    ],
+    "description": "Iowa's capital hosts the famous Iowa State Fair, political caucus events, and agricultural conferences."
+  },
+  {
+    "name": "Baton Rouge",
+    "slug": "baton-rouge",
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "population": 227470,
+    "region": "Southeast",
+    "majorVenues": [
+      "Raising Cane's River Center",
+      "Tiger Stadium",
+      "L'Auberge Casino"
+    ],
+    "description": "Baton Rouge hosts LSU game day events, state government functions, and Cajun cultural celebrations."
+  },
+  {
+    "name": "Salt Lake City",
+    "slug": "salt-lake-city",
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "population": 199723,
+    "region": "West",
+    "majorVenues": [
+      "Salt Palace Convention Center",
+      "Delta Center",
+      "Rice-Eccles Stadium"
+    ],
+    "description": "Salt Lake City hosts Sundance Film Festival gateway events, outdoor industry expos, and major religious conferences."
+  },
+  {
+    "name": "Birmingham",
+    "slug": "birmingham",
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "population": 200733,
+    "region": "Southeast",
+    "majorVenues": [
+      "Birmingham-Jefferson Convention Complex",
+      "Protective Stadium",
+      "Legacy Arena"
+    ],
+    "description": "Birmingham hosts SEC events, civil rights commemorations, and Southern cultural festivals."
+  },
+  {
+    "name": "Rochester",
+    "slug": "rochester",
+    "state": "New York",
+    "stateAbbr": "NY",
+    "population": 211328,
+    "region": "Northeast",
+    "majorVenues": [
+      "Joseph A. Floreano Rochester Riverside Convention Center",
+      "Blue Cross Arena",
+      "Frontier Field"
+    ],
+    "description": "Rochester hosts the Lilac Festival, jazz festivals, and Finger Lakes regional events."
+  },
+  {
+    "name": "Knoxville",
+    "slug": "knoxville",
+    "state": "Tennessee",
+    "stateAbbr": "TN",
+    "population": 190740,
+    "region": "Southeast",
+    "majorVenues": [
+      "Knoxville Convention Center",
+      "Neyland Stadium",
+      "Thompson-Boling Arena"
+    ],
+    "description": "Knoxville hosts University of Tennessee game days, Smoky Mountain festivals, and regional conventions."
+  },
+  {
+    "name": "Chattanooga",
+    "slug": "chattanooga",
+    "state": "Tennessee",
+    "stateAbbr": "TN",
+    "population": 181099,
+    "region": "Southeast",
+    "majorVenues": [
+      "Chattanooga Convention Center",
+      "Finley Stadium",
+      "Tennessee Aquarium"
+    ],
+    "description": "Chattanooga hosts Riverbend Festival, outdoor adventure events, and growing tech industry gatherings."
+  },
+  {
+    "name": "Little Rock",
+    "slug": "little-rock",
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "population": 202591,
+    "region": "Southeast",
+    "majorVenues": [
+      "Statehouse Convention Center",
+      "Simmons Bank Arena",
+      "War Memorial Stadium"
+    ],
+    "description": "Arkansas's capital hosts state government events, Riverfest, and Southern cultural celebrations."
+  },
+  {
+    "name": "Providence",
+    "slug": "providence",
+    "state": "Rhode Island",
+    "stateAbbr": "RI",
+    "population": 190934,
+    "region": "Northeast",
+    "majorVenues": [
+      "Rhode Island Convention Center",
+      "Amica Mutual Pavilion",
+      "Dunkin' Donuts Center"
+    ],
+    "description": "Providence hosts WaterFire events, Ivy League gatherings, and New England cultural festivals."
+  },
+  {
+    "name": "Savannah",
+    "slug": "savannah",
+    "state": "Georgia",
+    "stateAbbr": "GA",
+    "population": 147780,
+    "region": "Southeast",
+    "majorVenues": [
+      "Savannah Convention Center",
+      "Enmarket Arena",
+      "Forsyth Park"
+    ],
+    "description": "Savannah hosts SCAD events, St. Patrick's Day celebrations, and historic Southern festivals."
+  },
+  {
+    "name": "Charleston",
+    "slug": "charleston-sc",
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "population": 150227,
+    "region": "Southeast",
+    "majorVenues": [
+      "Charleston Area Convention Center",
+      "North Charleston Coliseum",
+      "Gaillard Center"
+    ],
+    "description": "Charleston hosts Spoleto Festival USA, food and wine events, and historic district celebrations."
+  },
+  {
+    "name": "Columbia",
+    "slug": "columbia-sc",
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "population": 136632,
+    "region": "Southeast",
+    "majorVenues": [
+      "Columbia Metropolitan Convention Center",
+      "Colonial Life Arena",
+      "Williams-Brice Stadium"
+    ],
+    "description": "South Carolina's capital hosts state government events, USC Gamecocks game days, and regional conventions."
+  },
+  {
+    "name": "Palm Springs",
+    "slug": "palm-springs",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 48390,
+    "region": "West",
+    "majorVenues": [
+      "Palm Springs Convention Center",
+      "Palm Springs Air Museum",
+      "Coachella Valley Music and Arts Festival"
+    ],
+    "description": "Palm Springs hosts Coachella, Stagecoach, and luxury desert resort events drawing global audiences."
+  },
+  {
+    "name": "St. Petersburg",
+    "slug": "st-petersburg",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "population": 258308,
+    "region": "Southeast",
+    "majorVenues": [
+      "Tropicana Field",
+      "Mahaffey Theater",
+      "The Dali Museum"
+    ],
+    "description": "St. Petersburg hosts waterfront arts festivals, Grand Prix racing, and Sunshine City cultural events."
+  },
+  {
+    "name": "Corpus Christi",
+    "slug": "corpus-christi",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "population": 317863,
+    "region": "Southwest",
+    "majorVenues": [
+      "American Bank Center",
+      "Selena Auditorium",
+      "Whataburger Field"
+    ],
+    "description": "Corpus Christi hosts Buc Days, beach festivals, and Gulf Coast maritime events."
+  },
+  {
+    "name": "Detroit",
+    "slug": "detroit",
+    "state": "Michigan",
+    "stateAbbr": "MI",
+    "population": 639111,
+    "region": "Midwest",
+    "majorVenues": [
+      "Huntington Place",
+      "Ford Field",
+      "Little Caesars Arena"
+    ],
+    "description": "Detroit hosts the North American International Auto Show, Motown celebrations, and major sporting events."
+  },
+  {
+    "name": "Grand Rapids",
+    "slug": "grand-rapids",
+    "state": "Michigan",
+    "stateAbbr": "MI",
+    "population": 198917,
+    "region": "Midwest",
+    "majorVenues": [
+      "DeVos Place Convention Center",
+      "Van Andel Arena",
+      "Frederik Meijer Gardens"
+    ],
+    "description": "Grand Rapids hosts ArtPrize, beer city festivals, and West Michigan's largest conventions."
+  },
+  {
+    "name": "Tempe",
+    "slug": "tempe",
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "population": 180587,
+    "region": "Southwest",
+    "majorVenues": [
+      "Tempe Town Lake",
+      "Sun Devil Stadium",
+      "Tempe Center for the Arts"
+    ],
+    "description": "Tempe hosts the Fiesta Bowl, ASU events, and Tempe Town Lake festivals in the Phoenix metro."
+  },
+  {
+    "name": "Fort Lauderdale",
+    "slug": "fort-lauderdale",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "population": 182760,
+    "region": "Southeast",
+    "majorVenues": [
+      "Broward County Convention Center",
+      "FLA Live Arena",
+      "Hard Rock Live"
+    ],
+    "description": "Fort Lauderdale hosts the International Boat Show, spring break events, and year-round beach city celebrations."
+  },
+  {
+    "name": "West Palm Beach",
+    "slug": "west-palm-beach",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "population": 117415,
+    "region": "Southeast",
+    "majorVenues": [
+      "Palm Beach County Convention Center",
+      "iThink Financial Amphitheatre",
+      "Dreher Park"
+    ],
+    "description": "West Palm Beach hosts SunFest, luxury waterfront events, and Palm Beach County conventions."
+  },
+  {
+    "name": "Hartford",
+    "slug": "hartford",
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "population": 121054,
+    "region": "Northeast",
+    "majorVenues": [
+      "Connecticut Convention Center",
+      "XL Center",
+      "Bushnell Center"
+    ],
+    "description": "Connecticut's capital hosts insurance industry conferences, cultural arts events, and New England regional gatherings."
+  },
+  {
+    "name": "Trenton",
+    "slug": "trenton",
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "population": 90871,
+    "region": "Northeast",
+    "majorVenues": [
+      "CURE Insurance Arena",
+      "War Memorial",
+      "Patriots Theater"
+    ],
+    "description": "New Jersey's capital hosts state government events and serves the Philadelphia-New York corridor."
+  },
+  {
+    "name": "Dover",
+    "slug": "dover",
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "population": 39403,
+    "region": "Northeast",
+    "majorVenues": [
+      "Dover Downs",
+      "Dover International Speedway",
+      "Legislative Hall"
+    ],
+    "description": "Delaware's capital hosts NASCAR races at Dover Motor Speedway and state government events."
+  },
+  {
+    "name": "Wilmington",
+    "slug": "wilmington-de",
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "population": 70898,
+    "region": "Northeast",
+    "majorVenues": [
+      "Chase Center on the Riverfront",
+      "The Grand Opera House",
+      "Frawley Stadium"
+    ],
+    "description": "Wilmington hosts corporate events for major banking institutions and Brandywine Valley cultural celebrations."
+  },
+  {
+    "name": "Annapolis",
+    "slug": "annapolis",
+    "state": "Maryland",
+    "stateAbbr": "MD",
+    "population": 40812,
+    "region": "Northeast",
+    "majorVenues": [
+      "Navy-Marine Corps Memorial Stadium",
+      "Maryland State House",
+      "City Dock"
+    ],
+    "description": "Maryland's capital hosts Naval Academy events, boat shows, and Chesapeake Bay maritime festivals."
+  },
+  {
+    "name": "Augusta",
+    "slug": "augusta-me",
+    "state": "Maine",
+    "stateAbbr": "ME",
+    "population": 19136,
+    "region": "Northeast",
+    "majorVenues": [
+      "Augusta Civic Center",
+      "Maine State House",
+      "Capitol Park"
+    ],
+    "description": "Maine's capital hosts state government events and New England regional gatherings."
+  },
+  {
+    "name": "Portland",
+    "slug": "portland-me",
+    "state": "Maine",
+    "stateAbbr": "ME",
+    "population": 68408,
+    "region": "Northeast",
+    "majorVenues": [
+      "Cross Insurance Arena",
+      "Merrill Auditorium",
+      "Thompson's Point"
+    ],
+    "description": "Portland hosts craft beer festivals, seafood events, and arts district celebrations in coastal Maine."
+  },
+  {
+    "name": "Montpelier",
+    "slug": "montpelier",
+    "state": "Vermont",
+    "stateAbbr": "VT",
+    "population": 8074,
+    "region": "Northeast",
+    "majorVenues": [
+      "Vermont State House",
+      "Lost Nation Theater",
+      "Montpelier City Hall"
+    ],
+    "description": "The smallest state capital hosts Vermont legislative events and intimate New England cultural gatherings."
+  },
+  {
+    "name": "Burlington",
+    "slug": "burlington",
+    "state": "Vermont",
+    "stateAbbr": "VT",
+    "population": 44743,
+    "region": "Northeast",
+    "majorVenues": [
+      "Flynn Center for the Performing Arts",
+      "Waterfront Park",
+      "Higher Ground"
+    ],
+    "description": "Burlington hosts Lake Champlain festivals, indie music events, and farm-to-table culinary celebrations."
+  },
+  {
+    "name": "Concord",
+    "slug": "concord-nh",
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "population": 43976,
+    "region": "Northeast",
+    "majorVenues": [
+      "Everett Arena",
+      "Capitol Center for the Arts",
+      "New Hampshire State House"
+    ],
+    "description": "New Hampshire's capital hosts primary election events, state government functions, and New England gatherings."
+  },
+  {
+    "name": "Manchester",
+    "slug": "manchester-nh",
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "population": 115644,
+    "region": "Northeast",
+    "majorVenues": [
+      "SNHU Arena",
+      "Fisher Cats Stadium",
+      "Palace Theatre"
+    ],
+    "description": "New Hampshire's largest city hosts presidential primary events, sports events, and regional conferences."
+  },
+  {
+    "name": "Bismarck",
+    "slug": "bismarck",
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "population": 73529,
+    "region": "Midwest",
+    "majorVenues": [
+      "Bismarck Event Center",
+      "North Dakota State Capitol",
+      "United Tribes Powwow Grounds"
+    ],
+    "description": "North Dakota's capital hosts energy industry conferences, Native American cultural events, and state functions."
+  },
+  {
+    "name": "Fargo",
+    "slug": "fargo",
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "population": 125990,
+    "region": "Midwest",
+    "majorVenues": [
+      "Fargodome",
+      "Scheels Arena",
+      "Red River Valley Fairgrounds"
+    ],
+    "description": "Fargo hosts NDSU Bison events, Scandinavian heritage festivals, and northern plains agricultural expos."
+  },
+  {
+    "name": "Pierre",
+    "slug": "pierre",
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "population": 14091,
+    "region": "Midwest",
+    "majorVenues": [
+      "South Dakota State Capitol",
+      "Pierre Civic Center",
+      "LaFramboise Island"
+    ],
+    "description": "South Dakota's capital hosts state government events and Missouri River outdoor celebrations."
+  },
+  {
+    "name": "Sioux Falls",
+    "slug": "sioux-falls",
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "population": 192517,
+    "region": "Midwest",
+    "majorVenues": [
+      "Denny Sanford Premier Center",
+      "Sioux Falls Convention Center",
+      "Falls Park"
+    ],
+    "description": "South Dakota's largest city hosts regional conventions, outdoor festivals, and agricultural events."
+  },
+  {
+    "name": "Helena",
+    "slug": "helena",
+    "state": "Montana",
+    "stateAbbr": "MT",
+    "population": 32315,
+    "region": "West",
+    "majorVenues": [
+      "Helena Civic Center",
+      "Montana State Capitol",
+      "Spring Meadow Lake"
+    ],
+    "description": "Montana's capital hosts state government events, western heritage celebrations, and outdoor recreation expos."
+  },
+  {
+    "name": "Billings",
+    "slug": "billings",
+    "state": "Montana",
+    "stateAbbr": "MT",
+    "population": 117116,
+    "region": "West",
+    "majorVenues": [
+      "MetraPark",
+      "Rimrock Auto Arena",
+      "Dehler Park"
+    ],
+    "description": "Montana's largest city hosts rodeo events, MontanaFair, and northern Rockies regional gatherings."
+  },
+  {
+    "name": "Cheyenne",
+    "slug": "cheyenne",
+    "state": "Wyoming",
+    "stateAbbr": "WY",
+    "population": 65132,
+    "region": "West",
+    "majorVenues": [
+      "Cheyenne Civic Center",
+      "Frontier Park",
+      "Wyoming State Capitol"
+    ],
+    "description": "Wyoming's capital hosts Cheyenne Frontier Days, the world's largest outdoor rodeo, and western heritage events."
+  },
+  {
+    "name": "Juneau",
+    "slug": "juneau",
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "population": 32255,
+    "region": "West",
+    "majorVenues": [
+      "Centennial Hall",
+      "Alaska State Capitol",
+      "Juneau Arts and Culture Center"
+    ],
+    "description": "Alaska's capital hosts legislative events, cruise ship tourism festivals, and wilderness celebration events."
+  },
+  {
+    "name": "Santa Fe",
+    "slug": "santa-fe",
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "population": 87505,
+    "region": "Southwest",
+    "majorVenues": [
+      "Santa Fe Convention Center",
+      "Lensic Performing Arts Center",
+      "Santa Fe Opera"
+    ],
+    "description": "Santa Fe hosts world-class opera seasons, Indian Market, and internationally acclaimed art festivals."
+  },
+  {
+    "name": "Topeka",
+    "slug": "topeka",
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "population": 127473,
+    "region": "Midwest",
+    "majorVenues": [
+      "Stormont Vail Events Center",
+      "Kansas State Capitol",
+      "Kansas Expocentre"
+    ],
+    "description": "Kansas's capital hosts state government events, Fiesta Topeka, and regional agricultural gatherings."
+  },
+  {
+    "name": "Jefferson City",
+    "slug": "jefferson-city",
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "population": 43038,
+    "region": "Midwest",
+    "majorVenues": [
+      "Capitol Plaza Convention Center",
+      "Missouri State Capitol",
+      "Memorial Park"
+    ],
+    "description": "Missouri's capital hosts state government conferences and central Missouri community events."
+  },
+  {
+    "name": "Springfield",
+    "slug": "springfield-mo",
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "population": 169176,
+    "region": "Midwest",
+    "majorVenues": [
+      "JQH Arena",
+      "Hammons Field",
+      "Juanita K. Hammons Hall"
+    ],
+    "description": "Springfield hosts Bass Pro events, Ozarks heritage festivals, and Missouri State university events."
+  },
+  {
+    "name": "Springfield",
+    "slug": "springfield-il",
+    "state": "Illinois",
+    "stateAbbr": "IL",
+    "population": 114394,
+    "region": "Midwest",
+    "majorVenues": [
+      "BOS Center",
+      "Illinois State Fairgrounds",
+      "Abraham Lincoln Presidential Museum"
+    ],
+    "description": "Illinois's capital hosts the Illinois State Fair, Lincoln heritage events, and state government conferences."
+  },
+  {
+    "name": "Lansing",
+    "slug": "lansing",
+    "state": "Michigan",
+    "stateAbbr": "MI",
+    "population": 112644,
+    "region": "Midwest",
+    "majorVenues": [
+      "Lansing Center",
+      "Michigan State Capitol",
+      "Cooley Law School Stadium"
+    ],
+    "description": "Michigan's capital hosts auto industry events, state government functions, and MSU Spartan celebrations."
+  },
+  {
+    "name": "Frankfort",
+    "slug": "frankfort",
+    "state": "Kentucky",
+    "stateAbbr": "KY",
+    "population": 28602,
+    "region": "Southeast",
+    "majorVenues": [
+      "Kentucky State Capitol",
+      "Capital Plaza",
+      "Frankfort Convention Center"
+    ],
+    "description": "Kentucky's capital hosts bourbon trail events, state government functions, and heritage celebrations."
+  },
+  {
+    "name": "Charleston",
+    "slug": "charleston-wv",
+    "state": "West Virginia",
+    "stateAbbr": "WV",
+    "population": 48006,
+    "region": "Southeast",
+    "majorVenues": [
+      "Charleston Civic Center",
+      "Clay Center",
+      "Appalachian Power Park"
+    ],
+    "description": "West Virginia's capital hosts Appalachian cultural events, state government functions, and river city festivals."
+  },
+  {
+    "name": "Harrisburg",
+    "slug": "harrisburg",
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "population": 50099,
+    "region": "Northeast",
+    "majorVenues": [
+      "PA Farm Show Complex",
+      "Whitaker Center",
+      "City Island"
+    ],
+    "description": "Pennsylvania's capital hosts the massive PA Farm Show, state government events, and Susquehanna Valley celebrations."
+  },
+  {
+    "name": "Albany",
+    "slug": "albany",
+    "state": "New York",
+    "stateAbbr": "NY",
+    "population": 99224,
+    "region": "Northeast",
+    "majorVenues": [
+      "Times Union Center",
+      "Albany Capital Center",
+      "Empire State Plaza"
+    ],
+    "description": "New York's capital hosts state government events, Tulip Festival, and Capital Region conventions."
+  },
+  {
+    "name": "Olympia",
+    "slug": "olympia",
+    "state": "Washington",
+    "stateAbbr": "WA",
+    "population": 55605,
+    "region": "West",
+    "majorVenues": [
+      "Washington Center for the Performing Arts",
+      "Washington State Capitol",
+      "Olympia Farmers Market"
+    ],
+    "description": "Washington's capital hosts state government events, Lakefair, and Pacific Northwest cultural celebrations."
+  },
+  {
+    "name": "Salem",
+    "slug": "salem",
+    "state": "Oregon",
+    "stateAbbr": "OR",
+    "population": 175535,
+    "region": "West",
+    "majorVenues": [
+      "Oregon State Fairgrounds",
+      "Oregon State Capitol",
+      "L.B. Day Amphitheatre"
+    ],
+    "description": "Oregon's capital hosts the Oregon State Fair, government conferences, and Willamette Valley wine events."
+  },
+  {
+    "name": "Carson City",
+    "slug": "carson-city",
+    "state": "Nevada",
+    "stateAbbr": "NV",
+    "population": 55916,
+    "region": "West",
+    "majorVenues": [
+      "Carson City Community Center",
+      "Nevada State Capitol",
+      "Mills Park"
+    ],
+    "description": "Nevada's capital hosts state government events and serves as a gateway to Lake Tahoe gatherings."
+  },
+  {
+    "name": "Jackson",
+    "slug": "jackson-ms",
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "population": 153701,
+    "region": "Southeast",
+    "majorVenues": [
+      "Mississippi Coliseum",
+      "Mississippi Trade Mart",
+      "Smith Wills Stadium"
+    ],
+    "description": "Mississippi's capital hosts state government events, blues heritage festivals, and Southern cultural celebrations."
+  },
+  {
+    "name": "Montgomery",
+    "slug": "montgomery",
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "population": 200603,
+    "region": "Southeast",
+    "majorVenues": [
+      "Renaissance Montgomery Hotel & Convention Center",
+      "Riverwalk Stadium",
+      "Alabama State Capitol"
+    ],
+    "description": "Alabama's capital hosts civil rights commemorations, state government events, and Southern heritage festivals."
+  },
+  {
+    "name": "Tallahassee",
+    "slug": "tallahassee",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "population": 196169,
+    "region": "Southeast",
+    "majorVenues": [
+      "Donald L. Tucker Civic Center",
+      "Doak Campbell Stadium",
+      "Cascades Park"
+    ],
+    "description": "Florida's capital hosts FSU game days, state legislative events, and Southern collegiate celebrations."
+  },
+  {
+    "name": "Daytona Beach",
+    "slug": "daytona-beach",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "population": 72647,
+    "region": "Southeast",
+    "majorVenues": [
+      "Daytona International Speedway",
+      "Ocean Center",
+      "Peabody Auditorium"
+    ],
+    "description": "Daytona Beach hosts the Daytona 500, Bike Week, and year-round motorsports events."
+  },
+  {
+    "name": "Pensacola",
+    "slug": "pensacola",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "population": 54312,
+    "region": "Southeast",
+    "majorVenues": [
+      "Pensacola Bay Center",
+      "Blue Wahoos Stadium",
+      "Saenger Theatre"
+    ],
+    "description": "Pensacola hosts the Blue Angels Homecoming Air Show, Great Gulfcoast Arts Festival, and naval aviation events."
+  },
+  {
+    "name": "Clearwater",
+    "slug": "clearwater",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "population": 117225,
+    "region": "Southeast",
+    "majorVenues": [
+      "Ruth Eckerd Hall",
+      "Coachman Park",
+      "Clearwater Marine Aquarium"
+    ],
+    "description": "Clearwater hosts beach festivals, spring training baseball, and Gulf Coast waterfront events."
+  },
+  {
+    "name": "Gainesville",
+    "slug": "gainesville",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "population": 141085,
+    "region": "Southeast",
+    "majorVenues": [
+      "Ben Hill Griffin Stadium",
+      "O'Connell Center",
+      "Bo Diddley Plaza"
+    ],
+    "description": "Gainesville hosts UF Gators game days, the Fest music festival, and north central Florida events."
+  },
+  {
+    "name": "Sarasota",
+    "slug": "sarasota",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "population": 57738,
+    "region": "Southeast",
+    "majorVenues": [
+      "Van Wezel Performing Arts Hall",
+      "Ed Smith Stadium",
+      "Nathan Benderson Park"
+    ],
+    "description": "Sarasota hosts rowing championships, circus arts festivals, and Gulf Coast cultural events."
+  },
+  {
+    "name": "Naples",
+    "slug": "naples",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "population": 22088,
+    "region": "Southeast",
+    "majorVenues": [
+      "Artis-Naples",
+      "Naples Philharmonic",
+      "Naples Pier"
+    ],
+    "description": "Naples hosts luxury charity galas, wine festivals, and upscale Gulf Coast cultural events."
+  },
+  {
+    "name": "Key West",
+    "slug": "key-west",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "population": 25478,
+    "region": "Southeast",
+    "majorVenues": [
+      "Key West Amphitheater",
+      "Mallory Square",
+      "Fort Zachary Taylor"
+    ],
+    "description": "Key West hosts Fantasy Fest, Hemingway Days, and island destination events in America's tropical paradise."
+  },
+  {
+    "name": "Boca Raton",
+    "slug": "boca-raton",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "population": 99805,
+    "region": "Southeast",
+    "majorVenues": [
+      "Boca Raton Resort & Club",
+      "FAU Stadium",
+      "Mizner Park Amphitheater"
+    ],
+    "description": "Boca Raton hosts luxury corporate retreats, charity galas, and South Florida cultural events."
+  },
+  {
+    "name": "Cape Coral",
+    "slug": "cape-coral",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "population": 204510,
+    "region": "Southeast",
+    "majorVenues": [
+      "Sun Splash Festival Grounds",
+      "Cape Coral Yacht Club",
+      "Cultural Park Theatre"
+    ],
+    "description": "Cape Coral hosts Gulf Coast waterfront festivals, boat parades, and southwest Florida community events."
+  },
+  {
+    "name": "Palm Beach",
+    "slug": "palm-beach",
+    "state": "Florida",
+    "stateAbbr": "FL",
+    "population": 9490,
+    "region": "Southeast",
+    "majorVenues": [
+      "The Breakers",
+      "Mar-a-Lago",
+      "Palm Beach Convention Center"
+    ],
+    "description": "Palm Beach hosts luxury charity galas, polo events, and high-society gatherings at world-class resorts."
+  },
+  {
+    "name": "Eugene",
+    "slug": "eugene",
+    "state": "Oregon",
+    "stateAbbr": "OR",
+    "population": 176654,
+    "region": "West",
+    "majorVenues": [
+      "Matthew Knight Arena",
+      "Autzen Stadium",
+      "Lane Events Center"
+    ],
+    "description": "Eugene hosts Oregon Ducks events, USA Track & Field trials, and Willamette Valley gatherings."
+  },
+  {
+    "name": "Bend",
+    "slug": "bend",
+    "state": "Oregon",
+    "stateAbbr": "OR",
+    "population": 102059,
+    "region": "West",
+    "majorVenues": [
+      "Hayden Homes Amphitheater",
+      "Tower Theatre",
+      "Athletic Club of Bend"
+    ],
+    "description": "Bend hosts outdoor recreation events, craft brewery festivals, and Pacific Northwest adventure gatherings."
+  },
+  {
+    "name": "Asheville",
+    "slug": "asheville",
+    "state": "North Carolina",
+    "stateAbbr": "NC",
+    "population": 94589,
+    "region": "Southeast",
+    "majorVenues": [
+      "US Cellular Center",
+      "Thomas Wolfe Auditorium",
+      "Biltmore Estate"
+    ],
+    "description": "Asheville hosts craft beer festivals, Biltmore events, and Blue Ridge Mountain arts celebrations."
+  },
+  {
+    "name": "Wilmington",
+    "slug": "wilmington-nc",
+    "state": "North Carolina",
+    "stateAbbr": "NC",
+    "population": 115451,
+    "region": "Southeast",
+    "majorVenues": [
+      "Wilmington Convention Center",
+      "Thalian Hall",
+      "Live Oak Bank Pavilion"
+    ],
+    "description": "Wilmington hosts the Azalea Festival, Cucalorus Film Festival, and coastal Carolina events."
+  },
+  {
+    "name": "Greenville",
+    "slug": "greenville-sc",
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "population": 72095,
+    "region": "Southeast",
+    "majorVenues": [
+      "Bon Secours Wellness Arena",
+      "Peace Center",
+      "Fluor Field"
+    ],
+    "description": "Greenville hosts Artisphere, Falls Park events, and the growing upstate South Carolina convention scene."
+  },
+  {
+    "name": "Myrtle Beach",
+    "slug": "myrtle-beach",
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "population": 35682,
+    "region": "Southeast",
+    "majorVenues": [
+      "Myrtle Beach Convention Center",
+      "Alabama Theatre",
+      "House of Blues"
+    ],
+    "description": "Myrtle Beach hosts beach music festivals, bike rallies, and year-round coastal tourism events."
+  },
+  {
+    "name": "Hilton Head",
+    "slug": "hilton-head",
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "population": 40000,
+    "region": "Southeast",
+    "majorVenues": [
+      "Shelter Cove Community Park",
+      "Harbour Town Lighthouse",
+      "Arts Center of Coastal Carolina"
+    ],
+    "description": "Hilton Head hosts the RBC Heritage golf tournament and luxury resort destination events."
+  },
+  {
+    "name": "Augusta",
+    "slug": "augusta-ga",
+    "state": "Georgia",
+    "stateAbbr": "GA",
+    "population": 202081,
+    "region": "Southeast",
+    "majorVenues": [
+      "Augusta National Golf Club",
+      "James Brown Arena",
+      "Bell Auditorium"
+    ],
+    "description": "Augusta hosts The Masters golf tournament, one of the world's most prestigious sporting events."
+  },
+  {
+    "name": "Macon",
+    "slug": "macon",
+    "state": "Georgia",
+    "stateAbbr": "GA",
+    "population": 157346,
+    "region": "Southeast",
+    "majorVenues": [
+      "Macon City Auditorium",
+      "Macon Centreplex",
+      "Atrium Health Amphitheater"
+    ],
+    "description": "Macon hosts the Cherry Blossom Festival, Bragg Jam, and Georgia's middle corridor events."
+  },
+  {
+    "name": "Mobile",
+    "slug": "mobile",
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "population": 187041,
+    "region": "Southeast",
+    "majorVenues": [
+      "Mobile Convention Center",
+      "Ladd-Peebles Stadium",
+      "Saenger Theatre"
+    ],
+    "description": "Mobile hosts America's original Mardi Gras celebration, BayFest, and Gulf Coast maritime events."
+  },
+  {
+    "name": "Biloxi",
+    "slug": "biloxi",
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "population": 46212,
+    "region": "Southeast",
+    "majorVenues": [
+      "Mississippi Coast Coliseum",
+      "IP Casino Resort",
+      "Beau Rivage"
+    ],
+    "description": "Biloxi hosts Gulf Coast casino events, seafood festivals, and Mississippi beach celebrations."
+  },
+  {
+    "name": "Shreveport",
+    "slug": "shreveport",
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "population": 187593,
+    "region": "Southeast",
+    "majorVenues": [
+      "Shreveport Convention Center",
+      "Hirsch Memorial Coliseum",
+      "Independence Stadium"
+    ],
+    "description": "Shreveport hosts the Independence Bowl, Mardi Gras celebrations, and Red River cultural events."
+  },
+  {
+    "name": "Lake Charles",
+    "slug": "lake-charles",
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "population": 84872,
+    "region": "Southeast",
+    "majorVenues": [
+      "Lake Charles Civic Center",
+      "Golden Nugget",
+      "L'Auberge Casino Resort"
+    ],
+    "description": "Lake Charles hosts Mardi Gras celebrations, casino events, and Cajun cultural festivals."
+  },
+  {
+    "name": "Amarillo",
+    "slug": "amarillo",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "population": 200393,
+    "region": "Southwest",
+    "majorVenues": [
+      "Amarillo Civic Center",
+      "Hodgetown",
+      "Globe-News Center"
+    ],
+    "description": "Amarillo hosts the Tri-State Fair, Route 66 events, and Texas Panhandle agricultural celebrations."
+  },
+  {
+    "name": "Waco",
+    "slug": "waco",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "population": 138486,
+    "region": "Southwest",
+    "majorVenues": [
+      "Magnolia Market at the Silos",
+      "Waco Convention Center",
+      "McLane Stadium"
+    ],
+    "description": "Waco hosts Magnolia-brand events, Baylor University gatherings, and Central Texas festivals."
+  },
+  {
+    "name": "Midland",
+    "slug": "midland",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "population": 142344,
+    "region": "Southwest",
+    "majorVenues": [
+      "Midland County Horseshoe",
+      "Wagner Noel Performing Arts Center",
+      "Scharbauer Sports Complex"
+    ],
+    "description": "Midland hosts oil and gas industry conferences and Permian Basin business events."
+  },
+  {
+    "name": "McAllen",
+    "slug": "mcallen",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "population": 142210,
+    "region": "Southwest",
+    "majorVenues": [
+      "McAllen Convention Center",
+      "McAllen Performing Arts Center",
+      "Quinta Mazatlan"
+    ],
+    "description": "McAllen hosts Rio Grande Valley cultural events and cross-border trade celebrations."
+  },
+  {
+    "name": "Galveston",
+    "slug": "galveston",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "population": 53695,
+    "region": "Southwest",
+    "majorVenues": [
+      "Galveston Island Convention Center",
+      "Moody Gardens",
+      "Grand 1894 Opera House"
+    ],
+    "description": "Galveston hosts Mardi Gras celebrations, Dickens on the Strand, and Gulf Coast cruise port events."
+  },
+  {
+    "name": "Fredericksburg",
+    "slug": "fredericksburg-tx",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "population": 11382,
+    "region": "Southwest",
+    "majorVenues": [
+      "Luckenbach Dance Hall",
+      "Fredericksburg Trade Days",
+      "Marktplatz"
+    ],
+    "description": "Fredericksburg hosts Oktoberfest, wildflower festivals, and Texas Hill Country wine events."
+  },
+  {
+    "name": "South Padre Island",
+    "slug": "south-padre-island",
+    "state": "Texas",
+    "stateAbbr": "TX",
+    "population": 2816,
+    "region": "Southwest",
+    "majorVenues": [
+      "South Padre Island Convention Centre",
+      "Schlitterbahn",
+      "Clayton's Beach Bar"
+    ],
+    "description": "South Padre Island hosts spring break events, Sand Castle Days, and Gulf Coast beach celebrations."
+  },
+  {
+    "name": "Akron",
+    "slug": "akron",
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "population": 190469,
+    "region": "Midwest",
+    "majorVenues": [
+      "John S. Knight Center",
+      "Firestone Stadium",
+      "Akron Civic Theatre"
+    ],
+    "description": "Akron hosts the All-American Soap Box Derby, rubber industry events, and Northeast Ohio festivals."
+  },
+  {
+    "name": "Dayton",
+    "slug": "dayton",
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "population": 137644,
+    "region": "Midwest",
+    "majorVenues": [
+      "Dayton Convention Center",
+      "Wright-Patterson AFB",
+      "Nutter Center"
+    ],
+    "description": "Dayton hosts the Dayton Air Show, aviation heritage events, and Wright Brothers celebrations."
+  },
+  {
+    "name": "Syracuse",
+    "slug": "syracuse",
+    "state": "New York",
+    "stateAbbr": "NY",
+    "population": 148620,
+    "region": "Northeast",
+    "majorVenues": [
+      "Oncenter Convention Center",
+      "JMA Wireless Dome",
+      "NBT Bank Stadium"
+    ],
+    "description": "Syracuse hosts the Great New York State Fair and major college sporting events."
+  },
+  {
+    "name": "Rapid City",
+    "slug": "rapid-city",
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "population": 77503,
+    "region": "Midwest",
+    "majorVenues": [
+      "The Monument",
+      "Rushmore Plaza Civic Center",
+      "Main Street Square"
+    ],
+    "description": "Rapid City serves as gateway to Mount Rushmore and hosts Black Hills heritage events."
+  },
+  {
+    "name": "Cedar Rapids",
+    "slug": "cedar-rapids",
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "population": 137710,
+    "region": "Midwest",
+    "majorVenues": [
+      "Alliant Energy PowerHouse",
+      "US Cellular Center",
+      "McGrath Amphitheatre"
+    ],
+    "description": "Cedar Rapids hosts the Freedom Festival, Czech Village events, and eastern Iowa regional gatherings."
+  },
+  {
+    "name": "Davenport",
+    "slug": "davenport",
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "population": 101724,
+    "region": "Midwest",
+    "majorVenues": [
+      "TaxSlayer Center",
+      "Rhythm City Casino",
+      "River Center"
+    ],
+    "description": "Davenport hosts Bix Beiderbecke Jazz Festival and Quad Cities events along the Mississippi River."
+  },
+  {
+    "name": "Green Bay",
+    "slug": "green-bay",
+    "state": "Wisconsin",
+    "stateAbbr": "WI",
+    "population": 107395,
+    "region": "Midwest",
+    "majorVenues": [
+      "Lambeau Field",
+      "Resch Center",
+      "KI Convention Center"
+    ],
+    "description": "Green Bay hosts legendary Packers game days and Lambeau Field events year-round."
+  },
+  {
+    "name": "Duluth",
+    "slug": "duluth",
+    "state": "Minnesota",
+    "stateAbbr": "MN",
+    "population": 90880,
+    "region": "Midwest",
+    "majorVenues": [
+      "DECC",
+      "Amsoil Arena",
+      "Bayfront Festival Park"
+    ],
+    "description": "Duluth hosts Grandma's Marathon, Bayfront Blues Festival, and Lake Superior waterfront events."
+  },
+  {
+    "name": "Ann Arbor",
+    "slug": "ann-arbor",
+    "state": "Michigan",
+    "stateAbbr": "MI",
+    "population": 123851,
+    "region": "Midwest",
+    "majorVenues": [
+      "Michigan Stadium",
+      "Crisler Center",
+      "Hill Auditorium"
+    ],
+    "description": "Ann Arbor hosts University of Michigan game days, art fairs, and Southeast Michigan cultural events."
+  },
+  {
+    "name": "Traverse City",
+    "slug": "traverse-city",
+    "state": "Michigan",
+    "stateAbbr": "MI",
+    "population": 15678,
+    "region": "Midwest",
+    "majorVenues": [
+      "City Opera House",
+      "Interlochen Center for the Arts",
+      "Grand Traverse Resort"
+    ],
+    "description": "Traverse City hosts the National Cherry Festival, Traverse City Film Festival, and wine country events."
+  },
+  {
+    "name": "Fort Collins",
+    "slug": "fort-collins",
+    "state": "Colorado",
+    "stateAbbr": "CO",
+    "population": 169810,
+    "region": "West",
+    "majorVenues": [
+      "Canvas Stadium",
+      "The Lincoln Center",
+      "New Belgium Brewing"
+    ],
+    "description": "Fort Collins hosts craft beer festivals, CSU events, and northern Colorado outdoor celebrations."
+  },
+  {
+    "name": "Pueblo",
+    "slug": "pueblo",
+    "state": "Colorado",
+    "stateAbbr": "CO",
+    "population": 111876,
+    "region": "West",
+    "majorVenues": [
+      "Colorado State Fair Grounds",
+      "Pueblo Convention Center",
+      "Riverwalk"
+    ],
+    "description": "Pueblo hosts the Colorado State Fair, Chile & Frijoles Festival, and southern Colorado events."
+  },
+  {
+    "name": "Provo",
+    "slug": "provo",
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "population": 115162,
+    "region": "West",
+    "majorVenues": [
+      "UCCU Center",
+      "Covey Center for the Arts",
+      "Lavell Edwards Stadium"
+    ],
+    "description": "Provo hosts BYU events, tech startup conferences, and Utah Valley cultural celebrations."
+  },
+  {
+    "name": "Ogden",
+    "slug": "ogden",
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "population": 87321,
+    "region": "West",
+    "majorVenues": [
+      "Dee Events Center",
+      "Lindquist Field",
+      "Ogden Amphitheater"
+    ],
+    "description": "Ogden hosts outdoor recreation expos, Ogden Music Festival, and Weber State university events."
+  },
+  {
+    "name": "Park City",
+    "slug": "park-city",
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "population": 8378,
+    "region": "West",
+    "majorVenues": [
+      "Park City Mountain Resort",
+      "Eccles Center",
+      "Egyptian Theatre"
+    ],
+    "description": "Park City hosts the Sundance Film Festival and world-class ski events drawing international audiences."
+  },
+  {
+    "name": "Bozeman",
+    "slug": "bozeman",
+    "state": "Montana",
+    "stateAbbr": "MT",
+    "population": 53293,
+    "region": "West",
+    "majorVenues": [
+      "Brick Breeden Fieldhouse",
+      "The Emerson",
+      "Bridger Bowl"
+    ],
+    "description": "Bozeman hosts ski events, Montana State University gatherings, and Yellowstone gateway celebrations."
+  },
+  {
+    "name": "Missoula",
+    "slug": "missoula",
+    "state": "Montana",
+    "stateAbbr": "MT",
+    "population": 74428,
+    "region": "West",
+    "majorVenues": [
+      "Adams Center",
+      "Dennison Theatre",
+      "Caras Park"
+    ],
+    "description": "Missoula hosts River City Roots Festival, University of Montana events, and Big Sky country celebrations."
+  },
+  {
+    "name": "Whitefish",
+    "slug": "whitefish",
+    "state": "Montana",
+    "stateAbbr": "MT",
+    "population": 8032,
+    "region": "West",
+    "majorVenues": [
+      "Whitefish Mountain Resort",
+      "Great Northern Bar",
+      "O'Shaughnessy Center"
+    ],
+    "description": "Whitefish hosts Glacier National Park gateway events and Montana ski resort celebrations."
+  },
+  {
+    "name": "Coeur d'Alene",
+    "slug": "coeur-dalene",
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "population": 54628,
+    "region": "West",
+    "majorVenues": [
+      "The Coeur d'Alene Resort",
+      "North Idaho Fair & Rodeo",
+      "Kroc Center"
+    ],
+    "description": "Coeur d'Alene hosts Ironman triathlon events, lake resort gatherings, and North Idaho festivals."
+  },
+  {
+    "name": "Sun Valley",
+    "slug": "sun-valley",
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "population": 1786,
+    "region": "West",
+    "majorVenues": [
+      "Sun Valley Resort",
+      "Sun Valley Pavilion",
+      "Trail Creek Cabin"
+    ],
+    "description": "Sun Valley hosts the Allen & Company conference and luxury mountain resort events attracting industry leaders."
+  },
+  {
+    "name": "Twin Falls",
+    "slug": "twin-falls",
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "population": 51807,
+    "region": "West",
+    "majorVenues": [
+      "Canyon Crest Event Center",
+      "Snake River Canyon",
+      "CSI Fine Arts Center"
+    ],
+    "description": "Twin Falls hosts Snake River Canyon events and Magic Valley agricultural celebrations."
+  },
+  {
+    "name": "Jackson",
+    "slug": "jackson-wy",
+    "state": "Wyoming",
+    "stateAbbr": "WY",
+    "population": 10529,
+    "region": "West",
+    "majorVenues": [
+      "Snow King Resort",
+      "Center for the Arts",
+      "Jackson Hole Mountain Resort"
+    ],
+    "description": "Jackson hosts Yellowstone gateway events, luxury ski gatherings, and western heritage celebrations."
+  },
+  {
+    "name": "Cody",
+    "slug": "cody",
+    "state": "Wyoming",
+    "stateAbbr": "WY",
+    "population": 10014,
+    "region": "West",
+    "majorVenues": [
+      "Buffalo Bill Center of the West",
+      "Cody Stampede Grounds",
+      "Cody Theatre"
+    ],
+    "description": "Cody hosts the Cody Nite Rodeo, Buffalo Bill celebrations, and Yellowstone gateway events."
+  },
+  {
+    "name": "Laramie",
+    "slug": "laramie",
+    "state": "Wyoming",
+    "stateAbbr": "WY",
+    "population": 32711,
+    "region": "West",
+    "majorVenues": [
+      "Arena-Auditorium",
+      "War Memorial Stadium",
+      "Wyoming Territorial Prison"
+    ],
+    "description": "Laramie hosts University of Wyoming events and High Plains cultural celebrations."
+  },
+  {
+    "name": "Fairbanks",
+    "slug": "fairbanks",
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "population": 32515,
+    "region": "West",
+    "majorVenues": [
+      "Carlson Center",
+      "Pioneer Park",
+      "University of Alaska Fairbanks"
+    ],
+    "description": "Fairbanks hosts the Midnight Sun Festival, World Ice Art Championships, and Interior Alaska events."
+  },
+  {
+    "name": "Sedona",
+    "slug": "sedona",
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "population": 10336,
+    "region": "Southwest",
+    "majorVenues": [
+      "Sedona Performing Arts Center",
+      "Tlaquepaque Arts Village",
+      "Sedona Cultural Park"
+    ],
+    "description": "Sedona hosts film festivals, wellness retreats, and red rock destination events and weddings."
+  },
+  {
+    "name": "Flagstaff",
+    "slug": "flagstaff",
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "population": 73964,
+    "region": "Southwest",
+    "majorVenues": [
+      "Walkup Skydome",
+      "Orpheum Theater",
+      "Fort Tuthill County Park"
+    ],
+    "description": "Flagstaff hosts Route 66 Days, NAU events, and northern Arizona outdoor festivals."
+  },
+  {
+    "name": "Napa",
+    "slug": "napa",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 79068,
+    "region": "West",
+    "majorVenues": [
+      "Napa Valley Expo",
+      "Uptown Theatre",
+      "BottleRock Festival Grounds"
+    ],
+    "description": "Napa hosts BottleRock Music Festival, wine auctions, and luxury vineyard events in wine country."
+  },
+  {
+    "name": "Santa Barbara",
+    "slug": "santa-barbara",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 88665,
+    "region": "West",
+    "majorVenues": [
+      "Arlington Theatre",
+      "Santa Barbara Bowl",
+      "Lobero Theatre"
+    ],
+    "description": "Santa Barbara hosts the International Film Festival, Fiesta celebrations, and California Riviera events."
+  },
+  {
+    "name": "Monterey",
+    "slug": "monterey",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 28454,
+    "region": "West",
+    "majorVenues": [
+      "Monterey Conference Center",
+      "Monterey Bay Aquarium",
+      "Laguna Seca Raceway"
+    ],
+    "description": "Monterey hosts car week events, jazz festivals, and coastal California conferences."
+  },
+  {
+    "name": "Pasadena",
+    "slug": "pasadena",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 138699,
+    "region": "West",
+    "majorVenues": [
+      "Rose Bowl Stadium",
+      "Pasadena Convention Center",
+      "Pasadena Civic Auditorium"
+    ],
+    "description": "Pasadena hosts the Rose Bowl, Tournament of Roses Parade, and major cultural events."
+  },
+  {
+    "name": "Huntington Beach",
+    "slug": "huntington-beach",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 198711,
+    "region": "West",
+    "majorVenues": [
+      "Huntington Beach Pier",
+      "Pacific City",
+      "International Surfing Museum"
+    ],
+    "description": "Surf City USA hosts the US Open of Surfing, beach festivals, and coastal Orange County events."
+  },
+  {
+    "name": "Carlsbad",
+    "slug": "carlsbad",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 114746,
+    "region": "West",
+    "majorVenues": [
+      "LEGOLAND California",
+      "Omni La Costa Resort",
+      "The Flower Fields"
+    ],
+    "description": "Carlsbad hosts LEGOLAND events, wellness retreats, and San Diego North County festivals."
+  },
+  {
+    "name": "Temecula",
+    "slug": "temecula",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 110003,
+    "region": "West",
+    "majorVenues": [
+      "Pechanga Resort Casino",
+      "Old Town Temecula",
+      "Temecula Valley Wine Country"
+    ],
+    "description": "Temecula hosts wine country festivals, balloon and wine events, and Inland Empire celebrations."
+  },
+  {
+    "name": "Lake Tahoe",
+    "slug": "lake-tahoe",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 21000,
+    "region": "West",
+    "majorVenues": [
+      "Harveys Lake Tahoe",
+      "MontBleu Resort",
+      "Heavenly Village"
+    ],
+    "description": "Lake Tahoe hosts ski industry events, outdoor adventure expos, and luxury mountain resort gatherings."
+  },
+  {
+    "name": "Sonoma",
+    "slug": "sonoma",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 11054,
+    "region": "West",
+    "majorVenues": [
+      "Sonoma Plaza",
+      "Gloria Ferrer Caves",
+      "Sonoma Valley Visitors Bureau"
+    ],
+    "description": "Sonoma hosts wine harvest celebrations, culinary festivals, and Northern California vineyard events."
+  },
+  {
+    "name": "Rancho Mirage",
+    "slug": "rancho-mirage",
+    "state": "California",
+    "stateAbbr": "CA",
+    "population": 18528,
+    "region": "West",
+    "majorVenues": [
+      "Agua Caliente Resort Casino",
+      "The Ritz-Carlton",
+      "The River at Rancho Mirage"
+    ],
+    "description": "Rancho Mirage hosts Coachella Valley desert resort conferences and luxury fundraising galas."
+  },
+  {
+    "name": "Aspen",
+    "slug": "aspen",
+    "state": "Colorado",
+    "stateAbbr": "CO",
+    "population": 7004,
+    "region": "West",
+    "majorVenues": [
+      "Aspen Ideas Festival Venue",
+      "Aspen Music Tent",
+      "Wheeler Opera House"
+    ],
+    "description": "Aspen hosts the Aspen Ideas Festival, X Games, and luxury ski season events requiring premium event staff."
+  },
+  {
+    "name": "Vail",
+    "slug": "vail",
+    "state": "Colorado",
+    "stateAbbr": "CO",
+    "population": 5614,
+    "region": "West",
+    "majorVenues": [
+      "Gerald R. Ford Amphitheater",
+      "Vail Mountain Resort",
+      "Lionshead Village"
+    ],
+    "description": "Vail hosts world-class ski events, summer music festivals, and luxury mountain destination conferences."
+  },
+  {
+    "name": "Telluride",
+    "slug": "telluride",
+    "state": "Colorado",
+    "stateAbbr": "CO",
+    "population": 2607,
+    "region": "West",
+    "majorVenues": [
+      "Telluride Conference Center",
+      "Town Park",
+      "Sheridan Opera House"
+    ],
+    "description": "Telluride hosts the Telluride Film Festival, Bluegrass Festival, and mountain town cultural events."
+  },
+  {
+    "name": "Branson",
+    "slug": "branson",
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "population": 12638,
+    "region": "Midwest",
+    "majorVenues": [
+      "Branson Convention Center",
+      "Silver Dollar City",
+      "Sight & Sound Theatres"
+    ],
+    "description": "Branson hosts family entertainment shows, holiday celebrations, and Ozarks music events year-round."
+  },
+  {
+    "name": "Newport",
+    "slug": "newport",
+    "state": "Rhode Island",
+    "stateAbbr": "RI",
+    "population": 24672,
+    "region": "Northeast",
+    "majorVenues": [
+      "Newport Casino",
+      "Fort Adams State Park",
+      "Rosecliff Mansion"
+    ],
+    "description": "Newport hosts the Newport Folk Festival, Jazz Festival, and Gilded Age mansion events."
+  },
+  {
+    "name": "Atlantic City",
+    "slug": "atlantic-city",
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "population": 38429,
+    "region": "Northeast",
+    "majorVenues": [
+      "Atlantic City Convention Center",
+      "Boardwalk Hall",
+      "Hard Rock Hotel"
+    ],
+    "description": "Atlantic City hosts major boxing events, Miss America, and boardwalk casino entertainment year-round."
+  },
+  {
+    "name": "Saratoga Springs",
+    "slug": "saratoga-springs",
+    "state": "New York",
+    "stateAbbr": "NY",
+    "population": 28491,
+    "region": "Northeast",
+    "majorVenues": [
+      "Saratoga Race Course",
+      "Saratoga Performing Arts Center",
+      "Saratoga Casino"
+    ],
+    "description": "Saratoga Springs hosts world-class horse racing, SPAC concerts, and upstate New York cultural events."
+  },
+  {
+    "name": "Lake Placid",
+    "slug": "lake-placid",
+    "state": "New York",
+    "stateAbbr": "NY",
+    "population": 2521,
+    "region": "Northeast",
+    "majorVenues": [
+      "Olympic Center",
+      "Lake Placid Conference Center",
+      "Whiteface Mountain"
+    ],
+    "description": "Lake Placid hosts Olympic legacy events, winter sports competitions, and Adirondack destination gatherings."
+  },
+  {
+    "name": "Martha's Vineyard",
+    "slug": "marthas-vineyard",
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "population": 17332,
+    "region": "Northeast",
+    "majorVenues": [
+      "Tabernacle",
+      "Agricultural Hall",
+      "Martha's Vineyard Film Festival Venue"
+    ],
+    "description": "Martha's Vineyard hosts film festivals, celebrity charity events, and exclusive island destination gatherings."
+  },
+  {
+    "name": "Nantucket",
+    "slug": "nantucket",
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "population": 11399,
+    "region": "Northeast",
+    "majorVenues": [
+      "Nantucket Dreamland Theater",
+      "Cisco Brewers",
+      "White Elephant Resort"
+    ],
+    "description": "Nantucket hosts wine festivals, film festivals, and exclusive New England island events."
+  },
+  {
+    "name": "Hershey",
+    "slug": "hershey",
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "population": 14257,
+    "region": "Northeast",
+    "majorVenues": [
+      "Hersheypark Stadium",
+      "Giant Center",
+      "Hershey Theatre"
+    ],
+    "description": "Hershey hosts theme park events, concerts at Giant Center, and central Pennsylvania celebrations."
+  },
+  {
+    "name": "Stowe",
+    "slug": "stowe",
+    "state": "Vermont",
+    "stateAbbr": "VT",
+    "population": 4314,
+    "region": "Northeast",
+    "majorVenues": [
+      "Stowe Mountain Resort",
+      "Trapp Family Lodge",
+      "Spruce Peak Arts Center"
+    ],
+    "description": "Stowe hosts ski season events, Oktoberfest, and Vermont mountain resort gatherings."
+  },
+  {
+    "name": "Bar Harbor",
+    "slug": "bar-harbor",
+    "state": "Maine",
+    "stateAbbr": "ME",
+    "population": 5089,
+    "region": "Northeast",
+    "majorVenues": [
+      "Acadia National Park",
+      "Bar Harbor Inn",
+      "Criterion Theatre"
+    ],
+    "description": "Bar Harbor hosts Acadia Night Sky Festival, cruise ship events, and Maine coastal celebrations."
+  },
+  {
+    "name": "Williamsburg",
+    "slug": "williamsburg",
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "population": 15425,
+    "region": "Southeast",
+    "majorVenues": [
+      "Colonial Williamsburg",
+      "Busch Gardens",
+      "William & Mary Hall"
+    ],
+    "description": "Williamsburg hosts colonial heritage events, Busch Gardens festivals, and historic tourism celebrations."
+  },
+  {
+    "name": "Charlottesville",
+    "slug": "charlottesville",
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "population": 46553,
+    "region": "Southeast",
+    "majorVenues": [
+      "John Paul Jones Arena",
+      "The Paramount Theater",
+      "Monticello"
+    ],
+    "description": "Charlottesville hosts UVA events, Virginia Film Festival, and Blue Ridge Mountain celebrations."
+  },
+  {
+    "name": "Hot Springs",
+    "slug": "hot-springs",
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "population": 38797,
+    "region": "Southeast",
+    "majorVenues": [
+      "Hot Springs Convention Center",
+      "Oaklawn Racing Casino Resort",
+      "Bathhouse Row"
+    ],
+    "description": "Hot Springs hosts horse racing at Oaklawn, documentary film festivals, and natural spa events."
+  },
+  {
+    "name": "Fayetteville",
+    "slug": "fayetteville-ar",
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "population": 93949,
+    "region": "Southeast",
+    "majorVenues": [
+      "Bud Walton Arena",
+      "Razorback Stadium",
+      "Walton Arts Center"
+    ],
+    "description": "Fayetteville hosts University of Arkansas events and Northwest Arkansas cultural celebrations."
+  },
+  {
+    "name": "Natchez",
+    "slug": "natchez",
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "population": 14523,
+    "region": "Southeast",
+    "majorVenues": [
+      "Natchez Convention Center",
+      "Natchez Grand Hotel",
+      "Dunleith Historic Inn"
+    ],
+    "description": "Natchez hosts antebellum pilgrimage events, Southern heritage celebrations, and Mississippi River festivals."
+  },
+  {
+    "name": "Deadwood",
+    "slug": "deadwood",
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "population": 1324,
+    "region": "Midwest",
+    "majorVenues": [
+      "Deadwood Mountain Grand",
+      "The Lodge at Deadwood",
+      "Days of '76 Grounds"
+    ],
+    "description": "Deadwood hosts Wild West heritage events, Sturgis Rally overflow, and Black Hills celebrations."
+  },
+  {
+    "name": "Maui",
+    "slug": "maui",
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "population": 164221,
+    "region": "West",
+    "majorVenues": [
+      "Maui Arts & Cultural Center",
+      "Wailea Beach Resort",
+      "Ritz-Carlton Kapalua"
+    ],
+    "description": "Maui hosts luxury destination weddings, corporate retreats, and Hawaiian cultural celebrations."
+  },
+  {
+    "name": "Kailua-Kona",
+    "slug": "kailua-kona",
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "population": 14165,
+    "region": "West",
+    "majorVenues": [
+      "Ironman Village",
+      "King Kamehameha Hotel",
+      "Royal Kona Resort"
+    ],
+    "description": "Kailua-Kona hosts the Ironman World Championship and Big Island resort events."
+  },
+  {
+    "name": "Bellevue",
+    "slug": "bellevue",
+    "state": "Washington",
+    "stateAbbr": "WA",
+    "population": 151854,
+    "region": "West",
+    "majorVenues": [
+      "Meydenbauer Center",
+      "Bellevue Arts Museum",
+      "Bellevue Downtown Park"
+    ],
+    "description": "Bellevue hosts Eastside tech corporate events and Pacific Northwest arts festivals."
+  },
+  {
+    "name": "Peoria",
+    "slug": "peoria-il",
+    "state": "Illinois",
+    "stateAbbr": "IL",
+    "population": 113150,
+    "region": "Midwest",
+    "majorVenues": [
+      "Peoria Civic Center",
+      "Dozer Park",
+      "Riverfront Park"
+    ],
+    "description": "Peoria hosts the Heart of Illinois Fair, Caterpillar industry events, and Illinois River celebrations."
+  },
+  {
+    "name": "Rockford",
+    "slug": "rockford",
+    "state": "Illinois",
+    "stateAbbr": "IL",
+    "population": 148655,
+    "region": "Midwest",
+    "majorVenues": [
+      "BMO Harris Bank Center",
+      "Coronado Performing Arts Center",
+      "Davis Park"
+    ],
+    "description": "Rockford hosts northern Illinois events, Stroll on State, and Rock River Valley festivals."
+  },
+  {
+    "name": "Naperville",
+    "slug": "naperville",
+    "state": "Illinois",
+    "stateAbbr": "IL",
+    "population": 149540,
+    "region": "Midwest",
+    "majorVenues": [
+      "Naper Settlement",
+      "Rotary Hill",
+      "Millennium Carillon"
+    ],
+    "description": "Naperville hosts Ribfest, Last Fling festival, and western Chicago suburbs community events."
+  },
+  {
+    "name": "Springfield",
+    "slug": "springfield-ma",
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "population": 155929,
+    "region": "Northeast",
+    "majorVenues": [
+      "MassMutual Center",
+      "Eastern States Exposition",
+      "Symphony Hall"
+    ],
+    "description": "Springfield hosts the Big E, Basketball Hall of Fame events, and western Massachusetts celebrations."
+  },
+  {
+    "name": "New Haven",
+    "slug": "new-haven",
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "population": 134023,
+    "region": "Northeast",
+    "majorVenues": [
+      "Shubert Theatre",
+      "Yale Bowl",
+      "Toad's Place"
+    ],
+    "description": "New Haven hosts Yale University events, International Festival of Arts & Ideas, and Connecticut gatherings."
+  },
+  {
+    "name": "Stamford",
+    "slug": "stamford",
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "population": 135470,
+    "region": "Northeast",
+    "majorVenues": [
+      "Palace Theatre",
+      "Harbor Point",
+      "Columbus Park"
+    ],
+    "description": "Stamford hosts corporate events and serves the NYC metro Fairfield County market."
+  },
+  {
+    "name": "Worcester",
+    "slug": "worcester",
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "population": 206518,
+    "region": "Northeast",
+    "majorVenues": [
+      "DCU Center",
+      "Polar Park",
+      "Mechanics Hall"
+    ],
+    "description": "Worcester hosts Worcester Red Sox events and central Massachusetts regional gatherings."
+  },
+  {
+    "name": "Erie",
+    "slug": "erie",
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "population": 94831,
+    "region": "Northeast",
+    "majorVenues": [
+      "Erie Insurance Arena",
+      "Warner Theatre",
+      "Presque Isle Downs"
+    ],
+    "description": "Erie hosts CelebrateErie, Presque Isle events, and Great Lakes waterfront festivals."
+  },
+  {
+    "name": "Allentown",
+    "slug": "allentown",
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "population": 126092,
+    "region": "Northeast",
+    "majorVenues": [
+      "PPL Center",
+      "Coca-Cola Park",
+      "J. Birney Crum Stadium"
+    ],
+    "description": "Allentown hosts the Great Allentown Fair, Musikfest overflow, and Lehigh Valley events."
+  },
+  {
+    "name": "Bethlehem",
+    "slug": "bethlehem",
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "population": 75781,
+    "region": "Northeast",
+    "majorVenues": [
+      "Musikfest Grounds",
+      "ArtsQuest Center",
+      "Wind Creek Event Center"
+    ],
+    "description": "Bethlehem hosts Musikfest, Christkindlmarket, and Lehigh Valley cultural celebrations."
+  },
+  {
+    "name": "Overland Park",
+    "slug": "overland-park",
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "population": 197238,
+    "region": "Midwest",
+    "majorVenues": [
+      "Overland Park Convention Center",
+      "Prairiefire",
+      "Sprint Center nearby"
+    ],
+    "description": "Overland Park hosts Kansas City metro corporate events and Johnson County celebrations."
+  },
+  {
+    "name": "Sioux City",
+    "slug": "sioux-city",
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "population": 85797,
+    "region": "Midwest",
+    "majorVenues": [
+      "Tyson Events Center",
+      "Hard Rock Hotel & Casino",
+      "Orpheum Theatre"
+    ],
+    "description": "Sioux City hosts Saturday in the Park festival and tri-state regional events."
+  },
+  {
+    "name": "Cape May",
+    "slug": "cape-may",
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "population": 2768,
+    "region": "Northeast",
+    "majorVenues": [
+      "Cape May Convention Hall",
+      "Cape May Stage",
+      "Congress Hall"
+    ],
+    "description": "Cape May hosts Victorian heritage events, food festivals, and New Jersey shore celebrations."
+  },
+  {
+    "name": "Gettysburg",
+    "slug": "gettysburg",
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "population": 7620,
+    "region": "Northeast",
+    "majorVenues": [
+      "Gettysburg National Military Park",
+      "Majestic Theater",
+      "Eisenhower Hotel"
+    ],
+    "description": "Gettysburg hosts Civil War commemorations, historical reenactments, and heritage tourism events."
+  },
+  {
+    "name": "Cooperstown",
+    "slug": "cooperstown",
+    "state": "New York",
+    "stateAbbr": "NY",
+    "population": 1852,
+    "region": "Northeast",
+    "majorVenues": [
+      "National Baseball Hall of Fame",
+      "Doubleday Field",
+      "Otesaga Resort Hotel"
+    ],
+    "description": "Cooperstown hosts Baseball Hall of Fame inductions and baseball heritage celebrations."
+  },
+  {
+    "name": "Pocatello",
+    "slug": "pocatello",
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "population": 56793,
+    "region": "West",
+    "majorVenues": [
+      "Holt Arena",
+      "Idaho State University",
+      "Pocatello Convention Center"
+    ],
+    "description": "Pocatello hosts Idaho State events, railroad heritage celebrations, and southeastern Idaho gatherings."
+  },
+  {
+    "name": "Sitka",
+    "slug": "sitka",
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "population": 8458,
+    "region": "West",
+    "majorVenues": [
+      "Harrigan Centennial Hall",
+      "Sitka Performing Arts Center",
+      "Alaska Raptor Center"
+    ],
+    "description": "Sitka hosts the Sitka Music Festival, whale watching events, and Southeast Alaska cultural celebrations."
+  },
+  {
+    "name": "Fayetteville",
+    "slug": "fayetteville-nc",
+    "state": "North Carolina",
+    "stateAbbr": "NC",
+    "population": 208501,
+    "region": "Southeast",
+    "majorVenues": [
+      "Crown Coliseum",
+      "Festival Park",
+      "Segra Stadium"
+    ],
+    "description": "Fayetteville hosts Fort Liberty military events and Dogwood Festival celebrations."
+  },
+  {
+    "name": "Greenville",
+    "slug": "greenville-nc",
+    "state": "North Carolina",
+    "stateAbbr": "NC",
+    "population": 92156,
+    "region": "Southeast",
+    "majorVenues": [
+      "Greenville Convention Center",
+      "Dowdy-Ficklen Stadium",
+      "Minges Coliseum"
+    ],
+    "description": "Greenville hosts ECU Pirate events and eastern North Carolina regional gatherings."
+  },
+  {
+    "name": "Tupelo",
+    "slug": "tupelo",
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "population": 38300,
+    "region": "Southeast",
+    "majorVenues": [
+      "BancorpSouth Arena",
+      "Tupelo Furniture Market",
+      "Elvis Presley Birthplace"
+    ],
+    "description": "Tupelo hosts the Furniture Market, Elvis celebrations, and northeast Mississippi events."
+  },
+  {
+    "name": "Mackinac Island",
+    "slug": "mackinac-island",
+    "state": "Michigan",
+    "stateAbbr": "MI",
+    "population": 583,
+    "region": "Midwest",
+    "majorVenues": [
+      "Grand Hotel",
+      "Fort Mackinac",
+      "Mission Point Resort"
+    ],
+    "description": "Mackinac Island hosts the Mackinac Policy Conference, Fudge Festival, and historic island events."
+  },
+  {
+    "name": "Galena",
+    "slug": "galena",
+    "state": "Illinois",
+    "stateAbbr": "IL",
+    "population": 3429,
+    "region": "Midwest",
+    "majorVenues": [
+      "DeSoto House Hotel",
+      "Galena Convention Center",
+      "Eagle Ridge Resort"
+    ],
+    "description": "Galena hosts Midwest getaway events, wine festivals, and historic heritage celebrations."
+  },
+  {
+    "name": "Evansville",
+    "slug": "evansville",
+    "state": "Indiana",
+    "stateAbbr": "IN",
+    "population": 117298,
+    "region": "Midwest",
+    "majorVenues": [
+      "Ford Center",
+      "Mesker Amphitheatre",
+      "Old National Events Plaza"
+    ],
+    "description": "Evansville hosts the West Side Nut Club Fall Festival and southern Indiana regional events."
+  },
+  {
+    "name": "South Bend",
+    "slug": "south-bend",
+    "state": "Indiana",
+    "stateAbbr": "IN",
+    "population": 103453,
+    "region": "Midwest",
+    "majorVenues": [
+      "Notre Dame Stadium",
+      "Morris Performing Arts Center",
+      "Four Winds Field"
+    ],
+    "description": "South Bend hosts Notre Dame game days and northern Indiana cultural celebrations."
+  },
+  {
+    "name": "Bloomington",
+    "slug": "bloomington-in",
+    "state": "Indiana",
+    "stateAbbr": "IN",
+    "population": 79168,
+    "region": "Midwest",
+    "majorVenues": [
+      "Simon Skjodt Assembly Hall",
+      "IU Auditorium",
+      "Buskirk-Chumley Theater"
+    ],
+    "description": "Bloomington hosts Indiana University events, the Lotus World Music Festival, and Little 500 celebrations."
+  },
+  {
+    "name": "Morgantown",
+    "slug": "morgantown",
+    "state": "West Virginia",
+    "stateAbbr": "WV",
+    "population": 30955,
+    "region": "Southeast",
+    "majorVenues": [
+      "WVU Coliseum",
+      "Milan Puskar Stadium",
+      "Mountaineer Field"
+    ],
+    "description": "Morgantown hosts West Virginia University game days, mountain festivals, and Appalachian heritage events."
+  },
+  {
+    "name": "Wheeling",
+    "slug": "wheeling",
+    "state": "West Virginia",
+    "stateAbbr": "WV",
+    "population": 27062,
+    "region": "Southeast",
+    "majorVenues": [
+      "WesBanco Arena",
+      "Capitol Theatre",
+      "Wheeling Island Casino"
+    ],
+    "description": "Wheeling hosts heritage celebrations, Ohio Valley festivals, and historic Capitol Theatre events."
+  },
+  {
+    "name": "Spartanburg",
+    "slug": "spartanburg",
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "population": 37013,
+    "region": "Southeast",
+    "majorVenues": [
+      "Spartanburg Memorial Auditorium",
+      "Barnet Park",
+      "Chapman Cultural Center"
+    ],
+    "description": "Spartanburg hosts Upstate South Carolina arts events and Piedmont regional celebrations."
+  },
+  {
+    "name": "Kiawah Island",
+    "slug": "kiawah-island",
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "population": 1626,
+    "region": "Southeast",
+    "majorVenues": [
+      "Kiawah Island Golf Resort",
+      "The Sanctuary",
+      "Freshfields Village"
+    ],
+    "description": "Kiawah Island hosts PGA Championship events and luxury Lowcountry resort gatherings."
+  },
+  {
+    "name": "Bangor",
+    "slug": "bangor",
+    "state": "Maine",
+    "stateAbbr": "ME",
+    "population": 31753,
+    "region": "Northeast",
+    "majorVenues": [
+      "Cross Insurance Center",
+      "Darling's Waterfront Pavilion",
+      "Bangor Auditorium"
+    ],
+    "description": "Bangor hosts the American Folk Festival, Stephen King celebrations, and northern Maine events."
+  },
+  {
+    "name": "Waterbury",
+    "slug": "waterbury",
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "population": 114403,
+    "region": "Northeast",
+    "majorVenues": [
+      "Palace Theater",
+      "Holy Land USA",
+      "Mattatuck Museum"
+    ],
+    "description": "Waterbury hosts central Connecticut cultural events and community celebrations."
+  },
+  {
+    "name": "Bridgeport",
+    "slug": "bridgeport",
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "population": 148529,
+    "region": "Northeast",
+    "majorVenues": [
+      "Hartford HealthCare Amphitheater",
+      "Total Mortgage Arena",
+      "Seaside Park"
+    ],
+    "description": "Bridgeport hosts waterfront concerts, minor league sports, and Connecticut coastal events."
+  },
+  {
+    "name": "Warwick",
+    "slug": "warwick",
+    "state": "Rhode Island",
+    "stateAbbr": "RI",
+    "population": 82823,
+    "region": "Northeast",
+    "majorVenues": [
+      "Warwick Musical Theatre",
+      "Crowne Plaza Warwick",
+      "Goddard Memorial State Park"
+    ],
+    "description": "Warwick hosts New England community festivals and Rhode Island regional events."
+  },
+  {
+    "name": "Burlington",
+    "slug": "burlington-ia",
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "population": 24321,
+    "region": "Midwest",
+    "majorVenues": [
+      "Memorial Auditorium",
+      "Steamboat Days Grounds",
+      "Catfish Bend Casino"
+    ],
+    "description": "Burlington hosts Steamboat Days, Mississippi River festivals, and Southeast Iowa events."
+  },
+  {
+    "name": "Iowa City",
+    "slug": "iowa-city",
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "population": 74828,
+    "region": "Midwest",
+    "majorVenues": [
+      "Kinnick Stadium",
+      "Hancher Auditorium",
+      "Iowa Memorial Union"
+    ],
+    "description": "Iowa City hosts Hawkeye game days, UNESCO City of Literature events, and Big Ten celebrations."
+  },
+  {
+    "name": "Manhattan",
+    "slug": "manhattan-ks",
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "population": 55602,
+    "region": "Midwest",
+    "majorVenues": [
+      "Bill Snyder Family Stadium",
+      "Bramlage Coliseum",
+      "Flint Hills Discovery Center"
+    ],
+    "description": "Manhattan hosts Kansas State Wildcat events and Flint Hills regional celebrations."
+  },
+  {
+    "name": "Ames",
+    "slug": "ames",
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "population": 66427,
+    "region": "Midwest",
+    "majorVenues": [
+      "Jack Trice Stadium",
+      "Hilton Coliseum",
+      "Stephens Auditorium"
+    ],
+    "description": "Ames hosts Iowa State Cyclone game days, VEISHEA celebrations, and central Iowa events."
+  },
+  {
+    "name": "Rochester",
+    "slug": "rochester-mn",
+    "state": "Minnesota",
+    "stateAbbr": "MN",
+    "population": 121395,
+    "region": "Midwest",
+    "majorVenues": [
+      "Mayo Civic Center",
+      "Rochester Civic Theatre",
+      "History Center of Olmsted County"
+    ],
+    "description": "Rochester hosts Mayo Clinic medical conferences, Rochesterfest, and southern Minnesota events."
+  },
+  {
+    "name": "Columbia",
+    "slug": "columbia-mo",
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "population": 126254,
+    "region": "Midwest",
+    "majorVenues": [
+      "Faurot Field",
+      "Mizzou Arena",
+      "Jesse Auditorium"
+    ],
+    "description": "Columbia hosts Mizzou Tiger game days, True/False Film Fest, and central Missouri celebrations."
+  },
+  {
+    "name": "Norman",
+    "slug": "norman",
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "population": 128026,
+    "region": "Southwest",
+    "majorVenues": [
+      "Gaylord Family Oklahoma Memorial Stadium",
+      "Lloyd Noble Center",
+      "Sam Noble Museum"
+    ],
+    "description": "Norman hosts OU Sooners game days, Medieval Fair, and central Oklahoma university events."
+  },
+  {
+    "name": "Stillwater",
+    "slug": "stillwater",
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "population": 50399,
+    "region": "Southwest",
+    "majorVenues": [
+      "Boone Pickens Stadium",
+      "Gallagher-Iba Arena",
+      "McKnight Center"
+    ],
+    "description": "Stillwater hosts Oklahoma State Cowboys events and north-central Oklahoma celebrations."
+  },
+  {
+    "name": "Hattiesburg",
+    "slug": "hattiesburg",
+    "state": "Mississippi",
+    "stateAbbr": "MS",
+    "population": 46805,
+    "region": "Southeast",
+    "majorVenues": [
+      "Reed Green Coliseum",
+      "Saenger Theater",
+      "Lake Terrace Convention Center"
+    ],
+    "description": "Hattiesburg hosts Southern Miss events and Pine Belt regional celebrations."
+  },
+  {
+    "name": "Bossier City",
+    "slug": "bossier-city",
+    "state": "Louisiana",
+    "stateAbbr": "LA",
+    "population": 68159,
+    "region": "Southeast",
+    "majorVenues": [
+      "Brookshire Grocery Arena",
+      "Margaritaville Resort Casino",
+      "CenturyLink Center"
+    ],
+    "description": "Bossier City hosts arena concerts, casino events, and Ark-La-Tex regional gatherings."
+  },
+  {
+    "name": "Lexington",
+    "slug": "lexington-nc",
+    "state": "North Carolina",
+    "stateAbbr": "NC",
+    "population": 19453,
+    "region": "Southeast",
+    "majorVenues": [
+      "Lexington Barbecue Festival Grounds",
+      "Davidson County Fairgrounds",
+      "Childress Vineyards"
+    ],
+    "description": "Lexington hosts the Barbecue Festival, one of the top food festivals in the South."
+  },
+  {
+    "name": "Sedalia",
+    "slug": "sedalia",
+    "state": "Missouri",
+    "stateAbbr": "MO",
+    "population": 21871,
+    "region": "Midwest",
+    "majorVenues": [
+      "Missouri State Fairgrounds",
+      "Liberty Park",
+      "Katy Depot"
+    ],
+    "description": "Sedalia hosts the Missouri State Fair, Scott Joplin Ragtime Festival, and central Missouri events."
+  },
+  {
+    "name": "Bloomington",
+    "slug": "bloomington-il",
+    "state": "Illinois",
+    "stateAbbr": "IL",
+    "population": 78680,
+    "region": "Midwest",
+    "majorVenues": [
+      "Grossinger Motors Arena",
+      "US Cellular Coliseum",
+      "Illinois State University"
+    ],
+    "description": "Bloomington hosts insurance industry events, Redbird athletics, and central Illinois celebrations."
+  },
+  {
+    "name": "Appleton",
+    "slug": "appleton",
+    "state": "Wisconsin",
+    "stateAbbr": "WI",
+    "population": 75644,
+    "region": "Midwest",
+    "majorVenues": [
+      "Fox Cities Performing Arts Center",
+      "Neuroscience Group Field",
+      "Lawrence University"
+    ],
+    "description": "Appleton hosts Fox Cities events, Octoberfest celebrations, and Fox Valley regional gatherings."
+  },
+  {
+    "name": "La Crosse",
+    "slug": "la-crosse",
+    "state": "Wisconsin",
+    "stateAbbr": "WI",
+    "population": 52680,
+    "region": "Midwest",
+    "majorVenues": [
+      "La Crosse Center",
+      "Riverfest Grounds",
+      "Oktoberfest Grounds"
+    ],
+    "description": "La Crosse hosts Oktoberfest USA, Riverfest, and western Wisconsin river valley events."
+  },
+  {
+    "name": "Eau Claire",
+    "slug": "eau-claire",
+    "state": "Wisconsin",
+    "stateAbbr": "WI",
+    "population": 69421,
+    "region": "Midwest",
+    "majorVenues": [
+      "Pablo Center at the Confluence",
+      "Zorn Arena",
+      "Carson Park"
+    ],
+    "description": "Eau Claire hosts the Eaux Claires Music Festival and Chippewa Valley celebrations."
+  },
+  {
+    "name": "Minot",
+    "slug": "minot",
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "population": 48639,
+    "region": "Midwest",
+    "majorVenues": [
+      "North Dakota State Fair Center",
+      "MSU Dome",
+      "Minot Municipal Auditorium"
+    ],
+    "description": "Minot hosts the North Dakota State Fair, Norsk Hostfest, and northern plains events."
+  },
+  {
+    "name": "Kalispell",
+    "slug": "kalispell",
+    "state": "Montana",
+    "stateAbbr": "MT",
+    "population": 26553,
+    "region": "West",
+    "majorVenues": [
+      "Glacier Park International Airport Events",
+      "Flathead County Fairgrounds",
+      "Wachholz College Center"
+    ],
+    "description": "Kalispell hosts Flathead Valley events, Northwest Montana Fair, and Glacier Park gateway celebrations."
+  },
+  {
+    "name": "Great Falls",
+    "slug": "great-falls",
+    "state": "Montana",
+    "stateAbbr": "MT",
+    "population": 60442,
+    "region": "West",
+    "majorVenues": [
+      "Four Seasons Arena",
+      "Montana ExpoPark",
+      "Mansfield Convention Center"
+    ],
+    "description": "Great Falls hosts the Montana State Fair, Lewis and Clark celebrations, and central Montana events."
+  },
+  {
+    "name": "Casper",
+    "slug": "casper",
+    "state": "Wyoming",
+    "stateAbbr": "WY",
+    "population": 58529,
+    "region": "West",
+    "majorVenues": [
+      "Ford Wyoming Center",
+      "David Street Station",
+      "Casper Events Center"
+    ],
+    "description": "Casper hosts the Central Wyoming Fair, oil industry events, and North Platte River celebrations."
+  },
+  {
+    "name": "St. George",
+    "slug": "st-george",
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "population": 95342,
+    "region": "West",
+    "majorVenues": [
+      "Tuacahn Amphitheatre",
+      "Dixie Convention Center",
+      "Greater Zion Stadium"
+    ],
+    "description": "St. George hosts Ironman St. George, red rock festivals, and southern Utah destination events."
+  },
+  {
+    "name": "Logan",
+    "slug": "logan",
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "population": 52778,
+    "region": "West",
+    "majorVenues": [
+      "Dee Glen Smith Spectrum",
+      "Ellen Eccles Theatre",
+      "Cache County Fairgrounds"
+    ],
+    "description": "Logan hosts Utah State Aggie events, Cache Valley festivals, and northern Utah celebrations."
+  },
+  {
+    "name": "Prescott",
+    "slug": "prescott",
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "population": 46467,
+    "region": "Southwest",
+    "majorVenues": [
+      "Prescott Rodeo Grounds",
+      "Yavapai College Performing Arts Center",
+      "Courthouse Plaza"
+    ],
+    "description": "Prescott hosts the World's Oldest Rodeo, Whiskey Row events, and Arizona highland celebrations."
+  },
+  {
+    "name": "Lake Havasu City",
+    "slug": "lake-havasu-city",
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "population": 57301,
+    "region": "Southwest",
+    "majorVenues": [
+      "Aquatic Center",
+      "London Bridge Resort",
+      "SARA Park"
+    ],
+    "description": "Lake Havasu City hosts spring break events, boat shows, and desert lake festivals."
+  },
+  {
+    "name": "Las Cruces",
+    "slug": "las-cruces",
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "population": 111385,
+    "region": "Southwest",
+    "majorVenues": [
+      "Pan American Center",
+      "Las Cruces Convention Center",
+      "New Mexico Farm & Ranch Heritage Museum"
+    ],
+    "description": "Las Cruces hosts the Whole Enchilada Fiesta, NMSU events, and southern New Mexico celebrations."
+  },
+  {
+    "name": "Roswell",
+    "slug": "roswell",
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "population": 48422,
+    "region": "Southwest",
+    "majorVenues": [
+      "Roswell Convention & Civic Center",
+      "International UFO Museum",
+      "Eastern New Mexico State Fairgrounds"
+    ],
+    "description": "Roswell hosts the UFO Festival, alien-themed celebrations, and southeastern New Mexico events."
+  },
+  {
+    "name": "Broken Arrow",
+    "slug": "broken-arrow",
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "population": 113540,
+    "region": "Southwest",
+    "majorVenues": [
+      "Broken Arrow Performing Arts Center",
+      "Broken Arrow Events Park",
+      "Central Park"
+    ],
+    "description": "Broken Arrow hosts Rooster Days, cultural events, and Tulsa metro community celebrations."
+  },
+  {
+    "name": "Kenai",
+    "slug": "kenai",
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "population": 7424,
+    "region": "West",
+    "majorVenues": [
+      "Kenai Visitors Center",
+      "Kenai River Festival Grounds",
+      "Challenger Learning Center"
+    ],
+    "description": "Kenai hosts the Silver Salmon Derby, river festivals, and Kenai Peninsula outdoor events."
+  },
+  {
+    "name": "Lihue",
+    "slug": "lihue",
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "population": 7301,
+    "region": "West",
+    "majorVenues": [
+      "Kauai War Memorial Convention Hall",
+      "Kukui Grove Center",
+      "Vidinha Stadium"
+    ],
+    "description": "Lihue hosts Kauai island festivals, plantation heritage events, and Garden Isle celebrations."
+  }
+]

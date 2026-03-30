@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Automotive",
+    "slug": "automotive",
+    "description": "The automotive industry is one of the most event-driven sectors in the global economy, relying heavily on experiential marketing to connect consumers with new vehicles, technologies, and brand experiences. From international auto shows and dealer events to test-drive activations and motorsport sponsorships, the demand for polished, knowledgeable event staff is constant and growing.\n\nRentHuman provides the automotive industry with brand ambassadors who understand vehicle features, performance specs, and the art of engaging potential buyers. Our staff are trained to facilitate test drives, manage crowd flow at reveal events, and represent your brand with the professionalism that luxury and performance automotive brands demand.\n\nWhether you are launching a new electric vehicle at a major auto show, activating at a motorsport event, or hosting a private VIP preview for top-tier clients, RentHuman delivers event professionals who elevate every touchpoint of the customer journey.",
+    "commonEvents": ["auto-shows", "test-drive-events", "dealer-launches", "motorsport-activations", "ride-and-drive-programs", "press-reveals"],
+    "commonServices": ["brand-ambassadors", "product-specialists", "trade-show-staff", "registration-staff", "crowd-management", "vip-hosts"],
+    "metaTitle": "Automotive Event Staffing Services | RentHuman",
+    "metaDescription": "Professional automotive event staffing for auto shows, test drives, dealer launches, and motorsport activations. Trained brand ambassadors who know cars.",
+    "faqs": [
+      {
+        "question": "What type of training do your automotive event staff receive?",
+        "answer": "All RentHuman automotive event staff undergo product-specific training that covers vehicle features, brand messaging, competitive positioning, and customer engagement techniques. We work directly with your marketing team to ensure our staff can confidently discuss specs, answer questions, and facilitate test drives."
+      },
+      {
+        "question": "Can you staff large-scale auto shows like NAIAS or the LA Auto Show?",
+        "answer": "Absolutely. RentHuman has extensive experience staffing major auto shows across the country. We can deploy large teams of brand ambassadors, product specialists, and registration staff with the reliability and professionalism these high-profile events demand."
+      },
+      {
+        "question": "Do you provide bilingual staff for automotive events?",
+        "answer": "Yes, we maintain a diverse talent pool that includes bilingual and multilingual event professionals. We can match staffing to your target demographics, whether you need Spanish, Mandarin, Korean, or other language capabilities at your automotive events."
+      },
+      {
+        "question": "How far in advance should we book staff for a vehicle launch event?",
+        "answer": "We recommend booking at least 3-4 weeks in advance for standard events and 6-8 weeks for large-scale vehicle launches or auto shows. However, we maintain a rapid-response network and can often accommodate shorter timelines for urgent staffing needs."
+      }
+    ]
+  },
+  {
+    "name": "Technology",
+    "slug": "technology",
+    "description": "The technology industry thrives on innovation, and its events are no different. From massive trade shows like CES and Web Summit to intimate product demos, hackathons, and developer conferences, tech companies need event staff who can communicate complex products with clarity and enthusiasm.\n\nRentHuman specializes in providing tech-savvy brand ambassadors and event professionals who are comfortable discussing software platforms, hardware specifications, AI capabilities, and emerging technologies. Our staff bridge the gap between technical complexity and consumer understanding, ensuring your product demos and booth experiences leave lasting impressions.\n\nWhether you are a startup showcasing at your first trade show or an enterprise tech company activating across multiple conferences simultaneously, RentHuman scales to meet your needs with staff who are as passionate about technology as your engineering team.",
+    "commonEvents": ["trade-shows", "product-launches", "developer-conferences", "hackathons", "demo-days", "tech-summits"],
+    "commonServices": ["brand-ambassadors", "product-demonstrators", "trade-show-staff", "registration-staff", "lead-generation-staff", "emcees"],
+    "metaTitle": "Technology Event Staffing Services | RentHuman",
+    "metaDescription": "Tech-savvy event staffing for trade shows, product launches, and developer conferences. Brand ambassadors who can demo your product with confidence.",
+    "faqs": [
+      {
+        "question": "Can your staff learn and demo complex technology products?",
+        "answer": "Yes. We recruit talent with strong technical aptitude and provide thorough product training before every event. Our brand ambassadors can walk attendees through software demos, explain technical features, and answer questions about your platform or device with confidence."
+      },
+      {
+        "question": "Do you staff events at CES, MWC, and other major tech conferences?",
+        "answer": "RentHuman is a trusted staffing partner for brands exhibiting at CES, MWC, SXSW Interactive, Web Summit, AWS re:Invent, and dozens of other major tech events. We handle everything from booth staffing to lead scanning and attendee engagement."
+      },
+      {
+        "question": "Can you provide staff for virtual and hybrid tech events?",
+        "answer": "Absolutely. We provide on-camera presenters, virtual booth hosts, and hybrid event coordinators who are experienced with platforms like Hopin, Zoom Events, and custom virtual environments. Our team adapts seamlessly to any event format."
+      },
+      {
+        "question": "How do you ensure staff are up-to-date on the latest tech trends?",
+        "answer": "We maintain a curated roster of tech-enthusiast event professionals who actively follow industry trends. Before each assignment, we conduct comprehensive briefings on your product, competitors, and the broader market context so staff can engage attendees intelligently."
+      }
+    ]
+  },
+  {
+    "name": "Food & Beverage",
+    "slug": "food-beverage",
+    "description": "The food and beverage industry relies on sampling, tastings, and experiential activations to connect consumers with new products and build brand loyalty. From grocery store demos and food truck festivals to restaurant openings and culinary trade shows, the right event staff can make or break a product launch.\n\nRentHuman provides food and beverage brands with professional sampling staff, brand ambassadors, and event coordinators who hold valid food handler certifications and understand the nuances of responsible product promotion. Our staff are trained in proper food safety protocols, portion control, and engaging storytelling that transforms a simple sample into a memorable brand experience.\n\nWhether you are introducing a new snack brand at a natural foods expo, activating at a major food festival, or running a nationwide in-store sampling campaign, RentHuman delivers reliable, enthusiastic staff who drive trial, collect feedback, and convert samplers into loyal customers.",
+    "commonEvents": ["food-festivals", "in-store-sampling", "trade-shows", "restaurant-openings", "culinary-competitions", "product-tastings"],
+    "commonServices": ["brand-ambassadors", "sampling-staff", "product-demonstrators", "street-teams", "event-servers", "food-handlers"],
+    "metaTitle": "Food & Beverage Event Staffing | RentHuman",
+    "metaDescription": "Certified food & beverage event staffing for sampling campaigns, food festivals, and product launches. Staff with food handler certifications and brand passion.",
+    "faqs": [
+      {
+        "question": "Do your food and beverage staff have food handler certifications?",
+        "answer": "Yes, all RentHuman staff assigned to food and beverage activations hold current food handler certifications for their respective states. We ensure compliance with local health department regulations and maintain up-to-date documentation for every team member."
+      },
+      {
+        "question": "Can you run nationwide in-store sampling campaigns?",
+        "answer": "Absolutely. RentHuman has a nationwide network of trained sampling staff who can execute multi-market in-store campaigns at major retailers like Whole Foods, Costco, Target, and Walmart. We handle scheduling, compliance, reporting, and real-time performance tracking."
+      },
+      {
+        "question": "What types of food and beverage events do you staff?",
+        "answer": "We staff everything from intimate wine tastings and restaurant soft openings to massive food festivals, trade shows like Fancy Food Show and Natural Products Expo, grocery store sampling campaigns, food truck events, and CPG product launches."
+      },
+      {
+        "question": "How do your staff handle allergen awareness at food events?",
+        "answer": "Our staff are trained in allergen awareness protocols, including identifying and communicating common allergens like nuts, gluten, dairy, and shellfish. We work with your brand to ensure all ingredient information is accurately conveyed to consumers during sampling."
+      }
+    ]
+  },
+  {
+    "name": "Fashion",
+    "slug": "fashion",
+    "description": "The fashion industry demands event staff who embody style, confidence, and brand sophistication. From runway shows and designer pop-ups to fashion week activations and luxury retail events, having the right team of models, brand ambassadors, and event coordinators is essential to creating the aspirational experiences that fashion brands require.\n\nRentHuman curates fashion-forward event professionals who understand the aesthetics, pace, and etiquette of the fashion world. Our staff can manage VIP guest lists, facilitate press check-ins, assist with backstage coordination, and represent your brand on the sales floor with elegance and product knowledge.\n\nWhether you are activating during New York Fashion Week, launching a new collection at a department store, or hosting a private trunk show for top clients, RentHuman provides the polished, brand-aligned talent that makes your event unforgettable.",
+    "commonEvents": ["fashion-shows", "pop-up-shops", "trunk-shows", "fashion-week-activations", "retail-launch-events", "press-previews"],
+    "commonServices": ["brand-ambassadors", "fitting-models", "vip-hosts", "registration-staff", "retail-event-staff", "personal-shoppers"],
+    "metaTitle": "Fashion Event Staffing Services | RentHuman",
+    "metaDescription": "Sophisticated fashion event staffing for runway shows, pop-ups, fashion week, and luxury retail events. Polished brand ambassadors who embody your aesthetic.",
+    "faqs": [
+      {
+        "question": "Can you provide models and brand ambassadors for fashion week events?",
+        "answer": "Yes, RentHuman maintains a curated roster of fashion-forward brand ambassadors and promotional models experienced in fashion week activations in New York, Los Angeles, Miami, and other major fashion cities. Our talent understands the pace and professionalism these high-profile events require."
+      },
+      {
+        "question": "Do you staff luxury retail events and pop-up shops?",
+        "answer": "Absolutely. We specialize in providing elegant, well-spoken event staff for luxury brand activations, designer pop-ups, and exclusive retail events. Our staff are trained in luxury customer service, product knowledge, and creating the elevated experiences that discerning customers expect."
+      },
+      {
+        "question": "Can your staff match a specific brand aesthetic or dress code?",
+        "answer": "Yes, we carefully select staff who align with your brand's visual identity and aesthetic. We coordinate wardrobing, grooming guidelines, and overall presentation to ensure our team seamlessly represents your brand image at every touchpoint."
+      },
+      {
+        "question": "How quickly can you staff a last-minute fashion event?",
+        "answer": "The fashion industry moves fast, and so do we. While we recommend 2-3 weeks advance notice, our rapid-response network can often staff events within 48-72 hours in major fashion markets like New York, Los Angeles, and Miami."
+      }
+    ]
+  },
+  {
+    "name": "Beauty & Cosmetics",
+    "slug": "beauty-cosmetics",
+    "description": "The beauty and cosmetics industry is built on personal connections, product demonstrations, and transformative experiences. From Sephora in-store activations and beauty counter events to major trade shows like Cosmoprof and influencer-driven product launches, the right event staff can turn product curiosity into brand devotion.\n\nRentHuman provides beauty brands with knowledgeable brand ambassadors who understand skincare routines, makeup application techniques, and the science behind beauty products. Our staff are trained to conduct product demonstrations, offer personalized recommendations, and create the kind of intimate, educational experiences that drive conversion in the beauty space.\n\nWhether you are launching a new skincare line at Ulta, activating at BeautyCon, or hosting a VIP influencer event, RentHuman connects you with beauty-passionate professionals who authentically represent your brand and engage consumers at every level.",
+    "commonEvents": ["beauty-trade-shows", "in-store-activations", "influencer-events", "product-launch-parties", "makeover-events", "beauty-masterclasses"],
+    "commonServices": ["brand-ambassadors", "product-demonstrators", "beauty-advisors", "sampling-staff", "vip-hosts", "street-teams"],
+    "metaTitle": "Beauty & Cosmetics Event Staffing | RentHuman",
+    "metaDescription": "Beauty-savvy event staffing for cosmetics launches, in-store activations, and beauty trade shows. Brand ambassadors trained in product demos and skincare.",
+    "faqs": [
+      {
+        "question": "Do your beauty event staff have product demonstration experience?",
+        "answer": "Yes, our beauty and cosmetics event staff are selected for their knowledge of skincare, makeup, and beauty trends. Many have professional beauty backgrounds and are trained in conducting product demonstrations, shade matching, and personalized consultations."
+      },
+      {
+        "question": "Can you staff in-store activations at Sephora, Ulta, and department stores?",
+        "answer": "Absolutely. RentHuman regularly staffs in-store activations at Sephora, Ulta Beauty, Nordstrom, Bloomingdale's, and other major beauty retailers nationwide. Our staff understand retail environments and can seamlessly integrate with your existing store teams."
+      },
+      {
+        "question": "Do you provide staff for beauty influencer events?",
+        "answer": "Yes, we specialize in staffing influencer-driven beauty events, including launch parties, gifting suites, and content creation events. Our team ensures influencers and VIP guests receive white-glove service while your brand messaging is consistently communicated."
+      },
+      {
+        "question": "Can your staff handle hygiene and sanitation protocols for beauty demos?",
+        "answer": "All our beauty event staff are trained in proper sanitation and hygiene protocols for product demonstrations, including single-use applicator practices, sanitization of tools, and COVID-era health and safety guidelines required by retail partners."
+      }
+    ]
+  },
+  {
+    "name": "Pharmaceutical",
+    "slug": "pharmaceutical",
+    "description": "The pharmaceutical industry operates in one of the most regulated environments for event marketing, requiring staff who understand compliance, medical terminology, and the unique sensitivities of healthcare communications. From medical conferences and HCP (healthcare professional) events to patient education programs and drug launch activations, pharma events demand a specialized approach.\n\nRentHuman provides pharmaceutical companies with event professionals who are trained in FDA compliance guidelines, adverse event reporting protocols, and the distinction between promotional and non-promotional communications. Our staff can manage registration desks, facilitate booth interactions at medical congresses, and support speaker programs with the professionalism and discretion that pharma brands require.\n\nWhether you are activating at ASCO, HIMSS, or a regional medical symposium, RentHuman ensures your event team operates within regulatory boundaries while delivering engaging, informative experiences for healthcare professionals and patients alike.",
+    "commonEvents": ["medical-conferences", "drug-launch-events", "hcp-speaker-programs", "patient-education-events", "medical-trade-shows", "advisory-board-meetings"],
+    "commonServices": ["brand-ambassadors", "registration-staff", "trade-show-staff", "meeting-coordinators", "compliance-trained-staff", "vip-hosts"],
+    "metaTitle": "Pharmaceutical Event Staffing | RentHuman",
+    "metaDescription": "Compliance-trained pharmaceutical event staffing for medical conferences, drug launches, and HCP programs. Staff who understand FDA guidelines and pharma events.",
+    "faqs": [
+      {
+        "question": "Are your staff trained in pharmaceutical compliance and FDA guidelines?",
+        "answer": "Yes, all RentHuman staff assigned to pharmaceutical events receive training on FDA promotional guidelines, adverse event reporting procedures, and the distinction between promotional and medical information. We ensure your event remains fully compliant."
+      },
+      {
+        "question": "Can you staff medical conferences like ASCO, HIMSS, and AMA events?",
+        "answer": "Absolutely. We have extensive experience staffing pharmaceutical and medical device exhibits at major medical congresses across the country. Our team understands the professional environment, attendee expectations, and compliance requirements of these events."
+      },
+      {
+        "question": "Do you provide staff for HCP speaker programs and dinner meetings?",
+        "answer": "Yes, we provide experienced meeting coordinators and event support staff for healthcare professional speaker programs, advisory boards, and dinner meetings. Our staff manage logistics, registration, and attendee engagement while maintaining the professional tone these events require."
+      },
+      {
+        "question": "How do you handle adverse event reporting at pharmaceutical events?",
+        "answer": "Our staff are trained to recognize and properly document potential adverse events reported by attendees. We follow your company's specific AE reporting protocols and escalate any reports immediately to your designated medical affairs or pharmacovigilance contacts."
+      }
+    ]
+  },
+  {
+    "name": "Consumer Packaged Goods",
+    "slug": "cpg",
+    "description": "Consumer packaged goods brands live and die by consumer trial, and experiential marketing is the most powerful tool for driving that trial at scale. From in-store sampling and grocery demos to large-scale festival activations and product launch roadshows, CPG brands need event staff who can turn a free sample into a lifetime customer.\n\nRentHuman delivers experienced sampling staff, brand ambassadors, and street team members who understand the art of consumer engagement. Our professionals are trained in product storytelling, responsible sampling practices, and data collection techniques that help you measure ROI and refine your marketing strategy.\n\nWhether you are launching a new product line at Walmart, sampling at a major music festival, or running a multi-city mobile tour, RentHuman provides the dependable, enthusiastic workforce that makes your CPG activation a success from the first sample to the last.",
+    "commonEvents": ["in-store-sampling", "product-launch-tours", "festival-activations", "mobile-marketing-tours", "grocery-demos", "pop-up-experiences"],
+    "commonServices": ["brand-ambassadors", "sampling-staff", "street-teams", "product-demonstrators", "mobile-tour-staff", "lead-generation-staff"],
+    "metaTitle": "CPG Event Staffing Services | RentHuman",
+    "metaDescription": "Expert CPG event staffing for sampling campaigns, product launches, and mobile tours. Trained brand ambassadors who drive trial and build brand loyalty.",
+    "faqs": [
+      {
+        "question": "Can you staff multi-market sampling campaigns simultaneously?",
+        "answer": "Yes, RentHuman operates a nationwide network of trained sampling staff who can execute campaigns across dozens of markets simultaneously. We handle all local staffing logistics, scheduling, and compliance requirements so you can focus on strategy."
+      },
+      {
+        "question": "How do your staff collect consumer data during CPG activations?",
+        "answer": "Our staff are proficient with leading data capture platforms and mobile survey tools. They can collect email addresses, conduct taste-test surveys, gather demographic information, and scan loyalty program sign-ups, all while maintaining a natural, engaging consumer interaction."
+      },
+      {
+        "question": "Do you provide staff for mobile marketing tours?",
+        "answer": "Absolutely. We specialize in staffing mobile marketing tours and experiential roadshows for CPG brands. Our tour staff are experienced with mobile tour logistics, vehicle-based activations, and maintaining brand consistency across multiple markets and venues."
+      },
+      {
+        "question": "What retail chains can you staff sampling events at?",
+        "answer": "RentHuman staffs sampling events at all major retail chains including Walmart, Target, Costco, Sam's Club, Kroger, Whole Foods, Publix, H-E-B, and hundreds of independent and specialty retailers nationwide. We handle store-specific compliance and scheduling requirements."
+      }
+    ]
+  },
+  {
+    "name": "Sports",
+    "slug": "sports",
+    "description": "The sports industry is fueled by fan passion, and event staffing plays a critical role in creating the electrifying experiences that fans, sponsors, and athletes expect. From stadium activations and fan zones to sports marketing tours and athlete meet-and-greets, professional event staff bring sponsor activations to life and keep operations running smoothly.\n\nRentHuman provides the sports industry with high-energy brand ambassadors, crowd management professionals, and event coordinators who thrive in fast-paced, high-volume environments. Our staff understand the intensity of game-day activations and can engage thousands of fans while maintaining brand standards and safety protocols.\n\nWhether you are activating as a sponsor at the Super Bowl, staffing a fan zone at the NBA All-Star Weekend, or running a youth sports clinic, RentHuman delivers the athletic, engaging, and reliable event professionals that the sports world demands.",
+    "commonEvents": ["stadium-activations", "fan-zone-experiences", "sports-marketing-tours", "athlete-appearances", "youth-sports-clinics", "tailgate-events"],
+    "commonServices": ["brand-ambassadors", "crowd-management", "street-teams", "emcees", "registration-staff", "mascot-performers"],
+    "metaTitle": "Sports Event Staffing Services | RentHuman",
+    "metaDescription": "High-energy sports event staffing for stadium activations, fan zones, and sports marketing tours. Brand ambassadors who thrive in fast-paced game-day settings.",
+    "faqs": [
+      {
+        "question": "Can you staff sponsor activations at major sporting events?",
+        "answer": "Yes, RentHuman is experienced in staffing sponsor activations at NFL, NBA, MLB, NHL, MLS, and NCAA events, as well as major one-off events like the Super Bowl, World Series, and NCAA Final Four. Our staff are trained to engage large crowds while representing your brand professionally."
+      },
+      {
+        "question": "Do you provide staff for stadium and arena events?",
+        "answer": "Absolutely. We provide brand ambassadors, sampling staff, registration teams, and crowd management professionals for stadium and arena activations across the country. Our staff are comfortable in high-energy, high-volume environments and understand venue-specific protocols."
+      },
+      {
+        "question": "Can your staff handle outdoor sports events in various weather conditions?",
+        "answer": "Yes, our sports event staff are selected for their physical fitness and ability to perform in diverse weather conditions. Whether it is a summer tailgate or a winter ski event, our team shows up prepared, energetic, and ready to deliver an outstanding brand experience."
+      },
+      {
+        "question": "How do you ensure fan safety during high-energy activations?",
+        "answer": "Safety is our top priority. Our staff are trained in crowd management, emergency procedures, and de-escalation techniques. We work with your team and venue security to establish protocols that ensure a safe, enjoyable experience for all fans and participants."
+      }
+    ]
+  },
+  {
+    "name": "Entertainment",
+    "slug": "entertainment",
+    "description": "The entertainment industry creates some of the most exciting and memorable event experiences in the world, from film premieres and music festivals to award show gifting suites and streaming platform launch parties. Event staffing in entertainment requires professionals who can match the energy, creativity, and glamour of the industry itself.\n\nRentHuman provides entertainment companies with charismatic brand ambassadors, VIP hosts, and event coordinators who are experienced in red carpet events, celebrity appearances, and large-scale fan activations. Our staff understand the importance of discretion, impeccable presentation, and the ability to adapt quickly in the fast-moving entertainment environment.\n\nWhether you are staffing a movie premiere, managing a gifting lounge at an award show, or activating at Comic-Con, RentHuman delivers the talent that keeps your entertainment event running flawlessly while creating unforgettable moments for attendees.",
+    "commonEvents": ["film-premieres", "music-festivals", "award-show-events", "fan-conventions", "streaming-launch-parties", "press-junkets"],
+    "commonServices": ["brand-ambassadors", "vip-hosts", "registration-staff", "crowd-management", "emcees", "costume-characters"],
+    "metaTitle": "Entertainment Event Staffing | RentHuman",
+    "metaDescription": "Glamorous entertainment event staffing for premieres, music festivals, fan conventions, and award shows. Charismatic brand ambassadors for the spotlight.",
+    "faqs": [
+      {
+        "question": "Can you staff red carpet events and film premieres?",
+        "answer": "Yes, RentHuman regularly staffs red carpet events, film premieres, and press junkets for major studios and production companies. Our VIP hosts and brand ambassadors are experienced in celebrity-adjacent environments and maintain the poise and discretion these events require."
+      },
+      {
+        "question": "Do you staff music festivals and concert activations?",
+        "answer": "Absolutely. We provide brand ambassadors, sampling staff, and event coordinators for music festivals including Coachella, Lollapalooza, SXSW, and dozens of others. Our festival staff are energetic, weather-ready, and experienced in high-volume outdoor environments."
+      },
+      {
+        "question": "Can you provide staff for fan conventions like Comic-Con?",
+        "answer": "Yes, we specialize in staffing fan conventions, pop culture events, and IP activations. Our staff can portray characters, manage interactive experiences, facilitate photo opportunities, and engage passionate fan communities with authentic enthusiasm."
+      },
+      {
+        "question": "How do you handle NDAs and confidentiality for entertainment events?",
+        "answer": "Confidentiality is paramount in entertainment. All RentHuman staff sign comprehensive NDAs before assignment to entertainment events. We have strict policies regarding social media, photography, and information sharing to protect your project's security."
+      }
+    ]
+  },
+  {
+    "name": "Finance",
+    "slug": "finance",
+    "description": "The financial services industry demands event professionals who project credibility, sophistication, and trustworthiness. From investor conferences and fintech trade shows to wealth management seminars and banking customer events, financial institutions need staff who can engage high-net-worth individuals and industry professionals with confidence and polish.\n\nRentHuman provides the finance industry with articulate, professionally presented brand ambassadors and event coordinators who understand the gravitas of financial services marketing. Our staff can manage registration at industry conferences, facilitate networking events, and represent fintech brands at trade shows with the competence that this highly regulated industry expects.\n\nWhether you are hosting an investor day at a five-star hotel, exhibiting at Money 20/20, or activating at a financial advisor conference, RentHuman delivers event professionals who elevate your brand presence and create meaningful connections with your target audience.",
+    "commonEvents": ["investor-conferences", "fintech-trade-shows", "wealth-management-seminars", "banking-customer-events", "financial-advisor-meetings", "product-launch-dinners"],
+    "commonServices": ["brand-ambassadors", "registration-staff", "vip-hosts", "meeting-coordinators", "trade-show-staff", "emcees"],
+    "metaTitle": "Finance Event Staffing Services | RentHuman",
+    "metaDescription": "Polished financial services event staffing for investor conferences, fintech shows, and wealth management events. Professional staff who project credibility.",
+    "faqs": [
+      {
+        "question": "Do your staff understand the regulatory sensitivities of financial events?",
+        "answer": "Yes, our finance event staff are briefed on the regulatory environment of financial services marketing. They understand the importance of compliance language, disclosure requirements, and the distinction between informational and advisory communications."
+      },
+      {
+        "question": "Can you staff high-profile investor conferences and fintech events?",
+        "answer": "Absolutely. RentHuman staffs major financial industry events including Money 20/20, Finovate, Bloomberg conferences, and private investor summits. Our staff are selected for their professional demeanor, business acumen, and ability to engage sophisticated audiences."
+      },
+      {
+        "question": "Do you provide staff for private wealth management client events?",
+        "answer": "Yes, we specialize in staffing intimate, high-touch events for wealth management firms and private banks. Our VIP hosts and event coordinators deliver the white-glove service that high-net-worth clients expect, from check-in to post-event follow-up."
+      },
+      {
+        "question": "How do you ensure confidentiality at financial industry events?",
+        "answer": "We take data privacy and confidentiality seriously. All staff sign NDAs, are trained in data handling protocols, and understand the sensitivity of financial information. We follow strict guidelines for badge scanning, lead capture, and any information they encounter during events."
+      }
+    ]
+  },
+  {
+    "name": "Healthcare",
+    "slug": "healthcare",
+    "description": "Healthcare events require a unique combination of professionalism, empathy, and regulatory awareness. From medical conferences and hospital grand openings to health and wellness expos and patient outreach programs, the healthcare sector needs event staff who can communicate sensitive information with care and accuracy.\n\nRentHuman provides healthcare organizations with event professionals who understand HIPAA considerations, medical terminology basics, and the compassionate communication style that healthcare audiences expect. Our staff can manage conference registration, facilitate health screenings, and support physician education events with the reliability and discretion that healthcare demands.\n\nWhether you are organizing a medical device demonstration, staffing a health fair, or supporting a hospital fundraising gala, RentHuman delivers trained, compliant event professionals who represent the highest standards of the healthcare industry.",
+    "commonEvents": ["medical-conferences", "health-fairs", "hospital-events", "wellness-expos", "medical-device-demos", "fundraising-galas"],
+    "commonServices": ["brand-ambassadors", "registration-staff", "meeting-coordinators", "trade-show-staff", "vip-hosts", "compliance-trained-staff"],
+    "metaTitle": "Healthcare Event Staffing Services | RentHuman",
+    "metaDescription": "Compliant healthcare event staffing for medical conferences, health fairs, and hospital events. Trained professionals who understand HIPAA and patient sensitivity.",
+    "faqs": [
+      {
+        "question": "Are your healthcare event staff trained on HIPAA guidelines?",
+        "answer": "Yes, all staff assigned to healthcare events receive HIPAA awareness training and understand the importance of protecting patient health information. They are trained to handle sensitive materials appropriately and maintain confidentiality at all times."
+      },
+      {
+        "question": "Can you staff medical conferences and continuing education events?",
+        "answer": "Absolutely. RentHuman provides registration staff, meeting coordinators, and brand ambassadors for medical conferences, CME events, and healthcare symposiums. Our staff understand the professional environment and attendee expectations at these specialized events."
+      },
+      {
+        "question": "Do you provide staff for community health fairs and wellness events?",
+        "answer": "Yes, we staff health fairs, wellness expos, and community outreach events for hospitals, health systems, and insurance companies. Our staff are warm, approachable, and skilled at guiding attendees through screenings, educational materials, and enrollment processes."
+      },
+      {
+        "question": "Can your staff assist with medical device demonstrations?",
+        "answer": "Our staff can be trained to support medical device demonstrations under the guidance of your clinical team. They can manage booth logistics, facilitate attendee flow, handle lead capture, and assist with non-clinical aspects of device presentations at trade shows."
+      }
+    ]
+  },
+  {
+    "name": "Retail",
+    "slug": "retail",
+    "description": "Retail is where brand meets consumer face-to-face, and event staffing is the bridge that turns foot traffic into sales. From grand openings and holiday pop-ups to product launches and seasonal promotions, retail events need personable, sales-driven staff who can engage shoppers and drive conversion on the floor.\n\nRentHuman provides retail brands with energetic, customer-focused event professionals who understand visual merchandising, upselling techniques, and the art of creating memorable in-store experiences. Our staff can manage queue lines, demonstrate products, distribute samples, and create the buzz that transforms a standard shopping trip into an event worth sharing on social media.\n\nWhether you are opening a new flagship store, launching a holiday campaign, or running a multi-location promotional tour, RentHuman delivers the retail-savvy staff who increase foot traffic, boost sales, and build lasting brand loyalty.",
+    "commonEvents": ["grand-openings", "holiday-pop-ups", "product-launch-events", "seasonal-promotions", "vip-shopping-events", "in-store-activations"],
+    "commonServices": ["brand-ambassadors", "retail-event-staff", "sampling-staff", "product-demonstrators", "street-teams", "crowd-management"],
+    "metaTitle": "Retail Event Staffing Services | RentHuman",
+    "metaDescription": "Sales-driven retail event staffing for grand openings, pop-ups, and in-store activations. Energetic brand ambassadors who boost foot traffic and conversions.",
+    "faqs": [
+      {
+        "question": "Can you staff grand openings and flagship store launches?",
+        "answer": "Yes, RentHuman specializes in staffing high-energy grand openings and flagship launches for retail brands. We provide crowd management, brand ambassadors, product demonstrators, and VIP hosts who create excitement and drive opening-day sales."
+      },
+      {
+        "question": "Do you provide staff for holiday and seasonal retail events?",
+        "answer": "Absolutely. We scale our staffing to meet the heightened demands of holiday shopping seasons, Black Friday events, and seasonal promotions. Our staff are trained in your products and promotions to maximize every customer interaction during peak retail periods."
+      },
+      {
+        "question": "Can your staff work alongside existing retail employees?",
+        "answer": "Yes, our event staff are trained to integrate seamlessly with your existing retail team. They complement your store employees by focusing on event-specific activities like demonstrations, sampling, and customer engagement while respecting your store's culture and protocols."
+      },
+      {
+        "question": "How do you measure the success of retail event staffing?",
+        "answer": "We provide detailed post-event reports including foot traffic counts, sample distribution numbers, sales lift data, customer feedback, and social media engagement metrics. Our staff are trained to collect the data points that matter most to your retail KPIs."
+      }
+    ]
+  },
+  {
+    "name": "Real Estate",
+    "slug": "real-estate",
+    "description": "The real estate industry uses events to showcase properties, build community interest, and create the aspirational lifestyle experiences that drive purchasing decisions. From luxury open houses and model home tours to groundbreaking ceremonies and real estate investment conferences, the right event staff elevate every property presentation.\n\nRentHuman provides real estate developers, brokerages, and property management firms with polished event professionals who understand the nuances of property marketing. Our staff can greet prospective buyers, manage registration at broker opens, provide guided property tours, and create the welcoming atmosphere that transforms a showing into a sale.\n\nWhether you are launching a luxury condominium development, hosting an investor preview, or managing a large-scale real estate expo, RentHuman delivers sophisticated, knowledgeable event professionals who represent your properties with the same care you put into building them.",
+    "commonEvents": ["open-houses", "groundbreaking-ceremonies", "broker-opens", "real-estate-expos", "model-home-tours", "investor-preview-events"],
+    "commonServices": ["brand-ambassadors", "registration-staff", "vip-hosts", "tour-guides", "meeting-coordinators", "concierge-staff"],
+    "metaTitle": "Real Estate Event Staffing Services | RentHuman",
+    "metaDescription": "Polished real estate event staffing for open houses, groundbreakings, broker opens, and property launches. Sophisticated staff who sell the lifestyle.",
+    "faqs": [
+      {
+        "question": "Can you staff luxury property launch events and open houses?",
+        "answer": "Yes, RentHuman provides elegant, well-spoken event staff for luxury real estate events including penthouse previews, model home tours, and exclusive buyer events. Our staff understand how to create the aspirational atmosphere that high-end properties demand."
+      },
+      {
+        "question": "Do you provide staff for real estate trade shows and expos?",
+        "answer": "Absolutely. We staff real estate expos, investment conferences, and industry trade shows with professional brand ambassadors and registration staff who can engage attendees and represent your developments or services with knowledge and confidence."
+      },
+      {
+        "question": "Can your staff conduct guided property tours?",
+        "answer": "Yes, our staff can be trained on your property's features, amenities, floor plans, and selling points to conduct informed guided tours. They supplement your sales team by managing visitor flow, answering basic questions, and ensuring every guest has a memorable experience."
+      },
+      {
+        "question": "How do your staff handle lead capture at real estate events?",
+        "answer": "Our staff are experienced with CRM systems, digital sign-in platforms, and lead capture tools commonly used in real estate marketing. They collect prospect information, qualify leads based on your criteria, and ensure seamless handoff to your sales team for follow-up."
+      }
+    ]
+  },
+  {
+    "name": "Cannabis",
+    "slug": "cannabis",
+    "description": "The cannabis industry is one of the fastest-growing sectors in the American economy, and its event marketing landscape is evolving rapidly. From dispensary grand openings and cannabis trade shows to 420 festivals and brand ambassador programs, the industry needs event staff who understand the unique regulatory environment and can represent brands professionally in a space that demands credibility and compliance.\n\nRentHuman provides cannabis brands with event professionals who are knowledgeable about cannabis products, consumption methods, and the state-specific regulations that govern marketing and sampling. Our staff can manage age verification, facilitate product education sessions, and engage consumers with the sophistication that the maturing cannabis industry requires.\n\nWhether you are exhibiting at MJBizCon, launching a new dispensary, or activating at a cannabis lifestyle event, RentHuman delivers trained, compliant event staff who help your brand stand out in this competitive and rapidly evolving market.",
+    "commonEvents": ["cannabis-trade-shows", "dispensary-openings", "420-events", "cannabis-lifestyle-festivals", "product-education-sessions", "industry-networking-events"],
+    "commonServices": ["brand-ambassadors", "product-demonstrators", "registration-staff", "compliance-trained-staff", "street-teams", "crowd-management"],
+    "metaTitle": "Cannabis Event Staffing Services | RentHuman",
+    "metaDescription": "Compliant cannabis event staffing for trade shows, dispensary openings, and 420 events. Knowledgeable brand ambassadors trained in cannabis regulations.",
+    "faqs": [
+      {
+        "question": "Are your cannabis event staff trained on state-specific regulations?",
+        "answer": "Yes, all staff assigned to cannabis events receive training on the specific regulations governing cannabis marketing and events in their state. This includes age verification protocols, marketing restrictions, sampling laws, and compliance with local cannabis authority guidelines."
+      },
+      {
+        "question": "Can you staff cannabis trade shows like MJBizCon?",
+        "answer": "Absolutely. RentHuman provides experienced trade show staff, brand ambassadors, and booth personnel for major cannabis industry events including MJBizCon, Hall of Flowers, Benzinga Cannabis Capital Conference, and regional cannabis expos across legal markets."
+      },
+      {
+        "question": "Do your staff understand cannabis products and consumption methods?",
+        "answer": "Yes, our cannabis event professionals are knowledgeable about flower, concentrates, edibles, topicals, and other product categories. They can discuss terpene profiles, dosing information, and consumption methods with the confidence and accuracy that educated cannabis consumers expect."
+      },
+      {
+        "question": "How do you handle age verification at cannabis events?",
+        "answer": "Our staff are trained in strict age verification protocols, including ID checking procedures and wristband distribution systems. We ensure full compliance with 21+ age requirements and work with venue security to maintain a compliant, responsible event environment."
+      }
+    ]
+  },
+  {
+    "name": "Alcohol & Spirits",
+    "slug": "alcohol-spirits",
+    "description": "The alcohol and spirits industry is one of the most active sectors in experiential marketing, driven by tastings, bar activations, festival sponsorships, and brand ambassador programs. From whiskey launch dinners and craft brewery events to large-scale festival activations and nightlife promotions, the industry demands event staff who are certified, charismatic, and deeply knowledgeable about the brands they represent.\n\nRentHuman provides alcohol brands with TIPS-certified or equivalent brand ambassadors who understand responsible serving practices, state-specific alcohol marketing regulations, and the art of engaging consumers through premium tasting experiences. Our staff can pour, present, and educate consumers about your products with the sophistication that spirits, wine, and craft beverage brands expect.\n\nWhether you are launching a new bourbon at Tales of the Cocktail, sampling at a food and wine festival, or running a nationwide bar activation program, RentHuman delivers the experienced, certified event professionals who turn tastings into brand loyalists.",
+    "commonEvents": ["tasting-events", "bar-activations", "festival-sponsorships", "launch-dinners", "nightlife-promotions", "distillery-tours"],
+    "commonServices": ["brand-ambassadors", "sampling-staff", "bartenders", "product-demonstrators", "street-teams", "vip-hosts"],
+    "metaTitle": "Alcohol & Spirits Event Staffing | RentHuman",
+    "metaDescription": "TIPS-certified alcohol event staffing for tastings, bar activations, and spirits launches. Professional brand ambassadors trained in responsible service.",
+    "faqs": [
+      {
+        "question": "Are your alcohol event staff TIPS certified?",
+        "answer": "Yes, all RentHuman staff assigned to alcohol events hold current TIPS (Training for Intervention Procedures) certification or the equivalent certification required in their state. We ensure full compliance with responsible alcohol service regulations."
+      },
+      {
+        "question": "Can you staff large-scale festival and concert alcohol activations?",
+        "answer": "Absolutely. We provide large teams of certified brand ambassadors and bartenders for festival sponsorship activations, concert series, and outdoor events. Our staff are experienced in high-volume environments and understand the logistics of on-site alcohol service."
+      },
+      {
+        "question": "Do you provide brand ambassadors for bar and nightlife activations?",
+        "answer": "Yes, we specialize in on-premise brand ambassador programs for spirits, beer, and wine brands. Our staff visit bars, restaurants, and nightclubs to conduct tastings, educate bartenders, and drive consumer trial in the on-premise environment."
+      },
+      {
+        "question": "How do your staff handle underage prevention at alcohol events?",
+        "answer": "Our staff are rigorously trained in ID verification and underage prevention protocols. They check government-issued identification for every attendee before serving, use wristband systems for age verification, and refuse service to anyone who cannot provide valid proof of legal drinking age."
+      }
+    ]
+  },
+  {
+    "name": "Energy",
+    "slug": "energy",
+    "description": "The energy industry encompasses traditional oil and gas, renewable energy, utilities, and emerging clean tech companies, all of which rely on events to connect with stakeholders, regulators, and consumers. From energy trade shows and sustainability conferences to community outreach events and solar panel demonstrations, the sector needs knowledgeable, articulate event staff who can communicate complex energy concepts clearly.\n\nRentHuman provides energy companies with event professionals who can represent your brand at industry conferences, manage booth experiences at trade shows, and facilitate community engagement events. Our staff are briefed on energy industry terminology, sustainability messaging, and the specific talking points that resonate with both B2B audiences and environmentally conscious consumers.\n\nWhether you are exhibiting at CERAWeek, hosting a community solar information session, or activating at a clean energy expo, RentHuman delivers professional event staff who communicate your energy brand's story with authority and authenticity.",
+    "commonEvents": ["energy-trade-shows", "sustainability-conferences", "community-outreach-events", "product-demonstrations", "investor-presentations", "regulatory-forums"],
+    "commonServices": ["brand-ambassadors", "trade-show-staff", "registration-staff", "meeting-coordinators", "product-demonstrators", "emcees"],
+    "metaTitle": "Energy Industry Event Staffing | RentHuman",
+    "metaDescription": "Professional energy event staffing for trade shows, sustainability conferences, and community outreach. Articulate brand ambassadors for the energy sector.",
+    "faqs": [
+      {
+        "question": "Can your staff represent both traditional and renewable energy brands?",
+        "answer": "Yes, RentHuman provides event staff for the full spectrum of energy companies, from oil and gas majors to solar, wind, and clean tech startups. We tailor our training and staff selection to match your specific brand messaging and audience expectations."
+      },
+      {
+        "question": "Do you staff major energy conferences like CERAWeek?",
+        "answer": "Absolutely. We provide trade show staff, registration teams, and brand ambassadors for major energy industry events including CERAWeek, Solar Power International, Offshore Technology Conference, and regional utility conferences across the country."
+      },
+      {
+        "question": "Can your staff explain technical energy products to consumers?",
+        "answer": "Yes, our staff are trained to communicate complex energy concepts in accessible language. Whether explaining solar panel specifications, EV charging technology, or home energy efficiency products, our team bridges the gap between technical detail and consumer understanding."
+      },
+      {
+        "question": "Do you provide staff for community engagement and outreach events?",
+        "answer": "Yes, we staff community outreach events, town halls, and public information sessions for energy companies. Our staff are selected for their approachable demeanor and ability to address community concerns while delivering your key messages with empathy and clarity."
+      }
+    ]
+  },
+  {
+    "name": "Telecom",
+    "slug": "telecom",
+    "description": "The telecommunications industry operates in one of the most competitive consumer markets, where brand experience and in-person engagement can be the deciding factor in winning and retaining customers. From retail store events and 5G launch activations to industry trade shows and mobile device demos, telecom brands need event staff who can explain complex technology in simple, compelling terms.\n\nRentHuman provides telecom companies with tech-literate brand ambassadors who can demonstrate devices, explain service plans, and drive sign-ups at retail locations, pop-up events, and major conferences. Our staff understand the competitive landscape and can position your brand's advantages while maintaining an approachable, customer-first attitude.\n\nWhether you are launching a new 5G network, activating at Mobile World Congress, or staffing a multi-store retail promotion, RentHuman delivers the knowledgeable, sales-oriented event professionals who turn product curiosity into customer acquisition.",
+    "commonEvents": ["device-launch-events", "retail-store-activations", "trade-shows", "5g-launch-events", "customer-appreciation-events", "pop-up-stores"],
+    "commonServices": ["brand-ambassadors", "product-demonstrators", "retail-event-staff", "lead-generation-staff", "street-teams", "registration-staff"],
+    "metaTitle": "Telecom Event Staffing Services | RentHuman",
+    "metaDescription": "Tech-savvy telecom event staffing for device launches, retail activations, and 5G events. Brand ambassadors who explain complex tech in simple terms.",
+    "faqs": [
+      {
+        "question": "Can your staff demonstrate mobile devices and telecom products?",
+        "answer": "Yes, our brand ambassadors are trained to demonstrate smartphones, tablets, wearables, and home internet products. They can walk customers through device features, compare plans, and highlight the advantages of your network with confidence and enthusiasm."
+      },
+      {
+        "question": "Do you staff device launch events at retail locations?",
+        "answer": "Absolutely. RentHuman provides high-energy launch event staff for new device releases at carrier stores, big-box retailers, and pop-up locations. Our staff drive excitement, manage queues, facilitate device demos, and help convert foot traffic into sales."
+      },
+      {
+        "question": "Can you support multi-location telecom retail promotions?",
+        "answer": "Yes, we operate in every major market nationwide and can staff simultaneous retail promotions across hundreds of locations. We handle all logistics including scheduling, training, and real-time reporting so your marketing team can focus on strategy."
+      },
+      {
+        "question": "How do your staff handle customer sign-ups and activations?",
+        "answer": "Our staff are trained on point-of-sale systems, activation processes, and carrier-specific enrollment procedures. They can process sign-ups, port numbers, and handle basic account setup, helping to reduce wait times and improve the customer experience at your events."
+      }
+    ]
+  },
+  {
+    "name": "Gaming",
+    "slug": "gaming",
+    "description": "The gaming industry creates some of the most immersive and passionate fan communities in the world, and event marketing is where those communities come alive. From E3 and PAX conventions to esports tournaments, game launch parties, and streaming events, the gaming sector needs event staff who are as enthusiastic about gaming culture as the fans they engage.\n\nRentHuman provides gaming companies with brand ambassadors and event professionals who genuinely understand gaming platforms, genres, and communities. Our staff can facilitate demo stations, manage tournament logistics, engage cosplay communities, and create the interactive experiences that gamers share across social media and streaming platforms.\n\nWhether you are showcasing a new title at a major gaming convention, hosting an esports viewing party, or running a midnight launch at retail, RentHuman delivers passionate, knowledgeable event staff who speak the language of gaming and elevate your brand's presence in this high-energy market.",
+    "commonEvents": ["gaming-conventions", "esports-tournaments", "game-launch-events", "streaming-events", "gaming-pop-ups", "community-meetups"],
+    "commonServices": ["brand-ambassadors", "product-demonstrators", "crowd-management", "emcees", "costume-characters", "registration-staff"],
+    "metaTitle": "Gaming Event Staffing Services | RentHuman",
+    "metaDescription": "Passionate gaming event staffing for conventions, esports tournaments, and game launches. Brand ambassadors who speak the language of gaming culture.",
+    "faqs": [
+      {
+        "question": "Do your gaming event staff actually play and understand games?",
+        "answer": "Yes, we specifically recruit event professionals who are genuine gaming enthusiasts. Our gaming event staff are knowledgeable about current titles, platforms, genres, and gaming culture, allowing them to authentically engage with attendees and provide credible product demonstrations."
+      },
+      {
+        "question": "Can you staff major gaming conventions like PAX and E3?",
+        "answer": "Absolutely. RentHuman provides experienced booth staff, demo facilitators, and brand ambassadors for major gaming events including PAX, E3, Gamescom, TwitchCon, and regional gaming expos. We understand the high energy and extended hours these conventions demand."
+      },
+      {
+        "question": "Do you provide staff for esports events and tournaments?",
+        "answer": "Yes, we staff esports tournaments, viewing parties, and competitive gaming events with professionals who understand tournament formats, broadcasting logistics, and the esports community. Our staff can manage check-in, run brackets, and keep events running on schedule."
+      },
+      {
+        "question": "Can your staff manage game demo stations and hands-on experiences?",
+        "answer": "Yes, our gaming event staff are experienced in managing demo stations, including console and PC setups, VR experiences, and mobile game demos. They troubleshoot technical issues, manage play time rotations, and ensure every attendee gets a quality hands-on experience."
+      }
+    ]
+  },
+  {
+    "name": "Travel & Hospitality",
+    "slug": "travel-hospitality",
+    "description": "The travel and hospitality industry is built on experiences, and event marketing is how destinations, hotels, airlines, and cruise lines bring those experiences to potential travelers before they book. From travel trade shows and destination showcases to hotel grand openings and loyalty program events, the industry needs event staff who embody the warmth, professionalism, and wanderlust that inspire people to explore.\n\nRentHuman provides travel and hospitality brands with multilingual, culturally aware brand ambassadors who can represent your destination or property with genuine enthusiasm and deep knowledge. Our staff are experienced in managing VIP guest experiences, facilitating travel advisor events, and creating the immersive showcases that transport attendees to your destination before they ever board a plane.\n\nWhether you are promoting a new resort at a travel expo, hosting a loyalty program appreciation event, or activating at an airport for a new route launch, RentHuman delivers the welcoming, knowledgeable event professionals who make travelers feel at home from the first interaction.",
+    "commonEvents": ["travel-trade-shows", "hotel-grand-openings", "destination-showcases", "loyalty-program-events", "airline-launch-events", "cruise-ship-events"],
+    "commonServices": ["brand-ambassadors", "vip-hosts", "registration-staff", "concierge-staff", "multilingual-staff", "tour-guides"],
+    "metaTitle": "Travel & Hospitality Event Staffing | RentHuman",
+    "metaDescription": "Welcoming travel & hospitality event staffing for trade shows, hotel openings, and destination events. Multilingual brand ambassadors who inspire wanderlust.",
+    "faqs": [
+      {
+        "question": "Do you provide multilingual staff for international travel events?",
+        "answer": "Yes, RentHuman maintains a diverse roster of multilingual event professionals fluent in Spanish, French, Mandarin, Japanese, Portuguese, German, and many other languages. We match language capabilities to your target market and event demographics."
+      },
+      {
+        "question": "Can you staff travel industry trade shows like IPW and World Travel Market?",
+        "answer": "Absolutely. We provide experienced trade show staff, brand ambassadors, and booth personnel for major travel industry events including IPW, World Travel Market, ASTA Global Convention, and regional tourism conferences across the country."
+      },
+      {
+        "question": "Do you staff hotel and resort grand opening events?",
+        "answer": "Yes, we specialize in staffing luxury hotel and resort grand openings, ribbon-cutting ceremonies, and VIP preview events. Our staff deliver the elevated hospitality experience that matches the standards of five-star properties and premium travel brands."
+      },
+      {
+        "question": "Can your staff manage airport activations and airline events?",
+        "answer": "Yes, we provide brand ambassadors and event staff for airport activations, new route launches, and in-terminal promotions. Our staff are comfortable navigating airport environments, security protocols, and the unique logistics of airside and landside activations."
+      }
+    ]
+  },
+  {
+    "name": "Nonprofit",
+    "slug": "nonprofit",
+    "description": "Nonprofit organizations rely on events to raise funds, build awareness, and mobilize communities around their causes. From gala fundraisers and charity auctions to walkathons, volunteer recruitment drives, and advocacy rallies, nonprofits need event staff who are passionate, empathetic, and committed to making every event dollar count.\n\nRentHuman provides nonprofit organizations with dedicated event professionals who understand the mission-driven nature of your work. Our staff can manage registration at fundraising galas, coordinate logistics for large-scale community events, facilitate donor engagement, and ensure your supporters have an exceptional experience that deepens their connection to your cause.\n\nWhether you are hosting a black-tie gala, organizing a 5K charity run, or managing a multi-city awareness campaign, RentHuman delivers reliable, compassionate event professionals who share your commitment to making a positive impact in the world.",
+    "commonEvents": ["fundraising-galas", "charity-auctions", "walkathons", "volunteer-events", "awareness-campaigns", "community-outreach-events"],
+    "commonServices": ["brand-ambassadors", "registration-staff", "event-servers", "crowd-management", "emcees", "volunteer-coordinators"],
+    "metaTitle": "Nonprofit Event Staffing Services | RentHuman",
+    "metaDescription": "Mission-driven nonprofit event staffing for galas, fundraisers, walkathons, and awareness campaigns. Compassionate event professionals who support your cause.",
+    "faqs": [
+      {
+        "question": "Do you offer discounted rates for nonprofit organizations?",
+        "answer": "Yes, RentHuman offers special pricing for registered 501(c)(3) nonprofit organizations. We understand that every dollar matters for mission-driven organizations, and we work within your budget to provide the professional event staffing support you need."
+      },
+      {
+        "question": "Can you staff large-scale fundraising galas and charity events?",
+        "answer": "Absolutely. We provide registration staff, event servers, VIP hosts, and event coordinators for fundraising galas, charity auctions, and donor appreciation events. Our staff understand the importance of creating an elevated experience that inspires generosity."
+      },
+      {
+        "question": "Do you staff walkathons, runs, and outdoor charity events?",
+        "answer": "Yes, we provide enthusiastic event staff for walkathons, charity runs, cycling events, and outdoor fundraisers. Our team manages registration, course marshaling, water stations, and finish line celebrations with the energy and positivity these community events require."
+      },
+      {
+        "question": "Can your staff help with donor engagement and stewardship events?",
+        "answer": "Yes, our event professionals are trained to engage donors with warmth and professionalism. They can facilitate networking, manage VIP experiences, assist with pledge drives, and ensure major donors receive the personal attention that strengthens their long-term commitment to your organization."
+      }
+    ]
+  }
+]
