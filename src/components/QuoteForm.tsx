@@ -14,7 +14,7 @@ export default function QuoteForm({ className = "" }: { className?: string }) {
     const data = new FormData(form);
 
     try {
-      const res = await fetch("https://formspree.io/f/xyzgwqkr", {
+      const res = await fetch("https://formspree.io/f/mnjodzge", {
         method: "POST",
         body: data,
         headers: { Accept: "application/json" },
