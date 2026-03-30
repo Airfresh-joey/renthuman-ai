@@ -15,7 +15,7 @@ export default function ForTalentPage() {
     const data = new FormData(form);
 
     try {
-      const res = await fetch("https://formspree.io/f/mdapgdpo", {
+      const res = await fetch("https://formspree.io/f/xaqlodww", {
         method: "POST",
         body: data,
         headers: { Accept: "application/json" },
