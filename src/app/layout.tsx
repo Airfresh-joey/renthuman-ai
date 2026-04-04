@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
+import Script from "next/script";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -73,6 +74,54 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const serviceSchema = {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    name: "Event Staffing & Brand Ambassador Services",
+    provider: {
+      "@type": "Organization",
+      name: "RentHuman",
+      url: "https://renthuman.ai",
+    },
+    serviceType: "Event Staffing",
+    description:
+      "AI-powered nationwide event staffing including brand ambassadors, promotional models, trade show staff, product sampling, and street teams across all 50 U.S. states.",
+    areaServed: {
+      "@type": "Country",
+      name: "United States",
+    },
+    hasOfferCatalog: {
+      "@type": "OfferCatalog",
+      name: "Event Staffing Services",
+      itemListElement: [
+        { "@type": "Offer", itemOffered: { "@type": "Service", name: "Brand Ambassadors" } },
+        { "@type": "Offer", itemOffered: { "@type": "Service", name: "Trade Show Staff" } },
+        { "@type": "Offer", itemOffered: { "@type": "Service", name: "Promotional Models" } },
+        { "@type": "Offer", itemOffered: { "@type": "Service", name: "Product Sampling Staff" } },
+        { "@type": "Offer", itemOffered: { "@type": "Service", name: "Street Teams" } },
+      ],
+    },
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: "https://renthuman.ai",
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Services",
+        item: "https://renthuman.ai/services",
+      },
+    ],
+  };
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Organization",
@@ -85,7 +134,7 @@ export default function RootLayout({
     areaServed: "US",
     contactPoint: {
       "@type": "ContactPoint",
-      telephone: "+1-888-555-RENT",
+      telephone: "+17205070845",
       contactType: "sales",
       areaServed: "US",
     },
@@ -104,6 +153,14 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} font-sans antialiased bg-dark-950 text-white`}
@@ -111,6 +168,22 @@ export default function RootLayout({
         <Header />
         <main className="pt-20">{children}</main>
         <Footer />
+        {process.env.NEXT_PUBLIC_GA_ID && (
+          <>
+            <Script
+              src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_ID}`}
+              strategy="afterInteractive"
+            />
+            <Script id="ga4-init" strategy="afterInteractive">
+              {`
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', '${process.env.NEXT_PUBLIC_GA_ID}');
+              `}
+            </Script>
+          </>
+        )}
       </body>
     </html>
   );

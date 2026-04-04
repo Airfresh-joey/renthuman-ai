@@ -34,7 +34,7 @@ export default function PrivacyPage() {
           <p>We use cookies and similar technologies to improve your experience on our website, analyze site traffic, and for marketing purposes. You can control cookie settings through your browser.</p>
 
           <h2 className="text-xl font-bold text-white">7. Contact Us</h2>
-          <p>If you have questions about this Privacy Policy, please contact us at privacy@renthuman.ai or (888) 555-RENT.</p>
+          <p>If you have questions about this Privacy Policy, please contact us at privacy@renthuman.ai or (720) 507-0845.</p>
         </div>
       </div>
     </section>
