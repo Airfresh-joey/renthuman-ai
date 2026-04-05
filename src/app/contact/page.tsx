@@ -54,7 +54,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <div className="text-white font-medium">Phone</div>
-                      <div className="text-gray-400">(888) 555-RENT</div>
+                      <div className="text-gray-400">(720) 507-0845</div>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">

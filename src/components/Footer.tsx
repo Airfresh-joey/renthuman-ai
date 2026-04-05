@@ -142,7 +142,7 @@ export default function Footer() {
             <div className="mt-6">
               <h3 className="text-white font-bold text-lg mb-2">Contact</h3>
               <p className="text-gray-400 text-sm">info@renthuman.ai</p>
-              <p className="text-gray-400 text-sm">(888) 555-RENT</p>
+              <p className="text-gray-400 text-sm">(720) 507-0845</p>
             </div>
           </div>
         </div>
