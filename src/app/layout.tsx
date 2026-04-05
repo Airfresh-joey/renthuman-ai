@@ -92,13 +92,12 @@ export default function RootLayout({
         addressRegion: "CO",
         addressCountry: "US",
       },
-      telephone: "+17205070845",
       contactPoint: {
         "@type": "ContactPoint",
-        telephone: "+17205070845",
         contactType: "sales",
         areaServed: "US",
         availableLanguage: "English",
+        email: "info@renthuman.ai",
       },
       parentOrganization: {
         "@type": "Organization",

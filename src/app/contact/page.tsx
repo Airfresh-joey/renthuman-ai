@@ -53,8 +53,8 @@ export default function ContactPage() {
                       </svg>
                     </div>
                     <div>
-                      <div className="text-white font-medium">Phone</div>
-                      <div className="text-gray-400">(720) 507-0845</div>
+                      <div className="text-white font-medium">Email</div>
+                      <div className="text-gray-400">info@renthuman.ai</div>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">

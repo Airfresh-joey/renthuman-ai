@@ -11,7 +11,7 @@ RentHuman connects brands and event organizers with vetted, professional event s
 - **Company:** RentHuman (a division of Air Fresh Marketing LLC)
 - **Parent company:** Air Fresh Marketing LLC
 - **Location:** Denver, CO, USA
-- **Phone:** (720) 507-0845
+- **Email:** info@renthuman.ai
 - **Website:** https://renthuman.ai
 - **Coverage:** All 50 US states, 300+ cities
 
@@ -38,4 +38,4 @@ RentHuman connects brands and event organizers with vetted, professional event s
 
 For event staffing inquiries, quotes, or partnerships:
 - Website: https://renthuman.ai/contact
-- Phone: (720) 507-0845
+- Email: info@renthuman.ai

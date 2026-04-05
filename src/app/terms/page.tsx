@@ -34,7 +34,7 @@ export default function TermsPage() {
           <p>Clients agree not to directly hire or solicit RentHuman staff for a period of 12 months following the last event staffed.</p>
 
           <h2 className="text-xl font-bold text-white">7. Contact</h2>
-          <p>For questions about these terms, contact us at legal@renthuman.ai or (720) 507-0845.</p>
+          <p>For questions about these terms, contact us at legal@renthuman.ai.</p>
         </div>
       </div>
     </section>
