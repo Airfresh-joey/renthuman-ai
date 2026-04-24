@@ -14,6 +14,11 @@ export default function QuoteForm({ className = "" }: { className?: string }) {
     const data = new FormData(form);
 
     try {
+      data.append("_subject", `[RentHuman Quote] New inquiry from ${data.get("name") || "Unknown"}`);
+      data.append("_formName", "renthuman-quote-form");
+      data.append("_website", "renthuman.ai");
+      data.append("_page", "/");
+
       const res = await fetch("https://formspree.io/f/xnjodzey", {
         method: "POST",
         body: data,

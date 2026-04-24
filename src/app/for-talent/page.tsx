@@ -15,6 +15,11 @@ export default function ForTalentPage() {
     const data = new FormData(form);
 
     try {
+      data.append("_subject", `[RentHuman Talent] New Application: ${data.get("name") || data.get("firstName") || "Unknown"}`);
+      data.append("_formName", "renthuman-talent-form");
+      data.append("_website", "renthuman.ai");
+      data.append("_page", "/for-talent");
+
       const res = await fetch("https://formspree.io/f/xaqlodww", {
         method: "POST",
         body: data,
